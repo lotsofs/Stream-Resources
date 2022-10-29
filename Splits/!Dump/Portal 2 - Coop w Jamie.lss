@@ -1,0 +1,994 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Portal 2</GameName>
+  <CategoryName>Coop w/ Jamie</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>171</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1">
+      <RealTime>00:54:04.5430000</RealTime>
+      <GameTime>00:02:10.0830000</GameTime>
+    </Attempt>
+    <Attempt id="2" />
+    <Attempt id="3">
+      <RealTime>00:48:46.4050000</RealTime>
+      <GameTime>00:01:36.9500000</GameTime>
+    </Attempt>
+    <Attempt id="4" />
+    <Attempt id="5">
+      <RealTime>00:47:27.9580000</RealTime>
+      <GameTime>00:01:23.0330000</GameTime>
+    </Attempt>
+    <Attempt id="6" />
+    <Attempt id="7">
+      <RealTime>00:47:13.7940000</RealTime>
+      <GameTime>00:02:09.4500000</GameTime>
+    </Attempt>
+    <Attempt id="8" />
+    <Attempt id="9">
+      <RealTime>00:46:02.1340000</RealTime>
+      <GameTime>00:00:54.1500000</GameTime>
+    </Attempt>
+    <Attempt id="10" />
+    <Attempt id="11" />
+    <Attempt id="12" />
+    <Attempt id="13" />
+    <Attempt id="14">
+      <RealTime>00:47:20.7440000</RealTime>
+      <GameTime>00:02:03.6500000</GameTime>
+    </Attempt>
+    <Attempt id="15">
+      <RealTime>00:46:00.6250000</RealTime>
+      <GameTime>00:01:27.9670000</GameTime>
+    </Attempt>
+    <Attempt id="16">
+      <RealTime>00:44:11.1330000</RealTime>
+      <GameTime>00:01:12</GameTime>
+    </Attempt>
+    <Attempt id="17">
+      <RealTime>00:46:11.5730000</RealTime>
+      <GameTime>00:03:22.3000000</GameTime>
+    </Attempt>
+    <Attempt id="18" started="06/13/2016 00:14:16" isStartedSynced="True" ended="06/13/2016 01:08:20" isEndedSynced="True">
+      <RealTime>00:54:04.0810000</RealTime>
+      <GameTime>00:07:00.7000000</GameTime>
+    </Attempt>
+    <Attempt id="19" started="10/16/2016 21:16:58" isStartedSynced="True" ended="10/16/2016 22:06:41" isEndedSynced="True">
+      <RealTime>00:49:43.0270000</RealTime>
+      <GameTime>00:02:37.1000000</GameTime>
+    </Attempt>
+    <Attempt id="20" started="10/16/2016 22:10:02" isStartedSynced="True" ended="10/16/2016 22:11:58" isEndedSynced="True" />
+    <Attempt id="21" started="10/16/2016 22:12:12" isStartedSynced="True" ended="10/16/2016 22:59:51" isEndedSynced="True">
+      <RealTime>00:47:38.5770000</RealTime>
+      <GameTime>00:01:02.6670000</GameTime>
+    </Attempt>
+    <Attempt id="22" started="10/24/2016 23:14:54" isStartedSynced="True" ended="10/25/2016 01:09:27" isEndedSynced="True" />
+    <Attempt id="23" started="10/25/2016 01:09:55" isStartedSynced="True" ended="10/25/2016 01:56:40" isEndedSynced="True">
+      <RealTime>00:46:44.3880000</RealTime>
+      <GameTime>00:01:08.2670000</GameTime>
+    </Attempt>
+    <Attempt id="24" started="08/12/2017 21:30:45" isStartedSynced="True" ended="08/12/2017 22:20:48" isEndedSynced="True">
+      <RealTime>00:50:02.1610000</RealTime>
+      <GameTime>00:00:50.5830000</GameTime>
+    </Attempt>
+    <Attempt id="25" started="08/27/2017 20:56:26" isStartedSynced="True" ended="08/27/2017 20:58:23" isEndedSynced="True" />
+    <Attempt id="26" started="08/27/2017 21:11:59" isStartedSynced="True" ended="08/27/2017 22:03:15" isEndedSynced="True">
+      <RealTime>00:51:16.1290000</RealTime>
+    </Attempt>
+    <Attempt id="27" started="08/27/2017 22:05:30" isStartedSynced="True" ended="08/27/2017 22:53:51" isEndedSynced="True">
+      <RealTime>00:48:20.3170000</RealTime>
+    </Attempt>
+    <Attempt id="28" started="08/27/2017 23:08:42" isStartedSynced="True" ended="08/27/2017 23:08:43" isEndedSynced="True" />
+    <Attempt id="29" started="08/27/2017 23:13:27" isStartedSynced="True" ended="08/27/2017 23:42:42" isEndedSynced="True" />
+    <Attempt id="30" started="08/27/2017 23:54:42" isStartedSynced="True" ended="08/27/2017 23:54:54" isEndedSynced="True" />
+    <Attempt id="31" started="08/28/2017 00:32:31" isStartedSynced="True" ended="08/28/2017 01:20:08" isEndedSynced="True">
+      <RealTime>00:47:37.3230000</RealTime>
+    </Attempt>
+    <Attempt id="32" started="08/28/2017 16:11:24" isStartedSynced="True" ended="08/28/2017 16:11:37" isEndedSynced="True" />
+    <Attempt id="33" started="08/31/2017 22:04:01" isStartedSynced="True" ended="08/31/2017 22:54:09" isEndedSynced="True">
+      <RealTime>00:50:07.1010000</RealTime>
+    </Attempt>
+    <Attempt id="34" started="08/31/2017 22:56:47" isStartedSynced="True" ended="08/31/2017 22:56:53" isEndedSynced="True" />
+    <Attempt id="35" started="08/31/2017 23:01:06" isStartedSynced="True" ended="08/31/2017 23:51:25" isEndedSynced="True">
+      <RealTime>00:50:19.3610000</RealTime>
+    </Attempt>
+    <Attempt id="36" started="08/31/2017 23:52:53" isStartedSynced="True" ended="08/31/2017 23:52:59" isEndedSynced="True" />
+    <Attempt id="37" started="09/01/2017 00:03:32" isStartedSynced="True" ended="09/01/2017 00:03:34" isEndedSynced="True" />
+    <Attempt id="38" started="09/15/2019 04:04:12" isStartedSynced="True" ended="09/15/2019 04:05:31" isEndedSynced="True" />
+    <Attempt id="39" started="09/15/2019 04:05:47" isStartedSynced="True" ended="09/15/2019 04:51:08" isEndedSynced="True">
+      <RealTime>00:45:20.7180000</RealTime>
+    </Attempt>
+    <Attempt id="40" started="09/15/2019 04:53:08" isStartedSynced="True" ended="09/15/2019 04:54:03" isEndedSynced="True" />
+    <Attempt id="41" started="09/15/2019 04:54:16" isStartedSynced="True" ended="09/15/2019 04:55:59" isEndedSynced="True" />
+    <Attempt id="42" started="09/15/2019 04:56:14" isStartedSynced="True" ended="09/15/2019 05:42:31" isEndedSynced="True">
+      <RealTime>00:46:16.3290000</RealTime>
+    </Attempt>
+    <Attempt id="43" started="09/15/2019 05:44:07" isStartedSynced="True" ended="09/15/2019 06:28:05" isEndedSynced="True">
+      <RealTime>00:43:57.8710000</RealTime>
+    </Attempt>
+    <Attempt id="44" started="09/29/2019 04:53:37" isStartedSynced="True" ended="09/29/2019 04:53:38" isEndedSynced="True" />
+    <Attempt id="45" started="09/29/2019 04:53:46" isStartedSynced="True" ended="09/29/2019 05:40:25" isEndedSynced="True">
+      <RealTime>00:46:39.5970000</RealTime>
+    </Attempt>
+    <Attempt id="46" started="09/29/2019 05:44:41" isStartedSynced="True" ended="09/29/2019 06:28:11" isEndedSynced="True">
+      <RealTime>00:43:30.6820000</RealTime>
+    </Attempt>
+    <Attempt id="47" started="02/03/2022 19:41:15" isStartedSynced="True" ended="02/03/2022 22:11:47" isEndedSynced="True">
+      <RealTime>02:30:32.0070000</RealTime>
+    </Attempt>
+    <Attempt id="48" started="02/03/2022 22:33:23" isStartedSynced="True" ended="02/03/2022 22:33:27" isEndedSynced="True" />
+    <Attempt id="49" started="02/03/2022 22:33:44" isStartedSynced="True" ended="02/03/2022 22:34:13" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>-Calibration</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA2QIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJVSURBVFhH7ZixTxVBEMa/woLmUZgQC0JClFBQaIMkFGIsjKHwjzChoCIWdiZU0lhZCBWFsaMjoYZKCws7YyioqAyVJR18w+QR7s3suz1n78R4v8zk3svczs7tzu7NHnp6ev517gBLwEfgJ//MX6icAd+A18Cc3tQlDGgN+M1fw2hc+QosaoMOmAK+82KCSMnO1WO0y3zGIFk5BCa0fRvcBU55Mb3mCCNrZczolK5HOqP8AJ4CA70JmAU2gHP+Mne+0TvKsk41PW0mxoD5547rQzWXYtobgG21JWAW2ib7aisFR2WkA3bJVBuPzFq1FeWx2uJMes+dkyj3qdVWlHdqi7NKNd4X1FbHF2q1IZ+wzJL8TK26PlZDBu48PlNbEDuD79WQwQq12pYimRpElrTx+0ptGdyjmuYys0FeUo3fRrPwi2o8RNPLTY4HasvDZj2Fu1qID1TjtFFYrodo1h9RjVM1ZeKG9Vxtf4w7BWrKxA2LVWSI/yusWzqJ0ZR3w2q067QSln0hUhptEFJjGQ+t7FuNnLrjzdo6hCwZ4zT48pF3fxC3BMh/VUsWmuayRQdxS4DxVfxNZLpN8wKFDbHJkV8GxguQJDz3jfilSJ2egbtieDgogJTtxrXEWod7NtlVWxHs3sPTae2m6q7iZbUVQQ53pgM5Z6fp4vhK3O1eMtpjppvDPuEZ2j495QB4NPxOxGnl9v02cWe0mEkhC9t0limyJNvD3YdqZa/USXoMTxp+EEx9bCoP82wrkUA3pdNPutcMgBfAJ+CEf4ah/M0P4D09NQCXL2duYkxomusAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:02.3020000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:02.3020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:02.3020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lobby 0&gt;1</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA8gEAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAFuSURBVFhH7ZFRTsUwDAR7Xs7DfR8WhsXyOo7dkhahjPKRbKzuKD02m81ms5TXm1/A7u9A+9hDsIm7Wo72jVrVTNetaF/e+ozWtPUxLUslWY6t1D0W4GQ56EM3FtC9C9eCMt1gWXB0uef99bWuwxKM1RoOQyg00zC8YrRm2PSNHYiHXR93I9FJHrBox+9oWbiVBxIzaCVm7jYe7moJIzNbEDR9EkoEwye0hJEWSLQYH1YkRlqcu6+zgSTntXiFuJwr2SB0EqpawB0tLg8lbOiOFp+7T4cSp7UEpzXipBaHQhg60CebS1ohodlUS1V4MT5PtJIrJddKDHpIjTbpBkfF7isk9T0zFMPJqtj9lLxYbhtmKIaTVbH7KdPWS1rAHXMqj9HQEsJudWppTamo/8D1SPhqRLGv/WBuAU5CVmnl5ANS9ke1ijS0pLKilcys0qqwtWZ/x3K3VoXcvvFrilx/KuEZrfyphMdea/MvOY4PLIPIHYU8ep4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:52.8130000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:50.5110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:00:50.5110000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-doors</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAxAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAFASURBVFhH7ZYhroNAEIYRCDRXIEGUMxDCEfBIRBVXwKMwHIIbcACQdUgUEsUN6HT27wtpX9PdsKJiPtUZ9h++bCdpHUEQBEH4Mdq23ZmiKNCyhOu6wzCo4WmaoqsDqagYYV2raRqMNtK6Xq8IMRa16J6OToSWFsXqukbiiS0tz/P6vsfQJ9+1oigaxxHHD1jRSpJknmdMPPBRi26IMtM04eC+L8uCT8wZLbqhLMvWdcWst+EfteitOMLcbjff91EwZ7ReNqnrujAMUTBaWrRYdHnURM3Y0lJzgiBAzXzR2rYtjmO0bGvRVl0uF9XR1crzvCxLWgLUDELMGa2qqmi31Deg0NX6F4SYM1rviJYJomWCaJkgWiaIlglaWvRKPDfkbxxqhn6YVVPx8q9Gk0dStHR5JH9USxAEQRAEwQTHuQNK74oPleNhIAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:33.6300000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:40.8170000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:00:40.8170000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-race_2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAApAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAIgSURBVFhH7ZY9rwFBFIYVCo1GolCKhEIloVCI6DQKNaVCJX4EjUqj0yokfgCFjlIjolKJH6DU3fveM69rs8t+b6KYp9qZ8zFvzpyZnZhGo9FoNF/GbDb7EXq9HqcCkMlkhsPh+Xx+PB4q7e12W61W9Xo9Ho/TyRFIUcEgoCysOh6Pmesdl8ulXC7T24Z+v88IIYgsaNput0xkS6vVYowVZJlMJnR8EkTWdDplFhdUKhWGGSkWi/v9ni4GfMtCAZhCuF6v6KRkMglTIpFoNpv3+502YbfbqcA/UCF4n04nGiWeX4JvWcfjkSkkZyqVouFJPp//PwGKV8GwKueEw+GAeA4Ef7KwAOOFT63T6XToIbzWMspCY6njyrHgT5bx3KAkKq0VFIxOAnqRBiUL21yr1TgVhizoKBQKiN1sNovFgrMWcrkclxFesrrd7mAwQA9yLNBL8CfLJaa9Ro1peAu9hEhljUYjLiNUq1Ua3kIvITpZpsbCaf3UgoSOQkSycN5NPwC7i15BRyEKWVZNr2a3gb5C6LKy2Sx+z8wuzOdzh+1T0F0IVxbuT9PNjnuANkcYIYQlK51Or9drJhVQs1KpRLMbGCeEIqvdbpuKhEeY6bJ0hqFCQFnWIuGdgvai2RNMIASRhdeLsUj4xWGGNh8wjeBPFoq0XC6ZQvCwa1iSQR5pNBoqA8eC8e7x9C79hxm0LFd8tyyNRqPRaDQaL8Riv2ECEItBUawbAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:55.1990000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:21.5690000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:21.5690000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-laser_2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA7AIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJoSURBVFhH7Zeh0ylhFMYFQRIMncIMQVExgqHIZhAEQZI0M/4AyRiaYMwIZgQzkiIRNUGQjCCK2t7nnn0+d2d3ue5+d90b3l/69pznvO/j7O675/MoFAqFQqF4h9FopAmNRoOhb5BMJofD4el00tcE+BsRxKl4B1hh9bdtRSKR3W7HteyAv1QqRfULms0mK4Tv2Mrn8/f7nQu9pF6vs8aK1+vt9XoUfuHYVi6X4xLvkclkWGkkkUjYdtuZLb/ffz6fuYSmoWedTiccDutZn8+Hp8q03XK51LM/QYey2ezhcGBS04zLAWe2qtUq68VTPB5nwgC2hhWKBCYAdmVM2O/3gUCAF4IzW9vtlvWaViqVGLWAFEUCo8BoCw8WfgGCvBac2XoToy00lVGg27rdbul0mqFP2UILjE0dj8dMgFqt1mq18AzyWqBQcMNWMBisVCrG0xWtikajTD+DWuFv2er3+1zRAjzhNKHuBZQLrtrCw9Nut0OhEEWvYZHgdrfQqsFggNefuhewQvjATQQ4LP/Ns2UE72AsFpvNZtxDgDP9eHoKhYIbth5gcW4jlMtlJmyhSnDVFtpzvV65k6ZNp1MmbKFKcGYLX2UUrtfrzWbD0BMe8ybA6cqoLVQJDmyZRhpMXUzYcTweqdO03/wGqgQHtnBrTFPNs7fMNHJ2u10mbKFKcHYTTaMBnFnnrdVqxfQXnH+wJQN/yONbwWsBJ5Me1Hl9UFnB/MJKV20B6wj+jPl8/uvQctsWKBaL+PBRYQeyGGWp1vmALYA2YC5fLBaXy4VS+T9sMpkUCgXTTKVQKBQKheI/xuP5ASCXDtvbcZ6TAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:19.3380000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:24.1390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:24.1390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-rat_maze</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMQIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAGtSURBVFhH7ZctksJAEEYRCBSCQ2DQkYFCIHMDBAIRxUGiMFyAE3ABHEgMxQlQkUjc8G33l1R2a5bwM5vdreqnMj3dPW+SqaFoGYZhGIbxCKvVygnz+ZyhcIzHY22uLJdLTtwHKqz4Aa1er5fnObsLD2mlacp0IbjWer1m64IarXa7nWUZcwvCas1mM/atcE9rMBjs93smVgio1e/3r9ertj2fz/oAPFp4Q6PR6HQ6MeVzAQilhYW22632xDfZbDb6DDxaWJWTwuFwwJHkQAilVR5ZbLvb7e52Ox2CGi1sAntCkGMhiFYURWzn3HA4RIQD4Vuty+USxzFDobXwbsqDURroUPFoTafTxWLR6XQ4FpguvK+FVbUVriucEA1qRPFoeWG68KbWZDJhI+fwzOjvauHdlDcCfs0YFTSoNK1V3giQKz+fonGlUS0UsoVzSZIwWsAJoTmt6oWOm5PRCjqlNKd1PB5Z/ySs98IU4TUtFj8P670wRTCtD1jvhSnCa1q1sLvQ9L11B3YXvmphSc48Cf4jaAeOhUc3LbBGMK06WCP8Ey3DMAzDMP4ordYNCDLo/pyaIe4AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:48.3320000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:28.9940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:03:28.9940000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-laser_crusher</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAyAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJESURBVFhH7ZaxrmlBFIYVCg2FEJVEIiGh0FAoEIVSraBUqLwA0WlUCnqReAcKKgqFTjyAKESl1O27subnDvbdZ84c5NxkvsLZs+Zfa/+Zs2ZmuwwGg8FgMHzJcDi0mHq9jtD3ERXUCYVCyLSFrED4A1s+nw8llEGmLY1GAypG21Y0GkUJNdbrNTIfcLvdvV4Pqisfs7VYLJApk0wmV6sVJBLatorFIkpYVrlcRlQRWqFCobDdblHAsvb7PZ6Yl9iiZ0QVobcildlsNn6/HwNG2xatEEr80BY1Fi0eBTFmtG3JlanPEFVEJJ/P51wuh9DbbAWDwVardTgcRJAeRqMR9bTQ31Gr1ZrNpsfjwZgRaQJtW/1+HyUsi86wbDZ7uVwwvmc6nZJjpDkAOfMSW3L720L7LBaLIfNfQMto2xqPxyjxtLttIQ3tNiTbAiGjbWu5XKIEQ/9B6pZAICBmI5FIt9vF3JVOpyNm7YGKeYktWolwOIwJiVKpBMUVp9saEkbbltfrzefzg8HgdDplMhlEn5BbkHC6DyBhtG0p8rBgTq+DhHm3rYcb/bfY+uhqyf3u/PkgnyMEtSMmnoGE0bNFZwHy+WhIJBKYuKdarULEHI9HcSnbAxWjZ4sORvmqoWe6DemsEm+l33g8PplMMH0F76I/CHyT24cKxgxtdREUVCoVTKgxn8+xVG+1RajXJ09/b5532yLS6bT86WsL3UJ3LfUBW4JUKtVut3e73a3h6OifzWZkgC4DiAwGg8FgMPwHuFx/AKclWs5BYTaXAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:15.2770000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:26.9450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:02:26.9450000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-teambts</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAAAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJ8SURBVFhH7Zc/SFdRFMcPFBKI2h8kQwXLMKiooEQULYSCHByCwIZyaoiGMGhxyBZTbAiDdBCHHw7RUBBEDUFFoC7REhENTtEQTY1t+b3ew73n3nd/Py/3mTTcD2fQ884573vfue+8+6NMJpPJZP4n5ibo7zdl1y+zpyTHDlNlmn584LJ/PtPXVzQ2SgdbOWBzIEUnb4ms5j208sQWLNr8PdpVx8FVuXHFySkpq6uDfn90CgbtbYV27uAUH1x4cMdPKCNrbxN9f+8XrGa4dQD0Pvioy8gyG1Qb6p88wv3CI+hopftjTsChto00gMvnuunLS3vNW1+yrO7jTp3Z8XCbLvbbmFvX2KnuarywT8/Vk5eeZFmLk7bIz2VqrGd/FFIWuqsXZDywNFkQgRFgitjHEImWhZdl4DR7gCkHS5PldfBoJ/tjuTqsluKNDVkxTZZsAjqoOdBMU7ftRP21Ss8eqZ0di6kIS5MlB827ivKMDFmPZ2tvqL1lI602MidNFt47UwF/D/bYf4OGjbh5o2VCeVlLM872r2YYTBgCtZDR5WUZw/DECNXsbqBL5/3v0sRNvhpGhm6VLIgogi0lp7d5OcKYOFiaLO97/3qB/UWGB53Iznb2B5BxabIu9MUWweCVkWfPsD+AjEuTtX9fbBFP1oku9geQcWmyABpnijx9yM4ivadsGAzrqYqMS5Y1NODUQVuL4OuyLE5TNbagwsTBkmXhqy9vCZMDoqFevZuY7zIAK1HgltIbb5jaGunEUPDAiTlmkGp7McdZ/1wWwNaJUYazvB3x2yALYGbW/uWD5joH1+2RpcEp/vFdZzPp34k47WQymUwmk8mUhGgdjEBRLxIpDsEAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:25.2590000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:09.9820000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:03:09.9820000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lobby 1&gt;2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA+gEAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAF2SURBVFhH7ddbjoMwDIVhlsbjLKuL6H47bs7Bcuw00IsTHvjFAwkj+SsgpFmurnb7Wx7u4IWJRcd8mROs64qTyTJnQlhOk2GwOmCSsJS4NvFCargZHPiiCTfMjqRii7vjH2WcR1F4UqNZPNsi6lQsikrc2joFi2vTaJadR9R0lnRelo7smEazJEyFyWav4vy77g9/7BVnk/bLT7yjHMNBpj6ckNZ6sm/2SrDH0iwOvSe7lbjQOuMPyz4MIIlrrT84j0VOBKEprB5Ikqm7rAxZzyTVI/GeSlyj0axwJ4gawNI4sI7XtrgbWakyFwklt+OXI1k6jMNb4Q8SWY2XrB5GSIlbWhLr+ZHYY0lEZbOgkbi2yaSJLJ7FWpOIOhWLohK3tN+yesmkehhFJW5p4+6WdJAVfkByYVjDJA01odYN4wIlmZ6fhxLXrnvjvxdbCqsHMi9Te7Zs5t0qntVEcvR5QRCP1CxIqkBTciBpvklypqurq/Etyz9kxFcy9wuZjgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:04.1930000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:38.9340000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:00:38.9340000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-fling_3</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAqAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAIkSURBVFhH7ZYhyypBFIbvTxPBoCIiCKIIgkFQEAWxWUSTP8BqNBg02ASxKlgMRpPFIAaTyfty5v3u3W/czzuzuxcM8xTZOWfPPs6cndlfsY/EadngtGxwWjY4LRuclg3ftJLJ5Gg0Oh6P9/v9Kdxut91u1+v1EokEk6IgHo8fDgf1iHa7zVEPf7Ug9Hg8VOorEO12u0wNzWw2Y933Wt68N4zHY5UfGMyT9qwftTBPTDGg3++rOwOATthutyz0hb9WtVplXMA6opPS6TRi+Gf1ev18PjMmXK/XVCqlbrai1WpppRT+WsvlknFxKpfLjHyRyWQulwszBKsJwwzhf+LV4c3Pp1bNX4tB4afWaTQazBDQHAwYoHXSer3GP+eF8G+tYrHI4e9gNZkh4N1mwACvFpoYI6VSideCv1ahUBgMBpvN5nQ6ccwP1hACaKGrKpWKGjHS4u9bcrkcawjz+ZwBAyaTCXoL883rCLWGwyFrCLhkIBDRaOFNxKbAGvK25vN5xgIRgRYm37uDgPAbfVitV6f9fu/tkmCE0spms9pBAScsKMMhCK7VbDb/fNsoFotF+HlSBNHCWQED3iHAr9PpMBwF1lq1Wk2bpNVqhdVkOCIstF4nCfsyLFU0Wky18HjvqY6dCYdXVJ30ipHWdDplXPgfq6ZhpMWgDdpRzVFB++bRvmrMcVo2fKoWC3wYTssGp2WD07LBadngtGxwWjZ8pFYs9hsMZBmCrw27MQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-infinifling_train</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAASAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAALESURBVFhH7ZY9aypBFIb9aSJYGAliEKKijYiiIBYhhZAmmEqwUcgP0MLCQgu7gNgq2CRgp1ikUZAUqazufT37Zq+Z9WNGLbywT6V7Pvadc87OjMd7lbiyTHBlmeDKMsGVZYIry4T/RFYgEKhUKpPJ5Pv7+4/w9fU1Go2enp78fj+dTuXu7q5er8/n8/V6bSVfLpeDwaBYLPp8PjoJv2RBkB3gBEIfHx/pagje2mw2mWgXn5+fmUyG3tuy2u02XQ7y+vrKAG2gaTweM/4gpVLJCqEs1IkWDZ6fn60oTTQXbJHNZhGykZVKpfhMQB8xScFgECYsNJfLocK0CavV6ubmZvNCDVAAhgmLxQKThAmGCcOKqbCH2OL9/R2mjaxer8dnoimRSGzybXF7e4t09BD0CzadThkjmpCKhh/wOmWgUTBPOBzmP2Hf6OTzeXoI6AsNB8ELGCDYo6Pw8vJCDwET5Xl4eOA/IRaL0fc36CY9BKvUR6lWqwyQPii7gA0KRicBa9408f7+vlwuY/+YzWaW304YJGjKgo5kMonVY+d7e3vjUwfxeJx5BcrSQel1p9Oh4RIovUaNdWUp7cdfGi5Bo9FgXgFzrCULnw82BQbJlEQiEdrORhksfK1o/XFZcNreQcAJG/0+sGDlALC+1iOynJqQZd8HZYpTk73vHJIVCoWGwyEjBGRx7oenEY1GlcMD67cXvFdWoVBQjoVut3upOuGLUXb2Wq1Gm7BDFo4qKKC7AH3YdWk+D2cHULN0Ok3zD6osXHqUImEbRC6azwM3AKVIuITtvF3+k+UsknI1OwdnkT4+PjBeNDugLLx++46ANeHEuNQk4fayXSSdW64HRWq1WowQLtg15On3+8wr7OuagsfoXmqjHNV8KmzfefCbT03YHNWuLF2uWBYTXBmuLBNcWSa4skxwZZngyjLBlaWP1/sXKCh5OgqLKEUAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:44.1020000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:39.9090000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:10:39.9090000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-come_along</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAhgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMCSURBVFhH7ZfPi3FRGMf9aZqyQEgpFClqijKULKZsRCllayVbCw0WSlKTUopiQVlOKRtKFlZW5uvcZ8x5z+W6Z8zMO4v7WY3nx7nf85zn/BiT+U9iyJLBkCWDIUsGQ5YMhiwZDFkyiLKsVmuxWFwsFvv9/sjY7Xbj8TiTyVgsFgr6KpFIpNForFYrZWSAv2GBnSI++EcWBB0OB8pQAaHpdJpCJfH5fPP5nAa6BPQ9Pj5SNC+rXq9TiCblcpkSdJNKpTRmy1MoFJQUkoU6kUcH2WxWydJDMpmkNH08PT0h6yQrHA6TjYGZoZPsdjtcDw8P0WiU7waw3W5tNtvpm7dA2Hq9pjQ2cqVS8Xq9ihfNiq4SFncwGMB1ktVut8nGMgOBAMv6xOFw8KMDnQXL5/OUwEYOhULk4MDMIYWCGDCa3G43/WJca51YLEYRDDQiOTSZzWaUcDw+Pz+TVQVcFMSAxYR+pF8Mv9+vhApgThTBwPfI8R3wslBUWE6LiMXO5XL9fv/t7Y2FXYbyGN8oCxPmi4qOgvHzgNBGWOtms0mOO3A6nSgHv5/Ona1XFt+8AD/JIYnG6QhNOE2UMF2ysBNxKFA2y/d4POST5KIs3B/Yai6Xi4L0yMLa8ycI+MJBf+ZatTDVl5cXzF8JuyFLrWkymcBIbnm0rzicjrd7C1UdjUaUwYCm84TuB9MLBoO9Xo9GZ0AZ7FdlxePx89tGodVq3VMnDYQbGVfIBVm4qqCAQhjQh1OX3D8AZstvqW63K8rCo0coEorM7xEpcFCjEnhFTqdTMl0BByF9j53Vn7LURRKeZrIITxrtei+XS4o7HjEHkoXPCy8QzPLOTkK6MKb6baJQKpUoiFGtVk0oUq1WIwPjnlUTEJ4GUKZ+bw2HQ3J/gPePSepdeka4qsnKEN482geVGtQIWT8uCwirocHr66vSOb8hC+BfJmGDC8DLX/+/JAugDIlEAq+6zWZDoWyzdzodiEafURzj6in/fzFkyWDIksGQJYMhSwZDlgx/UpbZ/A61I3ftwQ9bGAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:52.9840000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:08.8820000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:08.8820000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-fling_1</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA9QIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJxSURBVFhH7ZYhqypBFMffRxPBoCIiCCKYDIqCckEMgkUUBMHqVzAYNFjEIpgULDfYNFkMYjCZfH/m/O++dfTdu2d9wQf7K+6es2fmtzOz4/wKvSWBloZAS0OgpSHQ0hBoaQi0NNha0Wi01+ttt9vL5XIznM/n9XrdbDYjkQgf+kd8fHxIF8JoNGLC0oLQ9XrlUw9AtF6v89GXSSQSp9OJTRueayHK/LcMBgMWvMZsNmOLXzzRwjgx6YFWqyVVvul2u2zLha2Vz+eZMWAesZLi8ThS4XC4VCodDgfmDBj8WCxmyv2Qy+WcpXI8HuUC2FrT6ZQZ44QyyTlgHbjrge8Bw3tuNhtpZDgcLpdLuQZ3WqlUimHD35ZOuVzmEwZ3Eyr6/b60gPfEkH9+fsotuNOq1WoMG7LZLDP34C35hAHNMaGhWCyy/narVquI8MZgT2Imk2m324vFYr/fS/QprDb40MLYOCvBMZBbwdbygjXX4/GYCc+gV6nFF4PFKkGJCH60Op0Oqw24ZcIb7qWCa0Zf1LJ2ZHyt6XSaOQ+g3NkRrGGWoKDTwmJ37yBAu9E7OwLknOkTJC4otB6d0AeCTHvA/f/RaDQY/YIJg1etZDK5Wq1YZICT9brf497QsXMy6kJSgietSqXinG2EyWSiGiew2+1YrOSJFs5VMGDeAD/35+Md1uuxtQqFgjVI8/kcs8m0Ejah54/W4yDh4ABLpn3BhvRQC927zwhYp/iCtCvJB+zPcLfkMUg4YDBjeGXWtLBLw52W6lzqYP1VM2pwt/4jrDEEWj/BGsP/oMXfNyPQ0hBoaQi0NARaGgItDW+pFQr9BlcEW/H/iH/GAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:39.3550000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:46.3710000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:46.3710000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-catapult_1</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAbAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAALoSURBVFhH7ZexaypBEMb900SwUNEgGEJEUSIoCglCSCHYiFaWFlZiY2EhRAtBxCZtBC1SWEqKNAmIhVWqvM/dL5fz9Lzdl2deivsVcs7s3H7Ozs6uHu+vxJWlgytLB1eWDq4sHVxZOriydHBl6WCVFQgE6vX6YrHYbDYfgvV6PZ1Oy+Wy3+/nIE3ke9SJRqM7siDo/f2dzj0g9O7ujkOVCQaDjFcGUV+yer0ezUdpNpsMUCMejzNSDSwUoigLeaJZgUqlIqNU0JU1n88RtZV1dXVFmwDriEoKhUJw+Xy+fD7/8vJCn2C1WmFptnMqUCwWGfbxUSqVaHViK2s4HDJOaEokEtJnEA6HX19fOUKgnjCzLDzT6oQHZc8ggV3pFAoFjhCgEOlwAhlijJas29tbBgkuLy/p2QWryRGCp6cnOpwwVy3qjFYntot4cXFRrVYfHh6Wy6W0HoTvFnxH1tnZWavVent7k0Y8jEajdDotx0u+GsRxLGvd7/fpcMLcd7BRUAx2rfHx8RGKZZSqrFqtxmgBvtLhhFmWufwPgo0lN5ySLOxENAWGit0ai8Xoc2I8HjNMzMonezAG0znLQrGbOwjQavSoQoYJ8JMajUYkEpFelHWn06Hvk3a77SBrX9NsNoORbgXMspCJ8/NzOkxYugE4JgsFiDLkQAE0IcN0q4Eryc3Nzf39PW4iuVyO1j0sJ7KtrOvra+NuIxkMBlp50sKSsAOycK+CAvoF0Icwuk+D5US3yspms5YkTSYTo52cDtts7ScJFweopPuvMNf78euDuY8AysL05qaCbYxD4/uVhF7AN4p3plIpOnax9Gr0SA+S1O12aRD8w1XDtjUfNXjGaYheJX8wPpPJJKaj+xNkxKN1LzWwHNW0Cix3HtzM6FBD9sWTywLqUxh98SdkAdQubk0cYQNOIaOaf0iWJJPJoLaen5+NgpN/QqEBhwEHCWy7/P/FlaWDK0sHV5YOriwdfqUsr/cPm4Ks5fGrI2AAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-multifling_1</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMwSURBVFhH7ZfBSzpBFMf90yLwYBJiJCkESkJSEAaREHSROgVeDDp2SfAQlIcgJALBSwp1SPAoHrwUiIdOnravM9/fOs3qOlPQr8N+Tu68N+N33nvzZje09CcJZNkQyLIhkGVDIMuGQJYNgSwbdFmRSOTs7Kzb7X58fDiC0WjUbrePj4/D4TCdfkAmk7m/v39/f5eLj8fjfr9/fn6eTCbpIfgiC4LgJyd4gdDDw0O62hOLxTqdDteaRa1Wc3c+lXV9fU27LxcXF5xgw+bmpht+H56fn5eXl+FPWYgTLQYUi0U5y5DV1dW3tzdOXkS1WsWUiaytrS2OCZBHVFI0GoUJ2nd2dgaDAW2C4XC4srIy+UMzbm9vOVOAVGazWZkvrL+xsXF1dUWbIJVKTWTd3d1xQGhCwMVqU7zbNQ9YLpfjHAFKRaZJA1VLD8cpl8uheDzOJ8G80tnd3aWHAKvTsAh1z+ZhDh0cHHCSAAGk5SvYIj0Er6+vNPgCEerRRhhoWMQkicjuyclJo9Ho9XpydCZcW2AoS8tgOp2mYRHTBuGPlmtUMQ2+qAccGZSDa2trlUrF7aho14hIPp+XVomprNPTU7mKBI80+ILTzgmO8/LyghGcFT57wHlPJBJyopEsnETslbPFaV1fX6fNF7VF4/f+/j4f5oCVZaIXy0Kxq6cJmDd6VVa9XlfLfx7oRIjCAlleTe79YIIqywXNE4dMOqBpo3Vr99Ll5aWfLFyurVaLvgJowlZoNsArCyJoU0BJqe0aBTNX1t7enrYJ3PDmcZKUSiVOFjw9PdHg4ejoiE6CGbJwW0EB7QLoQ9el2QatV6Nf0OABjZdOAl3W9va2FqSHhwdkk2ZLtG73HVneIKGRQCXN3wWJ43KO8/j4yFEP2p1LWfh7tehwkrEz20qaSaFQ4KKCmcWAiOA2o4cowRCG1F4MfpI1L9ib+pdAbRD4dMDZ1N7nsJOQ1Xupi3ZVc1SApsDRf+AFzqSRSprNJqb8hiyA0jFR5vbFX5IF0DP9v3yQXLeaf0+WBG/xNzc3ajHJ70S87dBDMLfL/18CWTYEsmwIZNkQyLIhkGXDn5S1tPQJdVK2D2/WPywAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:33.0380000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:53.6830000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:53.6830000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-fling_crushers</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAEAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAKMSURBVFhH7Zc9rwFBFIb3p4lEgYhIJEJUCkJCJKKQaIRE4gf4ARqFgkKnkahINAqlSqMQhUq1970z7927X9hhI4p9GrvnzJx5d86ZD1roKwlkqRDIUiGQpUIgS4VAlgqBLBUCWSoEslSwyIpGo4PBYL/fX69XXXC5XDabTbvdjkQibKSCDKLEZDJBx39ZEHS73eh0AKHNZpNNvREOh9lZBYssvND8kOFwKNt7IZfLsZsK/7IwT7R5oNPpiEGfUygU2EeFfr+PvpqtM/KISorH4/AhC+Vy+Xg80ic4n8+xWEyM6xtGrqbTqbRo8/lcmgA05fN56TBIJBKn04ktBN4nzAtGrjAKxpJGTZok90qnUqmwhUCm3xfq9TqD6nqtVqPVJiubzdJsxbamdrsdHe+BzBhrfzwe0yrQMplMt9tdLpeHw4E2N2RniS+y8Knb7VYGhDgjfRJPu3wqlZL9JUZhvgNWHMO5FasnWb1ejwEEeKXjVdLptJE+VDpmjo4/nsvC9GJTkCEAwiEofa9i3r1dP/KJLHyHeQcBShu9K1hYjCU+0jlV4JEspyYUqWsUJUajEcPpOp5ptXJXVjKZXK/X7C2AJtt6eQGcEEZVAeyIdFhxl1WtVo27jWQ2m70/TwCLjhEF92LaZeFeBQXsJIC+RqNB99usVivG1XU80+rAIqtYLNomabFYIJt0vw0yyLiCB6uHspyThIsDVEqvX5hPQNBqtehw8CsLw5vvCChJnOq+VJINTA/HEJRKJTocaDgj2Urgb9ZsmAsL4Dimw4HlBuER21FNq+Dxncd8WgBa3ficLFu9QyIdbnxOlu0fx+Pb0edkocDZSPBEFn+/jECWCoEsFQJZKnylrFDoB3J92hlJnLcxAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:39:51.4350000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:18.3970000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:03:18.3970000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-fan</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA7wMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAANrSURBVFhH7VdLSFRRGJ4IK6QkKyJGAilJtJdO5tRkMUhRalqTWmmWWWYpSJIYDEVkD3qtMioDadGioPKxMIKCCgIrI4KEqE20aFMQLVq1qu96Tmf++e+dO+cU9oD78S30/o/73f/85z9nfOF/Ep4sE3iyTODJMoEnywSeLBP8J7JK1hadPTTv9d0pX1+O//7GB355njLcl364bf6a1Sul0y+huHjVvp2Bvm7/+4epIjOIt+BdF47N3VSxXPqNIk4WBH0bGadiGJGio2WhdDVEa2MePo8lZLx/bWZ56QrhH5N162IG83PkpZNzZIA2TkWzWZJE/Dg0USiTslAn5uHCzvZcEaWDvfUBFu7OFwNTEWXJ2rWtgBqwjuikshJLNRqiuSH/w+NJ1OHzcErpuiLrnRp4ensajR26OX13XQE6WFgrykJdnVmsc/AllqzBnlnqETzqNheKGAUUFuVVPqBmwSLlIRqFPpGGeFRHllFlp6PZPhaZqHVaGvKpW6IXMNRWBWlUW9NiabCBdjY6ytfevEj9D9ZUBaVjPLCa1O3VYJo0uILJOnEwRxps6O/2KzeotxZxS2XweEfOo+sz3j1IFU6OUGGgpix8DOsbVMI+/9A2yg3dgqjYgHAHW2t8nDQkw9VzmTQQhILeyxlofFihALNQacIforN1ZaH+Ki/oshwM9u2iiPmszhJw5E7a1krZQlqykBpDQcXjm6o2xp0V7kD4s950Fe5IttWSy0Kd6QSxp9DEkQO5NImdmI6N25cI5ySy7JowhfFQmvWwYX0IzUSTuFBMRDdZSMeKD03izNIHCsAaaP+ePOx9bMlPTyao55RyQDgCZz5NBw5c8ZvWie58EGeaNPxEbXUhCkl9QPSxgyzMFSigftCHqSvNJqAN4HJeYVne3pusPEEuq2lHgBUJ1yCESbMhaB73072+Zil1jsmyFwlbAyql2Rzs5HGfKRBNnaUsvJ4OPSw2WtK0k+xQCUFsF5dr9/mjWdTZB9cbXbPpo99ZNQY2XFB+HL4Rcm3HrQ4XfGxP6oYCWWcnfaRJdlRTE73zsAumJq0BMaaygGjrAmpNSjlOx1oWgImKKxP1cWTcUf0HZAngJtNzJhO/CukvM/wtfidirkq/USSc8n8XniwTeLJM4MkygSfLBJ4sE3iy9BEO/wC1UJLV/9gphgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:35.1970000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:43.7620000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:07:43.7620000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lobby 2&gt;3</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAVgIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAHSSURBVFhH7ZJRcoQwDEM5eg/R+7ahClpHSgK7DZAP3ngYW7ZjfbA8PEzKV43cu4uqCYiJXF9Pcfv7Jyd/3OksH06GEMgDd5iLbogpcJbI9VnQTXn+Ra11prO+mwhnwjycJVAOomqoKgqY2caytTHm/Hx5bB9MbvPZ2ufm5DbKqBC2WgOJspWtvWfOD0gJfAxQb8VGtnbIXLm5IgpKERNVsYrNdM35oy2FQaTcxeYbzvxdUVDKzC7cOrBrtmRHXmFJJeEKoM4ukz2CLd/hW/iyi5zhRJ1jVKqUM5stX4tznZbAlkSfcmb9s162IigxHVuuEGmxpFKlnIGhBMoSDIXpFZRRIWyx2y9JELOduqEE5uQVlFEhbKEbcyAlqIpNMBoXsI8QvNUviSs9/BVXAHUJ4gpo6U1kgSUVQEW6MYlBXDkE1yQirRby2IICXPkX8hBfb+mSAynfxp8jaMkAiC0EceUTZJ8vImFJos4gUg7G7wHqjIgrI+HJeCOKjIgrg/GrVKjjC6J+Fn6DpSeSnwVuHDzZ7w6DZ5CwdPrdkciZztVOazxHPF1qCOAkQ2jpp8PDfrsqXoqch6GbPQmTGprI03SGEtMZSjyejjGjp8SEnpblFza+EoHqZbdoAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:23.1620000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:47.9650000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:47.9650000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-wall_intro</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAAwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJ/SURBVFhH7Zexz/FQFIe7Gd9JDGIyiMFiZLOIySAxSMQuEZOFhbD5AwwGk9WIGMRksTBICCERExGJxWDwntz74+vX9tPetl9i6DO80XPOPX3e9rgt6fmVOFoiOFoiOFoiOFoiOFoiOFoiKLU2m029Xg8Gg9ILr9eby+Umk8nj8UCRHVC3aDTKTzEejxF98UfrdDplMhlep8nPz89gMEC1ZYrFIvp+0Foul3RWVH2kVCrxJaah6yR3IrS11uu1y+VCiQE6nQ5fbIL7/R6Px9HohbZWLBZDnlEoFFarFZ8k+kufFTfX4/GwtcLQgPr9fnSRoaE1nU6RZIxGI2T+plKpoIKx3W6RMABdoV6v53a7sViSfD4fPjE0tOS3udlsIqxisVigiCGkpZikdDpNY4MDxj9HXheF1n6/R8IAcq12u00R+q9wzDCvlc/n0UOSQqEQosbgWjRV9H3nEata1+t1OBxGIhE0YKi7fKZardJsyXdjM1p0nVGuhZXd4Y2dWuVyebfbocgaNl+tVCp1OBxQZwH7byI9D2irQ6lZrI48QXsB3T40YJDZ8XhE2hQ2aHFoJXowarUaEqawTYtIJBJoI0mBQABRU+hrnc/nbrdLs0zPLPnWoqbVaqENA1FT6GvJoRMjrEU2m0UdGy9ETaGvlUwmkWSoKzj0ZoEKBq1CwhT6WopnMKF+36IIci/6/T5fbw5DI/95o1JDr4188RskGPRgRpSheKsxCl9MTzoc6xEOhy+XC1/1BjmGnVrEbDbTfKN9Q2PeaDQ0v62oYNisxZnP5/SrUO5HvxNp+6BN5Ha7oUgFShn/RetLcLREcLREcLREcLREcLRE+Eqt5/MXjhAtx5rwXigAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:54.7220000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:31.5600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:05:31.5600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-wall_2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMRSURBVFhH7ZchTHpRFMZvM5IYwZkMzmAxQjPgTAY3g5sz0NgYyYLJSTM4EoFgkWogCDM4E0E3BoENB8ONMQPOuVEMBv3evR/Pt/t4vHf5898I7xecu+ecez/OPffc+8TPUhLKMiGUZUIoy4RQlgmhLBN0Wd1u9+LiYnNzU0xYXV09OTl5fHz8/v6m07y8vb1dXV1h8pWVFXvyg4MD9+R/skaj0dHRkfKeSiQSqVar9DYEq+ZyOU40jfX19efnZ3rbstrtNlaly0xOT09VSHCgaWdnh/EzqVQqKsSS9fLyYmc1CNfX1yo4INlslpEBeHp6QoglS/spmUym0+mozcZf/K9tbiwWs1YLBhLAMMna2hoqaTwew/T19YWq0HYpkUjAJOr1Ogck9/f3cjads7Mzekh6vR4NfmxtbTFGavr4+KBhgnuvkDDhzPDl5SV9XbRaLTpJAsqyFnBgl47Gzc0NPSSlUklvEF5osl5fX2mYSbFYZIAQSInWBWyQMDpJrEzR4kc6nWaQENgXjvqhShO/PplMokA56gK559QSf1mfn5+1Wi0ejzNC8vDwQPOC0PbayjEtDqyt9ca0OwRBO0/WKaTFgZcstOl+v0+nxaEVFk4rtt4sW7i/BoMB/RYB+oXWNdVpNd5EHCgkma7/hlsTil2ZfEoeoBdotyyUDYdDmucF9YDrmTNKUqmU3UH8ZSlw+hgtOT8/p2Eu0D+1zl4oFGiTBJUF9vb2OIcQGxsbHDUEz6fd3V3OIkHOGo0GzRPE+/t7uVxGLUejUa8urHC2bMBRE25vb7UkoTxwYdPsgGYFFubwNI6Pj+kny4ujwXAnCS16RrsR+/v7dJR4dXC8LOghQRQNAcDrxZmkIK9cod3BwP3ewghtE+7u7lT8bJCkw8NDxki8dk3DKpHZjcoNmo0KtqFBYvce4Hw1BefvqsZNxzE/tre33U852iSLlAXw4aH1Nw3URz6fn3pa6SFZsCxFs9nEV6FTn/qUQxNRD/Cp0FXyX2QtCaEsE0JZJoSyTAhlmRDKMiGUZcJSyvr5+QVd4qdLZiruAgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:34.6420000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.9200000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:39.9200000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-catapult_wall_intro</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMwSURBVFhH7ZevT3pRGMZPM5qcgZkMjEAxQoLAxsZGYDOwOQIN50gUTQwbf4DBYMF/wKDO4KBQLBjcdApszCRzDgrB4PfhnEe8nPuDe5Dgd7uf4PB9n/fe555z7nvOFV9/ksCWCYEtEwJbJgS2TAhsmfD/2Hp+fq7VapFIRHwTCoUKhUKz2fz8/KRoWTqdzv7+/vb2Ni8tBH4jgjgVkjlbb29v+XyecifW19evrq6oNqTX68ViMV7ICfi7u7tT4h9bDw8PuCslnlQqFdb45ubmZm1tjfWenJ2dQU9bT09PPssUqtgnt7e3LPNHq9WirWQyyZjk4ODg8fFRrST8xW9tcjc3N1XhQkaj0dbWFsuEwMMfHx/3+32VnUwmWFXa5Gaz2amtdrvNgAQDrmo0jo6OqJC8vLww4Umj0WCB9ISlwoQFPPnUihVEy+Uy/xGiXq8rqZ37+3uKJD5txeNxFghxcXHBqA2kKFIw7APN1mwiVoLV1nSVM+yDUqnEOiGi0SijqwCTaB3UYrG42NbHx8f19bW2KvFyMf07hsPh+fm5tbtiqNAWnG2dnp5S5YRRd7BjXcoa8KQe2MzW4eEhmjVFy+JoC50cbxu2GaUxHq1cLjcYDKhbCrfRwlChX76/v0OzzCSiHq2OUnM8JhGg97quLQ30Akwf6yRw9vr6yvQvcNxCprsC8z7QtrZqtcrEKtDnh2F/pNNplgkRDocZXQUYNuyzvDRASDUPrOWNjQ2klc6Rk5MTlkkY9QQLACORSqUSiQRDLljbteh2u/wlwY2pcmJvb486ubwYdUebd7dDgALDTx3A/9ru7dbBcVEqJKhiwh2MvXaqwVvG3DzaPExtaXswsJ+3EGHum8vLS3nBBWhHAzizn7cymQzTM1Tau1HZwbFRFc5gQoLOxKjEu1HZwaH8Z9lip2N4ETs7O6oXW2FOotkC0zv5Y3d3F/Mz9zbhw8O6mdtRU+D4tlIhsdsC+GTy/oRBFkdZJZ6zpcBk46vQ6g/fiWgfaCLj8ZgiG5RKHG0BPA8+NnEpXJBS+R2G2+HshHVGnaOtv0Bgy4TAlgmBLRMCWyYEtkwIbPnn6+sfo7CyCokesD0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:58:18.7550000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:44.1130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:44.1130000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-wall_block</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAMQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAKtSURBVFhH7Zc9rylRFIanU6pEISqFKDRKOp1KoZOIXiIqDZXQ+QEKhcofUCAKcRoFDYWEEBJRERFahbuy12syxtxhDzc5N5mnOJlZX/OePWuv2ZTbr8SWJYMtSwZblgy2LBn+E1nL5bJcLgcCAeWOx+NJp9ODweB6vSLoS/T7fTxDkMvl4NDK2u/3yWQSIUY4nc5Op4Pojzkej263G6UFBrJmsxk9FX5T8vk8p3xIKpVCxTt6WYvFwuFwwPkGjUaDky1DFVBLg15WNBqFR5DNZufzOXcS/aVr3culxRe5FtGugtfr5QviQdZwOIRZ0Ov14HmkWCwiQrBareCQhP5PdRWoH+LxOF8TD7LoBmZFqVarMD8xnU4RJLAsq1arcQVap/P5HIlE+JbQv8R30MnabDZwyDAajZCvKD8/P2TBjcCKrEwmg2xFCQaDsMpAa6N2kqqAbxkJWafTqdvthsNhpApoDMItg9ottGNoaLGRLcwLWfV6HYFGWJsOtJOQ/7irYBJYlFUoFNbrNYJkoLVRJwI1A6wCNjLWVyuRSGy3W8S9jToRSJz6+hi2Mx+9RCpNow6hb6Ct1mq1YL0Dh+CFLB00C+j1IVVAyna7HdymaAc6TU5YNbCLkZPF6A4hpVIJDlNolCBBFhR4g1gshhxF8fv9sJqCaAscDodms0m97HK5zA966neDgdUUhH4IPRj1jNCekKhjYDUF0RbQfsOJv01w7TwkDPvXAigneGh53TeYeD5vkQW+O+12m/M/BOUE+p1oPqieofHIySpwCLTVX4IcgcGAMDzFGhIKhXSTmoBP8E1ZxHg89vl8CDGC2rxSqRjuVkQIviyLmUwm9KtQq49+J9L4oCFyuVwQ9ARCBf9E1i/BliWDLUsGW5YMtiwZbFky2LJksGW9z+32B7IazskIq8HhAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:59:59.8820000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:41.1270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:41.1270000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-catapult_2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAoAMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMcSURBVFhH7ZcvTEJBHMevEU3MwEwG5pjFYNAEQUYi0NicXedMFk0OG4lEIFBwIxPAGZwUghbddNPpZGMEBmMMqwG/3H2F53uP9+42guF9gr79/tx9797vfu8Qk39JIMuEQJYJgSwTAlkmBLJMCGSZYJf1/v6ey+U2NjbEL5FI5ODg4O7u7vv7m0GGcCBter3eXFa/389ms/S4sbKy0mg0GK3NeDxmvjbIoqyXlxfMSrMnp6enKkWTj48PZuqxvb2NrKmst7e3UChEswblclnOqIWprHg8jqyprEQiQZvk+Pj49fVVVRL+4tn2cldXV6cT6nF7e8s0IWq1Gq1+iFarxSTJzc0NPX85Pz9nhAR7QIcfVll4ptUPcXJywiQh8vk8zQ6enp4YJNGXhR1ijpEs/vfDJqvdbtPhR6lUYo7JYnRlHR4ecmwhNjc3adXAKQud6PLyEu1QGVVffH5+VvEKH1mj0ej6+npnZ0cNodB/F8BaJOhhKOVFpz6ZTEKxynKRZV2fE6PuAKyyrOXvytraGroVsgxknZ2dfX5+Mkib/f195stZ+bQYxAyHQ7PdymQynU6HcXrs7u4yWYI3WCgUBoOB8uLoYLX0/XJxcWH8EjEu6oOhGlhlYSdcV4VmyYgZ9CzGuSAo63a7dPvx9fXVbDaPjo7C4fD9/T2tDqwlOIVmP2zVin2mY0nYN4xmDVKpFHOEiEajtC4J+xcd1Xd1dYVaxiZ7X/SKxSJzJLQuCZfymoGJGeWG9aijvGj1xFrv3tcH6+BT0uk0nySLOrhtNciiwxP0AibIleCyScdfKpUKgyS4OAnbNxg471uw0PdLvV5XI3qDxgg1zJHK8DXE0fa4zIFph4Lbu1E5wbVRTjqHDgmOOq2SarVKhx4YHHJZufjS0ezH1tYW9kBlzaBPYpMF9JcNTWrw+YF6eHhYX1+n3w31CtT+22CExCkLYPBYLMaIBaBpzwa3n/PHx0fcfqz6cB9C+0ATQb9mkAOGSlxlKTC4+hE6Kzh0pb29PWynbfAlt59lEcgyIZBlQiDLhECWCYEsE/6lrMnkB/KZYn5cZDIsAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:25.0200000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:25.1380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:05:25.1380000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-turret_walls</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA4wMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAANfSURBVFhH7ZctSHNRHMZPMy6JQUwGMVgWZ5rNZDAIghhMbohpYTOJNoOYFgwmYcmw4MaCmBa2soGCwy8QEVFEtBgM+uycx+vh3Lt7zuGFl/eF+wtj9/w/znPPx/+cK77+SRJZPiSyfEhk+ZDI8iGR5cN/Iuvy8nJra2tyclL8MDo6ury8fHp6+vn5Sac/4OzsDNmQUyUfGhpCX7u7uzc3N/SQ/Mp6enpaXFxU3pGkUqlarUZvf5A/k8kwVxSrq6sfHx/KmbLOz8/RK+2xFAoFFeJFr9dzyT8zM6PmpC8LMRhMWhw4ODiQfbny8vIyNjbGYBvqtfuyoJFtkrW1tYuLC6Uav/hvTO7IyEi/N2dyuRwjJZjKTqej5gv5b29vS6USbZLr62vRbDb5JGk0GiqXwcbGBj0kV1dXNNhotVqMkayvr0duHaxaegixt7fX9+OTEDs7O/QK0e126SRxl7WyssIYOcxvb280xGIWiEEYsjDyNMQCEfqqxTDQYMNVlr4+pqam2GrDmEHsdxpsWGS9vr7W63Wj3pycnNBsY39/nzHaRnl4eCgWi0FFHR4enp+fR7lWVkWELD1XGK/qgN3OMCGy2SxaKpUKn0OMj4/f3d2pQA9Z2MbGEWFF30/4j2HmwwCwENVE+40WRjt4IRd0WUtLSy5FG4UX5dd7EpEapY6uNnRZARj1YCNj7R4dHRnn0ubmpmXJg3AVhrL7+3uaYwnLggjaNDAD+umEzWGXpTCWBV6IhljK5TIDJLOzszSEqFardFKw2QEkZYwQExMTbI0FRxkDJFgeNIRA4aWT4vn5+fDwEGsZ9SPytAowXp2tsTw+PtJb4iFLBx3TKwpsJfrJ5cVWG/oYLywssDWEcWMQc3Nz/CcZVMGN6UAUDTaOj48ZI4m8oeCSMz09TQ+5BIVxBoPwfQsttP2AzlRGK8igdwn0AvH+/o69ifpOm6T/JrDFF6owuDaqpAE0SFAU2PqD1+1XzQNXLk46NttIp9OowioqgDZJWBbA0nFRhhdWyX83VLvdNgbTAHm3t7cjdys9JJGyAGpm/JcPJjdIbu5z3LLxHafrww0E5QNFBOuATiHoKhkkS4H8+Xxez6++E3HboYfEqfz8fRJZPiSyfEhk+ZDI8iGR5UMiy52vr293wlXxrS5ZwgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:07:38.8440000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:13.8240000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:02:13.8240000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-turret_ball</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAVwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAALTSURBVFhH7ZetbzJBEMbPIVEEQVAIgsAgweGqKupIGnwTgsKAIuD6ByAQGEiqK4BUkNYgqCmCBMJXQlAQQlqL4B12H47r3nHcvCAq7icIzMzOPezMzd5p+z+JK4uDK4uDK4uDK4uDK4uDK4uDKms8HpdKpUgkoh0JBALpdPr9/X232yGIA7JwyGazJ1mr1SqVSsFjhdfrbbVaiHYG/RMs5nCSNRgM6Kow25LL5eQSJ0wmEyzjAFmj0cjj8cDmgFqtJq96kX6/jzUcKP9BVjKZhEGQyWSGw6HsJPqk70px/X6/uOgtOeyQ4OnpiX5q3W5X/pa8vb3JOIVCoYAIAVUHjltQrVZl2mAwuNlsyCIKeeT5+VnGmVHKcUNZnU4HSTXt4+NDGtUBcQ5F1nw+h+M6jG1tvJmcyqKSy8VENBqF9TqocfW2JnGyfJILsrbbbbvdjsfjcrGEth3u6zjccUdeXl5gFVjI0hvQEufTwZ7lcqmXjzpdOUIYsvL5/Gw2Q9DVGG+1er0O6xHebj08PCwWC8RdwXQ6RUbRVcpWEewiUhYadQj9X4xTkL7DauBCyxM0C6h8yCEgZdQZcPP5/v7Wu4qw/JOXZUmMQ48oFotw8KGbDlkE5goSTmURd3d3yKRp4XAYVj739/fIomn0HdbfaOv1utFoUC/7fD5L4TqVSgXJBLAyoQpiveDccQe3hC4MsxWPj4+IE+0FKxOlGV5fX+H4zWEbESI4N8HpyQIRgnObfxHaHqQQ9Ho9OH6jmZ/UzM9bZIHvSLPZlOu5KLtw7sg/tIj9oDJD56tcrAOHgMY3rFbQIyTiBLCagMN4atoTi8WMR70EPoGNLKXfbZ5yT3o/Pz9DoRBWWEFtXi6XrceMARtZyhtHIpGAw4S6jV9fX/RWaNRH74k0PmiI/Pz8IMgEQgU2sqjBESRgyPojuLI4uLI4uLI4uLI4uLI4/ElZ+/0/R0N2aXooaoQAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:09:48.6330000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:09.7890000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:02:09.7890000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-wall_5</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAGgQAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAOWSURBVFhH7VdNSFRRFJ5dy1bRIlq1iIg2LVq0bBNB0KJdEC3aGRUEFRlUphRmkamVWJhllv1Jhj/9mJrIlGaWpeJfKjro6Pg341+YYN/MvV5P5765826LKHgfh+HNPd+573v3nXvueb6lfxKeLBt4smzgybKBJ8sGniwbeLJs8J/IGhvprq1IzU7ZdDbJJ+zyqXUldw/0ddUuLv6UpD8Cwgf7GsqKD9HJLxxbnZe+zf/2amRqSPJiWJE1Exl9mr9PBeiGKbpaKyXbEv3ddekn1rAJmeHuszPjgi9ljQy14a6M52ivSo6LEPdo9t9hk8SzK8nrhbKorFCw8/yRVYxhMNwmdjtXCPQ3snCzFWTuQFRUFq6oo/zR4VCwQ2QSfnHNXu6lk2ujN3SHwpxdNLboxu7hwS8/5iPCOzMdel99jS0KnsQ38N1Ph3raX4sAhqrS05Q2PtojHUZMh4M0quLxUen4HVMTA1RZsz8/SlX/699kSKKG4UCLosFcygKNRvV2VkuHBiqjqf4WLxDxwGRNjPVJhxFMVkvDfenQUPYwSdGg3q0sGnY9bYscTQSkJssbrMTCwrx0L4PuOWxGRCWQNTc72d328nbGdjUvzPAudNSUp9BYGBRgVyHx4YUC1EKlCReQiHEHWXggNYVuVtUBQB3CArBJhKFS0mKJh58I9YooC1lVpckqzApQdi97J5uNGdttdqtVnLcXm1nyLNH66QmbjVnmmQ1DA82CbP0S8fpR6iTVHXDaIpnYPPHsW1MxQhKkPIBagNdHI6EsPBmQ7kTAArAEQjOCOfHw6E3UODWLAgEqjcT+kg4j2Gnb/rlEOpaBPgoLSTkwHG5uZQH0dMs6t1GOGvG88KAKEW/HEXjLuRe3KibMh8OypbEIuYx+SBzP8dBYd5NGylEjKH9+LixHnYDOipJXrmC4sWQ54VnBfsXEssvR+GAnjzkdIZqSfQ9y99D/8So4OgtKQ5R0GEFD0D7px47Ch5osSvaxMxim91v69u5qrRDTmUFzC4bKhISJTA1Ld+xwQ4PPDjecCtEUMRcq3UQDSUG9tKnSn9mNrRQI9+02toz6EFCgBNbrdXx9Qb0JjZfTQP9HLDIjUUOav6tMc9ytlKa3oKioOambKcfRTEc1+g18FVJ9qMUoH8gJ1YDrUGSYLksAM+MLFF+F9MsM1+I7EXVV8mJwVX7+PjxZNvBk2cCTZQNPlg08We6xtPQL813k9J0oSUAAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:15:27.7870000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:39.1540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:05:39.1540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lobby 3&gt;4</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAGISURBVFhH7ZdrbsJADIRzmp649w1OBk2848cCpT8Q+8lS7ZmxFUpL1W2xWCwWi8Vi8Sd+9nvz+bz9pey71ovIFanfx6paSUUpndMdD9wp09j8DhKsKcj4lbSmSB41UBqBPka3ykjAyv8oU7wGMBgjYsWMdw0ZjagYacx9caTRNEaqAMTUJeIe/SNpNoLX04CBDN3q08evH72fI7jYZBioMr1LmLk3nFPgNgGjCdDqLwCEr2S1w9CQDpg1fWv6CyDJpDteTHZOIFaW12WMJIEopUoEYrTiupFeANUdlWyUt8aUmIEiukElflqmVHeGHd8DXBexyvs+vrYI19kMUEq8E6/LiaoXUmuyS6m62+z73WrdoMXvYnXnglJ11wckM90F0a3uXExPN4HpLmgWgQZspuR7jw8IjUX6m4b1Q0bn7ITPpK40gl8XYGlA5xMRY6YaYxKkYkl1xYDFErwigT78v+BR7Pc8fQiUH/3/LFJ2RJQDkd5VfDirp7F9Q/5EfAXf+JoXi89n225/qfoSrra8FQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:37.1260000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:09.3390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:09.3390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_redirect</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAEwIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAGPSURBVFhH7ZY7q4NAEEYX7CwCNnYpQkorq4BVGqsQLK1CLIOIhYWNBPzp+XBG2ZsL0YneawJzqt3ZR87sy5j2I1EtCaolQbUkqJYE1ZLwtVpFUTiOY3q22y03zOZ+v2M2mvZ6vXK0Y0TLHkksqHU4HHhSqVYcxzyuZxEtZGs7AYFWlmU8yGK+VtM0+/2ep+uZqlXX9WazoTFDAczUQqqe5/FcFlO1hkXe7XbH45HK4D0trFCapq7r8iw/UwWTtC6XC/XGHSzL0j4H72k9naQgCHDBudIxrlVV1fAiJEmCCFSoCuZrnc9nRJAt1zvGtbBr1BUFXBlEltLCqcrznCIyLaTCHY3BOlNwvhZOJ84WJUkItOz9Pp1OHF1C6zdTtZCK7/vUCb9tZ7amVhRF3MWY2+3G0Y7VtBDldmPwwaHgwDpaTw+6vX3EOlphGHKjEHqB3mNcy14MEaol4W+1RlnnyI/yxVrc3IEPM0c7nv7VTIKHvkS1enjoSz5U6/9RLQmqJUG1JKiWBNWSoFrTadsHjV06G5Nb/6sAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:27:25.6030000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:48.4770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:10:48.4770000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_drill</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAyAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJESURBVFhH7ZYxq+pAEEYDFlYKgthZiJWIhZUgCDaiICLYiIhoI1qIgqIgIuSnv293vuStiU/v5r6IxZ4qzuxOTibJRM//SpyWDU7LBqdlg9OywWnZ4LRseK+12+0ymYwXUC6XmUjE6XTq9/vFYjGsmcvlarXaarW63+9c9FYLS+Eh+4XEWijV6XRY5RmFQmG9XsviN1q9Xo+bApJpwalSqbDES2azGda/0kJjudYgmVar1eL+H4Ce/VPrcrnk83lZFx6ABFpoADdrUA0XfL1ekbrdbvP5PJvNMqdRj43sjBNeH5rf7XblGCTQKpVK3KydcMFMBETeKgUzjywWC8li9X6/N2+BrZa6Iwby6MSZTCZcITBscDweQ/fxeIyI6mqArdZwOOROfZHmFDBBw7hIYNggfGVwIFV+o4UKOOVoNKpWq41Gg9EYuCc8gcBwAPYz4XkoJ8HfaP2QyL1+0DI7ieYz+hGt6KRlWHc7fGVwbvMhSFsr8mCpecSM77fbbYY9b7vdMqpJVQvzIvIBUHNOcsvlkjHPwwdHgiHpacWdMIwQV1qRgR5/h1PSOhwO+DyzrqbZbMrZlRZ+MGwJXltdPwmYn5HJPhgMmBMtsxlWJNM6n8+YYSyhQc82mw3Tmk9rTafTSJMwGvDBZjrgc1rxJuG8eLyYfkRpvcX0xjGjNuDfi9kk/JNBhLlnpK6FJtXrdW7WPL1rEf6bFtMamT2C1f/Sv3D3S5xWAHe/5Eu1Po/TssFp2eC0bHBaNjgtG75Sy/f/AFMs91W3zyicAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_catch_grind_1</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAKJSURBVFhH7ZfPq7FBFMenLCxESdkpUiQhC5SVlJWkZCPERkmiFCkpf/r93jnnee4YP67jxXsX81k9zzln5vnceeaeZ6jTn8RpSXBaEpyWBKclwWlJcFoSnJaEe1rL5TIQCCiPRCLBiaeYz+eVSiUajfJ0SuEaEcS5wuCm1vF4hAdPoHlaa71eW1NZwG82m3G15qZWq9XiQR7PaY3HY3PJ79DtdnnMLa3pdMq1Bk9oTSYTHvwYeC4NvKK12+0ikQjV+RdAqrXf783hWLNms4kXStnD4YBdZb3cbDZL2StatVqNilKpVKPRoGsg1er1ejxSOy0WC04YYAdDhYs0FLe1sBUojYlWq5WvCKRa5koMBgOOXoAUF2koeKa12Wz87Ukb0JxaqvUgphaeTsEzLbw1SuMCy4vIu7WsNlQulyn+o9XpdDipFBopBd+ntd1usfnM7oql8p/LWrjnpFLtdpuC4LVa5k61gBO6CdeRFlYyHo9TGs+m10d8QCsYDKJ1Y/G4SPOtVa/XuUQp6wv1mdXCUlWrVfRLroOW2YhhzWGPz2gR6L0/e8ts6ObrI16rZYJnQaJQKPDsGt+B76Xg35Zm/3fMDgD6/T6CfCPlhVpYnlAoxPMqVSwWEeQbKY9o4auMsnQ6nUwmOXQDHAZ5Xm+r8I2UX7WsIw0+tZy4RiwW4zql6G84+/hc8vSWx6uxTjX+f5kFujcXaXBmQfBdWsA6GsDs8ryVyWQ47UHnnxdocVqDzsRRzf1GdQkaOw18rxYwPyH3yefzfuN8uxYYDof48HHFNZDFaYKrNZ/QAlgG/HzI5XLhcJhL9e+wUqk0Go2wz7jO4xet/4XTkuC0JDgtCU5Lwp/UOp2+AI+h9Y2ZbIXAAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:32:07.6110000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:42.0080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:42.0080000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_laser_1</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAVgIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAHSSURBVFhH7ZYxiwIxEIUDloKlnYWVnZ0IVjZWItYWoo1gIRYWYiP40+9d3tsQFt11LoHzjnxVdiYZP5PZqHt8JEXLQtGyULQsFC0LRctCk9bpdOp0Oq5iMBgokYPdbqe6nul0qoTnpdb9foeHFnkyal2v1263q7qed7UWi4VWVGTUGo/HKlrxltZ+v9f0iFxa6/VaFSPatbDDvV6Ps8MAZNGK+zUu3q6FGZw6HA7n8znHIF0L/YqarDabzUajEcegRWu73XIevtP5fA6KIF1ruVyyFPbpdruhIB9Bk9blcgk7jA5AJF6ZqHU4HFTIOfQuInrwNGmFHcYAG45ILi3sTeikYMBH8lJrtVppinNoTAZzaYVmwHWFV4pBRshzLXgo7xw6gEGQRSv0K8BY0VYtnFe/32can83jI+la2JvQr5PJRFEPg+SJFt5VJZ07Ho9MkHSt0K+QC8dHGCd1rfgnEz84ClckasX9utlsFK1QwlPXii/0+PhIilZ8oePmVDSCKVLX+hnYBhV4TehXK7X/PAbe0dJUO0XLwreWarwg8U1sRnU9T+6tBv6wltKeWvVmtMZTtNrQGs+/0PotipaFomWhaFkoWhaKloWiZeEjtR6PLz06B1o3RE1iAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_polarity</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA3AIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAJYSURBVFhH7ZbRqwFBFIenvCme8CJFnpEHKaVQSklKXjyIkpJEFPGg9k+/v91z7nbca9fO7rZ5mO/hNntmzvjuzM6ZVdZXYrR0MFo6GC0djJYORksHo6XDZ63D4ZBKpdQvpVKJO3Tg5OBwngfP5xMePNQhhNb9fufk4HCqB8PhkMf9EkLreDxycjCKxaKf1nq95oGCBLTK5bKn1u12y2azNM5tgBBaq9WKk5VaLBYc9cVTq91u00SVSqXX61EbRNRCm6O+vNdaLpc0C84gtsBVBCG0sEKcHEXrcrm4FWE6nSICFXoEIbQmkwknK4V/kqO+vNHCrtEUaKBAIBK71vV6HQwGmUyGgmg0Go39fk/jwV8tOQUKKQUjasl3ADVss9nI+iypVqswRsqLFjy4X6nxeMzRWLXk6/8WnHpbg1Odgl4oFKgPv03bR0TUqtfrnPxaa7ywx3CqZXU6HQ4rtdvtOOoQUUumA+zgaDSizQKn06nb7XKfC/XJtcWFQ0GXGLWwEufzmTsEbkliEPpT0OX2ERG1Ho8H7rFWq5VOp7fbLUf/IV9BW6vZbPKDJji2NGMsvCwYnuViaBGv1suNjucv0Up0teTk/p8Pso7YWh+RU6PN0WCgFnCmUxrkDSOZzWY8iOCwL1G0cMzlVYM2bkPUKjrv+IuaXqvVuNuFkv0JosXdDjjqHHWYz+fcEQz7W4FTfYmoBeQXgD9wwgInpAVQSPP5PI/wALcQbW5yWgRu236/n8vl3BcOpR/fM1hOXAY8KKBW8hgtHYyWDkZLB6Olg9HS4Su1LOsHRWnZ0Atn9ckAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:36:38.8140000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:31.2030000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:31.2030000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_polarity2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAALwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAKrSURBVFhH7ZffyzFBFMenXCiilNwpSkmKFClRbkRJbpQkUVKSyG+S8qe/X3uOfeZddpld7/O62M8Vc84cn92ZObvE9StxtVRwtVRwtVRwtVRwtVRwtVR4oTWfzz0ej7gTjUY5YJfZbJbNZgOBABVE8XA4XK/Xl8slZ2hYaV0uF3jQfMKJ1m63M1QzkM/nz+czJVtp1Wo1nnHHthbuutfr5SrmxONx3Avkm2qNRiPOlbCntd/vg8Egl3hFqVTClOdaciG5oj2tQqHA8zVQZDqd0nrh3mBXVSoVjmksFovnWsVikTJwV6vVKn0GNrQmkwlP1kBlWiYD/X6fM4RoNBpPtAaDAYVxTCCuKwIbWrlcjicL4ff7j8cjBywxaq3Xa70jtNttjECFvgJVLUjI/QW3gQOvMGph1aiEfiicaBlWEE2LA6/4S6vVanEBIXCkadCJllwQK0iDm82mXC7rHdXn86VSKRx8ihI/WvCgPNBsNnnUmRZOO88UIhaLYaTT6fD3B0Kh0Gq1oomshfWKRCIUxm/Lh8WJlnxc8Hk4HPIXE7ARaaFZS74sNBUaJD6llclk5O1vBtokuuZNS74IPHCoos6ntHTQPPUH8+Fw6Ha7hufSrVMaGvpjr/usFiQ4JoEtJT9LcDiE3O6UwCnjqubg6HC2RiKR4MADvV6Pkwj5Zijxjpb+wCAspqDxchLxT7W22y1na3yLFsDC8QQh0uk0jz4wHo85ieBhc5xseSC/GgAsKwck8JIj/8rtSjhijkMtHG25ApAbxOl0wtlEf+eYxu1KKGzBO1oc1kBT4NE7hv8p1iSTSUz5DS2ArfOOGV5b0EeR/0taAD1TLvUIFldv5r+nReCBi1d7eTPR/0S87XCGxmut/4KrpYKrpYKrpYKrpYKrpcJXal2vfwChyMdJags1hQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:40:06.5830000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:27.7690000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:03:27.7690000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_polarity3</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAiQIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAIFSURBVFhH7ZcxiwIxEEYDloKlnYWVtYUIgmBjJSKIjYUoiGAhChZiI/jT79vMtzGuu3eOt9E7yGvcm0xmn8kkd2euf5KopSFqaYhaGqKWhqil4d9q7Xa7SqViUhqNBgeehjNVcGoBl8sFHky1aLVQgTNVcHYBw+GQeSlarf1+z5kqODuP1WrFJA+t1na75UwVnP3A6XSq1WqS4x7AC731JN1uV17R6XQKtVxSs9kcDAbyDAJpjcdjqY8lwIrkay0WC0nCGURzOEUQQmu5XLK6MegcRHK0jsejuxEmkwkiUJEfQela/gXU6/UkmKOFXZMkPOB4IxJOC/Xd6yCH7ZN4VsvtMcD3kGA4LewG6xozm80YzWjBgynGjEYjRoNp+d2CTpedEW5aiNbrdUnCu/2kQFr+SZpOp4xablpoN6YYgzuQUUsILf/2x5r5qwCo5R9R/MKRoCOEVr/fZ0Vj8MxoSqKVudAz4qB0rfP57LoKrNdrDqQkWu12m+NKcGylihYcOpawPC5EouUvhoqXtVqtFksYg2dGPT6ghR3kfMtjK4MPaPnHC8zncw54JFo/Um7LZ/603Gw2HPD4gJbfWOBwOHDAozQtDltwfTOaR7VaZZ6F0XverZXpdyhy4J53a2X+4yisxs9vKVELDc4ky6+03k/U0hC1NEQtDVFLQ9TSELWe53r9AstWW6g06bnYAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_maze</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAVgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAALSSURBVFhH7ZfNa/JAEIcDHgSlgqCCFA+iePPgQQVP9VBURARRRES0oCjiB7b1CxH80/szM0nXmKjrvvD2kOfSZGdm8zTZzEbt9CdxtWRwtWRwtWRwtWRwtWS4pTWbzTwej2YQi8U4IM/xeBwOh9lsNhQK8XSa5vV6X19fS6XS19cX5xk4amEiePAEOk9rfXx8+Hw+nsWBdDq92Wy44IbW+/s7Vxg8p1Wv17n+HoFAwDSz1xoMBpwr8ITWaDTi4seIx+NUaKMFZYhTnnkAntBKJpNcrJNKpSaTyX6/p+h6vS6Xy+LyBfhPELLRyufzlAH3t7c3OgayWt/f31ypg2k5cMlqtRLN8NAxaNXq9XoURupisTAVgawWyrlSp9/vc+AK8Sq1Wg0jF1qfn5+mOFlDhU6Bolaj0eDAFWgcnGTYX2jhqVEMB2gQGFHRwgyWdYM7cTgcOGwgdkcsZbrurxZqKAaQSoMqWkBcmgQMcrkcFj6iMOh2u6YTDszrshbOKQaq1SoNAkUt8aW2gBYP+ESffLlcchlpwToSiZhhuo2EohaAWSKR4CkcQOvmbIOzVqFQ4Lim0e01UdciWq0Wz+JAMBgcj8ecDS2sfI7YWatroWdiMfEU92g2m1T128fNt0BEUQs3wLKAsK1hDeH1enl54dFLuEE8BzW921i+i9rtNgcM5vM5bqSYA/x+/2634xNZHtHKZDKcLTyda/CUo9Eo5+mI60qOR7Q4VQc3gEftmE6nnKcjdlA57mpZdh5saxyww/LUzloccUBlyXOZDnaz623HpFKpcJ7O+WuPIw6oaIlrC6AzYbcWP9u32y0+8MVLAGoI/0CLwzriRxU6M4/KYPMFcY2KFuh0Ohx4jN92Sn+cUNQC6KjhcJjDzmBy61Z9A3UtAg+0WCziV6H4ywzH9DsRfZXzDO5o/S9cLRlcLRlcLRlcLRlcLRlcLRn+pNbp9AOoaKEMGvM+RwAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:44:09.0760000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:02.4930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:02.4930000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-tbeam_end</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAeQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAL1SURBVFhH7ZdfSFRBFMYXegiCggh6iR7ChwipCIogEiIIgohAggiKhF4iIimwggjW/qzpoi6ZGhVuKYVkm8hS9l+0otiwRJKCIih6CCIwCHroob7dM57Ozl6ve/a2m8F8fA/3zpwz89uZO+feDYWnpRyWRg5LI4elkcPSyGFp5LA0+j+xzjTu+zk249ebEPnDo4WmQ68Tx49ej1e+Gyj7MTqTRvs+Mgu33Re2ocsETcgPq7b2GDiYCS4YKxGvlD/PMkARYEIz8sO6073Byi8M62HPOmscTz/uXYOFoJRJsTpaq6w0uACs3stbrEF8/LRvNWV5Y52OHBofnkOhfAFrsSInj1h7N5SoaGo4QL11pw53ndvx9flcGYDlQJc3Fqgp6P3gIrkFWqyejq2cC19q22U6hPC8YxaOoSk8sDrbd1IEfmgsup8ROSd/pZKrOHcwUWFac9TWvIfDYNzaWI31B3nZ8VigBSicoMWSuZ5LxeIwONm1ycbi9cQFnYsSYDVHqzkMHulfloXV17mZ+1BIqTEI1uv7iznXZxNRtDgM/vRkwR8scHAHltG0BsOyKp/ngp1t2ptbaQ0W9uvzs/nUhLm5rEFBsDAl58KY/taVjfWRGupFpXhwbX0uE2ywUGG5CQeBGklBsCA5so/leYfTWFhbvsey03CsgFhYeFmWPA0myQCHrIIut48UEAvCmKnkSh7E8qu75QiQpw2zhIZvruB7lTGQmTY/xaLVQzfW8qsGXzVj95a0x8wDI/c6XSDkYqisxfLXl9Q8OfK0wLrYsluOnH75FBuLPhNe9i/HruE5Nq3ZklUXdQotWVXeU5Ib16Y1b8l0nLjcI4XSzQEwPjrQWHSsq+e3czr8dqCsZeK1hovR20tlL5aKuP8OFgfAWBLTmhGmmbJukVHu+UVcdCxIlsbJDCb5xiwFFtRQV/NRjGMZxQxvTxOaUYmwSPHWKpRQ/p/47cVsnFA0mm6hqbH+iRyWRg5LI4elkcPSyGHlr3D4N426S/mDbfFPAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:47:32.9470000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:23.8710000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:03:23.8710000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lobby 4&gt;5</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA9AEAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIAgAAAJFdH+YAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAFwSURBVFhH7Y5BboRADAT3vfn/PUGy1GrVGM+Mgc2FUh3A7jZ8Xl56/P7k/if6A3/w15xYwxVWKlp5Jp59QrRTTtYgc5aPeYShtsRDMp2PxNAzIfC5nt0EJGoBthJgC3N8p2ihGOeYHKZDmKOdcj3rC7FFpsJz33QC0ofpcN0AQze2c7yzZaOryhKqPWp8SJ9bIqI3unJzDgpfcw4KN+rHxw8tgc6jxufmeOei69cmIP0dJyBdiPB6d0zOiZB3HnUJT+v5dreJjp+43Q7jCUyu2wEnRutMbKeZbdD313TSsIOauvKE26DvTgNb7qGO+vEqfL5iXVkFtUOA7S1eBefceju1Dw7daxNcmbpb6YATtcpvFTvgxJlKouKvWMltvKnn8XU0AojhNeyAExIr4cOpTXDlTIDtmX1wKDUFmdQ+OHQ4Ds9ATGrVx6+kFiAJLxF9Pye1LUDeJ5eIvt/SsyY1yIdXwTkZq//E/wa+vOR8Pn9xfQwBfcioNgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:48:47.6590000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:14.7120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:14.7120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-paint_come_along</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAArgIAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAIqSURBVGhD3dYvTwNBEAXwFQg0wRBCAoGUBEGCgATVVPABUGiSaoKoJEHhG74DggSBRCIwWNQKFEGhkLhjHlva7eyj5fauFwbxI2WYzt1j9/64oij+BVq0iBYtokWLaNEiWrSIFi2iRYto0SJatIgWLaJFi8IH7x5EUcGuHlwL7+ZEfG4d2ifCB+981JxjXQ+uhXd9dZypQeLmHHN6cCVhJXQImGmQDz20Eu/mxV00PzYhCLbFeHOPNTbCu7Z4js5FKxWkyxpnJqzAoXgbHP/bi/odJgbZVs1NB2HXwrVoqRpMDNL5bfNMpEHCPzLdKZARJCx5V8R7Fst/I9p6ULZREBxnK6qXDoKTjZux1bCsbI/GcOA1NrQU784FrpHxW3gNQQ7Eh6r9BH37bHBlGUF6qnnaSmgI02LDK8kIwu4acCFWh83eLYoTwVbrNh5aixqC4ER3WPMXXJA8TL0vjhlBcHfaE2fiVRyxxjHpdQX1vhGUDkKKU/GHVZ/25mokCKQHMRjkT67IeOPv9nl6y4Zj2purYhA4YI1DeACm34Fl2p8rI8iTaoZLsSnmh814poRni+6FercVZATZVc1l4U1gIRme9qVhUUv7ssjPr4Fl3q9iCLGSnGCYqXsbCBKGron7+I9TXIl0Jb6l/Q0FGQ3fEKfiUbyjaQCfUcPflpLvadFBBhoOYhQtWkSLFtGiRbRoES1aRIsW0aJFtGgRLVpEixbRokW0aE/hPgHqc3wICjoSCAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:50:03.1910000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:15.5320000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:15.5320000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-paint_redirect</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAZwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAALjSURBVGhD3ZghbBRBFIZHVNRgCIiGkEBKSoIgIaEkVaSiSREIFKKK5ERVg6hEgr+gsRUkCCQIEkQRWAQZgSIoFLLueP/uze7bN//e7S63lzzEt9n95817+25m3sxemM1m/wVU9AgVPUJFj1DRI1T0CBU9QkWPUNEjVPQIFT1CRY/UDzGcC7N/YFc7HkwMW8Jz4btwIST/v4R3wkNhw/arH2KIgn6xvmxrx73By8XwSvlbxA/hvu5f3RjDIWS/UmfKJD4pX115nHwUl7kzZtiVi8rPEGKYGn99KKa03BWOtk3jaSPQmOBXbcYGPwWshUtzm03hUPgjWNtz2MhdYWgTmVSBxiaGbyY2krjcYrsj6AKQ2E0Gd03DehLBtGjGBdW8p8RwZOzBJDXum4b9zMEYxHBs4uLXXlw0ylHRfcA0NfJEyrk5EVDuUttvoaznOsAQymp1W0CMj8IZtdPkywBUicCRbsBUQ+aYr1q3IMGbWbAx4dPxODXaRA4EtqgYsNvLAo5FDC9V7MReajw1DctGwoJkdrKgq4avD7zrRjJo25BwZLihHF0RTgQ2Wu8ruzFASea7f1HlkpFNBC96r+FIE8OduY3uA1ZzcLS0JzFNNsVFBFSnB8ILAafMp5WTNvJ1BVZ/IkAxaVbNxBuhKtXFZRAt9ZzaDqXc/NjIn1jbxkNv8gCrSSSGq8IH5TeBkaFTPhM6M9aIxPBEYKOAwrNJ+wjoaBd6t3mel2zwjNp2oX0UvghLN104eKQ6JQ6YcQU2wLwPuEbtl1Ee0e0o4Mh+SO0JcILzjj1Kg9cCzkH1cGJPaf8c7T+tylF4q3wkFk4jRnnDzy994N8QuV0z2XxaD2V+aCyd9jlfaZDE9cYL1j6t7RoSKR1j8/msDJZxJvCvOZDbrymROsAtAf8tfRX0dzLuoaFti/bVNIOBNSfiECp6hIoeoaJHqOgRKnqEih6hokeo6BEqeoSKHqGiR6joj1n4C2HVZ7Qixnp2AAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-paint_bridge</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMSSURBVGhD3Zg9aBVREIVvkSKVhWghIhgiEVIYBCPYGFIEtbAOmEYhhZVYpFPsbKyCaGchgoVgIVjZBItY2FrdwkosxMoy3XPO/tydnXvey+7mveBYfMvuuWfm7rz7s7svjEaj/wIqeoSKHqGiR6joESp6hIoeoaJHqOgRKnqEih6hokeo6JHmIoZ9YXQEVnXiwcSwIrwQvld5a3ANfYXFNRcxxCpgKIs6cW9iWBC+qHyTQFFXdHw6McYhzOnEvYhhQzhQubpyt85RHKpkzNiVg5SnLzGsm1x9uY48clYkWzSNO63OZkUMJ4Qfql+AkXkknFe+eQFrh029D/DURlvIdkoyS2LYMv2iiGXqBZi+uPF2jDQ1hVwyjcdViN0pb1OfBp52jMhNIXaerqfAf428kGJ91o28kHJubgt6T/8tvBfWUvLjopxadhRfoa024GZ1I6bakmAXogUFLrQ6mwUxnBLuVP3p/rGmluCpjbaQPvs6fNdaHR+VGHZV/nGg37QEioMIO8oADhsJS/plpsLkQv4IuN/TOqY8GR/4VND7OYb4gcBGq9jPp8LhI4L+nwsn65jiIIINhPFySmzBXs+LmdaLY5epBTBzWmsEu9NV4bHwU9hsJWbk6wrM5o2g3K0uCm+rfjQoZq40DqHc1WzSXeqdJvwH3Cwbh5InPI5CMDq/VJ/gTWPoyzRGBBtJ+Qt/EvaohxHDS0H3uw/RLqxu8zzfssE96mXkbxNgg3ot+UfgHsRbRgSTE+IBmMeAs9TPKKcIe4Wf/DyK4b7y1zypE35TYg32aewU8yoJpgKeLdYL+q8P9iZbFjPue+SjYP1gWY6FcdU09AW/bHo4qRuwvrzYfGr35RnyyFlKOPS7GUWcS3k0uZePGm4m93bhnVD8VyBXrYT4J+NzZeoCHlD5SNTk/vHTL4abAt6jbAwDvi0dn05axHBBeCh8rYJ0AmhoO0NjNe3OweR1VK7XNQHfO3jD0LF4hX8t3BCadVvRuvAMFT1CRY9Q0SNU9AgVPUJFj1DRI1T0CBU9QkWPUNEfo/AXhCNk2HocMBIAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:59:24.5760000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:21.3850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:09:21.3850000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-paint_walljumps</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAABgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAKCSURBVGhD3ZYhjxRBFIRbIE4hLhhCSCCQI0GQICDBQFacRGMhOYEiiJNYDIqQ8AdIcIj7AyQIDBbVAkUQBIU8t7zK7Oy8qa69nd4ZhjzEd5mrqX7dtd3T3Wm5XP4XSDEiUoyIFCMixYhIMSJSjIgUIyLFiEgxIlKMiBQj0jzk9NlYjuAOF56MnBbUF3jNvuYhp0zGWq5x4UnIad/46fpp2RiEjbWc48KTkNM76qflrwQ55aKTkNNj6scjgmBZ9E3HbJqdnA6MUzem7+4ZDApyxKZZwTLN6aMbzyvjxP0PZJBbZPrXQZ66sWAmzhu8q8ogvL0t2DQb2Mb7Y7m/0r0GKoLktGccGd9WOvhlfDAecKHRNL+8/xa6wXZa+W4FTBisN2Gp4WPjD4xBwKtccGcwuK42zo599873CwYFOTT8jnEW8N3jotU0ffq6h/TevwMyyDGZts0EgzAHXHgwzentf7i3wuP7AzKIn1LPS+PK2pzTBeOZoWbrxBetor/Vona3pDqP7wsMCoJit9m4JqebK49vA+ovjuWyfrjB5z1ABsHudNd4YfwwHrGpoBwAqLsRlKf35lnt9wNEEBIG0Qxia/EzyekrtR/Dwv6KToZQFqsNwu3HsGOQaWaE24/BgvSFYeu83LLBE+ndRNl+DEUQ0D+MGByAZRtwSfqnoOxL7lrqo3tj3DD21macKc3Zwl5Qt6xqGdAfTHzjrAU3gZ0OscEMqNU81N2vPAhxmYuuarJ3hiAAN9mcPjnzNt4b5Uy0lP6ZgrTkdN14bnwxfhttYzxDw7uLRTum3zGYOUhQpBgRKUZEihGRYkSkGBEpRkSKEZFiRKQYESlGRIoRkWI8lukPUXWFL0939PoAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:03:49.1390000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:24.5630000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:24.5630000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-paint_speed_fling</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYgMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAALeSURBVGhD3ZgxaxVBFIWnSJEmFpIQRIQEQ4QIimCENJEUKV9tYSWkFot0ip19EH+ACHYWllooFjZpRWQKq2AhVinTrffs7ix3Z85mZ95Lgtfie+47c/bM3tl5MxNdVVX/BVS0CBUtQkWLUNEiVLQIFS1CRYtQ0SJUtAgVLdJcePdVqGZgMw7OhueVsIwcuarDfNRYyvXew+Xi3aUop5w2q/6ghjLmQmARGACel8thyKo/iKGEk+7BSpm9kM8hi4Xt9zo7T7zbifqeUF8GrJA9ZjwX0kJ2qC8DhN2Kwi6ykEnU90yFnNmoFINB6/c93eonDBfi3byAjn62OvgjvBPux0FTMVSId0vCU+FXqwNcvxZuJjkCC8NUWxeOlMZAgassNBvvDlQewL6yJZwojfFBWNJZrJBdYSwoAN+WDiwiLSSeHaeBgV4PWQjbV43BoL+PgWK6wCK8e6NyQGnf8F9GFhuVwAthRXW6KDwW2Nt63/lK4Gc85KOfReVbEfA8sRc8h4cVgqA7XUiMdxutR98Dyg+OaSEY4WvUC5ppr/2BZTRidbonPBOwMjygIZr0dwXKTwTeLQjbwisBK+L4YPAZNGkaS2lWtTjsgHrPGv5W9prGaUjDLqoQdtCcspB/8o30hbx5ni7Z4BH1DpH+0PNOvumSDbbjQsAuDQg0O298D7hK/UM0S6y+HyvhBvUGvHuo/IHfwhwavykx8FK4IcyrkNPW8vJphY0sXcbxHWcs9NX81Yl/m2d5K2hvoD6tw7gZNZTS7a49Ul9aLJb61FfCJ6EuWL7VgSXnK83wBpZ6+Vvje1IOKKIbwPqjDVwVvrSmHPCq0zcRSP3D08+7u8J35R0DU7z3Hx7dRYd3a8IT4VA4FsLNuIaGtivJfTH9jsH478i72wJOGD8EPUOw638U8PYW2L2JYBUqWoSKFqGiRahoESpahIoWoaJFqGgRKlqEihahokWoaBEq2qNyfwFOLWG87htnjAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:05:44.0970000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:54.9580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:01:54.9580000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-paint_red_racer</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAswMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAMvSURBVGhD3ZgxaBRBFIansLBRJCgSREiMRFBQLBSsJEXAFBapUgsWVodFSrHTwiqIWlmIIFhYWKVTLGJhayFTWIlFsLJMd/7/zs7e25m3ezsXT3gW3zH775v/3ey+nZldNx6P/wtU0SKqaBFVtIgqWkQVLaKKFlFFi6iiRVTRIqpokcmBd3tgfAiuSeND4d0l8Ar8rL3JAfgG7oPltM/kwDsP5B8rZUUaz4R3p8Bn4dnHC3A09q1+ahMtuIQjjdcseLcKfgu/IXwAVV4cNUZa4FAOGp9Z8G4B/BB+JTyhB1qV0UpycruVaN549zzJT1hiV0AoH15575bAI5DGnsNvFZQO5G4r0TzhJNHOTXZAd6l6d0vEklE8cTk58S8H8jLJvQ+Oq7E9hIZ3a8KIrKWBc4F/OEyrMvdIjZ1CaHQNhPXJu+Pd91onv8A7cFMazYReVhfV2CmERviz0oylxulw2kzCAWaL02DyvPvi3CJ4DOSi2HkRQyM3XAfpLe+CcTdS40Fw6mx7faz1rUTX4EU8G72qHwjbIoCUzukczGo0HUyYnaQPj9My74N5q1LEkWoY4Zy9JBKfBCOg3a33TdxQ8ryvwdBKiPCiL6ClGtLsapY4wqugJyzbOHZfQJJexBNgE2jbmIcxiLPTdfAA8OHaagy6yJ8rUrYj6B7IphpP+Fzkpb8/CSglzGrSjOyosV14dy/pT3bVWIl3t5M+SlAJiRkoHQhnx9Rj+q4iLKStfpOTpfydO3I66U9mHEhep8PqPJ+yyR01tg+WUtvjrRon4brV7lOJG6kI1lWDiGJUc0aN76M0f5iY0tfyXZ7gPv+rECNPwQXQvE6i3fU+QMrKKhLya98L0un3GOD0K/d9kY0YpG3eSqgWpSbpJHkapw82PG+lC2GkWojRasxK9lcSDqLZ87TIY7vvWijX0vx8Z68uII5aZsvgUx00hDcgvxORPL6//MJiN/QrCkuveYusfjK8Ow/4/egLkFsCtqnx3KLaV9JOTIY9R+Fd/RlIn4f4XSvL3TqwjCpaRBUtoooWUUWLqKJFVNEiqmgRVbSIKlpEFS2iihZRRYuooj3G7g+nqFcuAqws2gAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory>
+        <Time id="47" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>paint_speed_catch</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAALQMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAKpSURBVGhD3Zitb1RBFMVHVFQhCIY0JHylJBUkCEgwkIoKBBqBgQRNKpDIYlANCX8CDtF/gARRg0WNQBFEg0LWPe7p7Ly9c+fs7rzH22Qv4reZPe/cO3PffOy0oeu6/wIqeoSKHqGiR6joESp6hIoeoaJHqOgRKnqEih6hokfmX2I4Fbp/4L5O3AzPNZRj+ewTRvNwKLeKAbYQw5bJMZaiEGYYwlYxyBZQPM81lMkKOS8G2EoMd02esbyQz4uE9s28qTrdJGQG1Fg/QssPbCGvisBNAmObj/OncBl6fmineDMLiWHfjPNRfrbIsN8Hbwox7Arnaozv9fNs4oXEsC1gKn/MdPBb+Cw81onWSjqmvwh5DCjoYkllslGvO4ClhjeANah1Cwq8oROuBTmVVJ/gmfWkRl3IgaCncRnwPbSJJyOGnVkfuT+83Oo3KzVw3JaDWzUTFnS0a5NPQnnUgufMlxq1OfNOuN4HxHBFeC2w2TrpfVMRw03TB/qlN4jUqAtBwD1r7olhb+bRMWDcxXERMRyZ/EfUJ6RGOp0eCG+FX0K1mSrqfQWmuxHEcEmwL2vhXqRiE+lU052AY+odA15mnX/hxZSKzdQdTVnIicm9dA9SsYl1zkhaVjb30mWLILvR29Z5fWSDl9Q7lPqmAZ5S7wwEPTEB4ICZe7Dp6hiwQ/1D4S9p6YmIINxjvquAzAfhjrDdB+A3Jf22WC9Y5/4A898zQmqg2jpwCP3fBQW1r63YGM5MnMjEp5h/GXa/0qCIazqpymm9qwvhG/2MehWlgJtsDF9VglV8EuqZyNT+lkLYPyROqVdBRQm8LRwK34Q/Qk6INjQ8u0pjNeVgQEshbJmPLMQhVPQIFT1CRY9Q0SNU9AgVPUJFj1DRI1T0CBU9QkWPUNEfXfgLbAKKC7hz9twAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:11:13.7400000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:29.6430000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:05:29.6430000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>paint_longjump_intro</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAwwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAMgAAADIIBgAAAB4/iLEAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAGnRFWHRTb2Z0d2FyZQBQYWludC5ORVQgdjMuNS4xMDD0cqEAAAM/SURBVGhD3ZgxaBRBGIWvSJHGQ4KiIoGEhAgWhhQRUmi4ImBjIQiCNgpXCYpFStHKPoh2tnYWgiA2AQstLGxExMJKLMTKMt353rqT/Pfvu9uZSyL8Fp/m/nnvzc7e7MzcdgaDwX+BLEZEFiMiixGRxYjIYkRkMSKyGBFZjIgsRkQWIyKLEZHFiMhiRKp/Ht7uvAODfbDqg0tBxhQ4D56AL8Dm/wYfwD1wSvlTyFdgjaUs+OAS4L8Afpm8Np6DGZuRgpS4hCkbWgK8N11WLt/B7mBSmBLmspPCSoF31WWVsp2yGLbgGjdtZ4cJ+nrt+iavwDI4YnTHwF2wA7y+ej7VQPop4DBBPydcv2RLaRNonwV+MLfYxsZzruFfDcTfQNJTWgs0W85TXS8beq6hNewgQD9qIDeU1gLNU+eprnfkQPD/NOiDb3WdcIl8AdZt+CQgg/uGmvPsc3qEZwlYD1euasVkI402iFONBops3cMBzvvOSoD/gcmz8GIfg+Vax0FfqutWs5Sy1EA2gLpTCurWUlgp8M6AthvGXZ3Y2nswdBMZtmkEpC3YM3RnSoGXg3lTZ+UgtwcG+VUg8QjMJSH+HreWv7Shk4CMqy5zHJzWK9avBsILHRJZ0Ha21lgPmejgCN9xwOfB5+VwLeUwiKsTT533wQ/bOApo/HNFik8E8KwANf/XwRxgP7wm2+75u/z68Bxg5qrmA8fuyh7o/VJKrozQLgJ+a2om/ATdhikXF0ZKB/LM+XNmAqfhR+NJ9KShDRgP4hvx/q7SeaDjM+q9fR+YNc+pcz5SHd5ygFYdT04rrQe6rvORxkDIhgpIoH3N6RNZF5IQ/m0gjyYWaO4YT+IiGz65IuGDdQbsBuNvriLcW7yWFE0rAo9/Rgj3h+vgpNMeBVxZuaJ5T3Xeomi/v9IYNPT7ue7c64YGi8/+58Ok7C2/+FByvrJwELP2AhNORxrfGmqXnaaUvQ3RhM6Dt0bURuNNhsVpiZx+qHNT/Gx0OTQPjfYDgYCbD98f8T2S3XVb3y1Zao9l7HOEdv5O5+mCffhXQ/yc+l5U/kYhKrIYEVmMiCxGRBYjIosRkcWIyGJEZDEishgRWYzHoPMHALHVWi911IgAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:30:32.0070000</RealTime>
+        </SplitTime>
+        <SplitTime name="twitch.tv/znernicus  ." />
+        <SplitTime name="twitch.tv/gocnak  ." />
+        <SplitTime name="twitch.tv/gocnak (semi)" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:18.2670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:19:18.2670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

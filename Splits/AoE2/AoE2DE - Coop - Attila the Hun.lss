@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Age of Empires 2: Definitive Edition</GameName>
+  <CategoryName>Coop Campaign: Attila the Hun</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>100</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="04/17/2022 00:13:46" isStartedSynced="True" ended="04/17/2022 00:13:47" isEndedSynced="True" />
+    <Attempt id="2" started="04/17/2022 00:28:23" isStartedSynced="True" ended="04/17/2022 00:28:24" isEndedSynced="True" />
+    <Attempt id="3" started="04/17/2022 00:28:43" isStartedSynced="True" ended="04/17/2022 00:28:48" isEndedSynced="True" />
+    <Attempt id="4" started="04/17/2022 08:02:28" isStartedSynced="True" ended="04/17/2022 08:03:42" isEndedSynced="True" />
+    <Attempt id="5" started="04/17/2022 08:04:00" isStartedSynced="True" ended="04/17/2022 08:07:50" isEndedSynced="True" />
+    <Attempt id="6" started="04/17/2022 08:08:05" isStartedSynced="True" ended="04/17/2022 09:13:18" isEndedSynced="True">
+      <RealTime>01:05:12.2220000</RealTime>
+    </Attempt>
+    <Attempt id="7" started="04/17/2022 17:05:02" isStartedSynced="True" ended="04/17/2022 17:05:26" isEndedSynced="True" />
+    <Attempt id="8" started="04/17/2022 17:07:00" isStartedSynced="True" ended="04/17/2022 17:17:38" isEndedSynced="True" />
+    <Attempt id="9" started="04/19/2022 17:46:05" isStartedSynced="True" ended="04/19/2022 17:51:47" isEndedSynced="True" />
+    <Attempt id="10" started="04/19/2022 17:52:19" isStartedSynced="True" ended="04/19/2022 18:50:29" isEndedSynced="True">
+      <RealTime>00:58:10.2890000</RealTime>
+    </Attempt>
+    <Attempt id="11" started="04/19/2022 18:58:25" isStartedSynced="True" ended="04/19/2022 18:58:45" isEndedSynced="True" />
+    <Attempt id="12" started="04/19/2022 18:59:00" isStartedSynced="True" ended="04/19/2022 19:03:06" isEndedSynced="True" />
+    <Attempt id="13" started="04/19/2022 19:03:21" isStartedSynced="True" ended="04/19/2022 19:06:53" isEndedSynced="True" />
+    <Attempt id="14" started="04/19/2022 19:07:40" isStartedSynced="True" ended="04/19/2022 19:13:39" isEndedSynced="True" />
+    <Attempt id="15" started="04/19/2022 19:14:00" isStartedSynced="True" ended="04/19/2022 20:09:11" isEndedSynced="True">
+      <RealTime>00:55:11.1240000</RealTime>
+    </Attempt>
+    <Attempt id="16" started="04/28/2022 19:54:17" isStartedSynced="True" ended="04/28/2022 19:55:31" isEndedSynced="True" />
+    <Attempt id="17" started="04/28/2022 19:55:53" isStartedSynced="True" ended="04/28/2022 20:16:23" isEndedSynced="True" />
+    <Attempt id="18" started="04/28/2022 20:16:32" isStartedSynced="True" ended="04/28/2022 20:27:25" isEndedSynced="True" />
+    <Attempt id="19" started="04/28/2022 20:27:25" isStartedSynced="True" ended="04/28/2022 20:30:17" isEndedSynced="True" />
+    <Attempt id="20" started="04/28/2022 20:41:34" isStartedSynced="True" ended="04/28/2022 20:44:49" isEndedSynced="True" />
+    <Attempt id="21" started="04/28/2022 20:45:03" isStartedSynced="True" ended="04/28/2022 20:46:12" isEndedSynced="True" />
+    <Attempt id="22" started="04/28/2022 20:46:34" isStartedSynced="True" ended="04/28/2022 20:48:02" isEndedSynced="True" />
+    <Attempt id="23" started="04/28/2022 20:48:20" isStartedSynced="True" ended="04/28/2022 20:49:39" isEndedSynced="True" />
+    <Attempt id="24" started="04/28/2022 20:49:56" isStartedSynced="True" ended="04/28/2022 20:51:03" isEndedSynced="True" />
+    <Attempt id="25" started="04/28/2022 20:51:14" isStartedSynced="True" ended="04/28/2022 20:53:07" isEndedSynced="True" />
+    <Attempt id="26" started="04/28/2022 20:53:15" isStartedSynced="True" ended="04/28/2022 20:57:15" isEndedSynced="True" />
+    <Attempt id="27" started="04/28/2022 20:57:39" isStartedSynced="True" ended="04/28/2022 20:58:43" isEndedSynced="True" />
+    <Attempt id="28" started="04/28/2022 20:58:54" isStartedSynced="True" ended="04/28/2022 21:00:16" isEndedSynced="True" />
+    <Attempt id="29" started="04/28/2022 21:02:20" isStartedSynced="True" ended="04/28/2022 21:13:24" isEndedSynced="True" />
+    <Attempt id="30" started="04/28/2022 21:18:40" isStartedSynced="True" ended="04/28/2022 21:19:48" isEndedSynced="True" />
+    <Attempt id="31" started="04/28/2022 21:20:13" isStartedSynced="True" ended="04/28/2022 21:20:30" isEndedSynced="True" />
+    <Attempt id="32" started="04/28/2022 21:20:31" isStartedSynced="True" ended="04/28/2022 21:23:36" isEndedSynced="True" />
+    <Attempt id="33" started="04/28/2022 21:23:41" isStartedSynced="True" ended="04/28/2022 21:32:31" isEndedSynced="True" />
+    <Attempt id="34" started="04/28/2022 21:43:19" isStartedSynced="True" ended="04/28/2022 21:49:01" isEndedSynced="True" />
+    <Attempt id="35" started="04/28/2022 21:49:25" isStartedSynced="True" ended="04/28/2022 21:55:11" isEndedSynced="True" />
+    <Attempt id="36" started="04/28/2022 23:50:20" isStartedSynced="True" ended="04/29/2022 19:31:29" isEndedSynced="True" />
+    <Attempt id="37" started="05/01/2022 15:04:28" isStartedSynced="True" ended="05/01/2022 15:05:00" isEndedSynced="True" />
+    <Attempt id="38" started="05/01/2022 15:09:22" isStartedSynced="True" ended="05/01/2022 15:13:18" isEndedSynced="True" />
+    <Attempt id="39" started="05/01/2022 15:15:20" isStartedSynced="True" ended="05/01/2022 15:21:21" isEndedSynced="True" />
+    <Attempt id="40" started="05/01/2022 15:21:49" isStartedSynced="True" ended="05/01/2022 15:25:32" isEndedSynced="True" />
+    <Attempt id="41" started="05/01/2022 15:26:14" isStartedSynced="True" ended="05/01/2022 16:22:03" isEndedSynced="True">
+      <RealTime>00:55:49.0620000</RealTime>
+      <GameTime>01:42:27.5660000</GameTime>
+    </Attempt>
+    <Attempt id="42" started="05/01/2022 16:26:23" isStartedSynced="True" ended="05/01/2022 16:30:51" isEndedSynced="True" />
+    <Attempt id="43" started="05/01/2022 16:31:26" isStartedSynced="True" ended="05/01/2022 16:37:12" isEndedSynced="True" />
+    <Attempt id="44" started="05/01/2022 16:37:43" isStartedSynced="True" ended="05/01/2022 16:38:33" isEndedSynced="True" />
+    <Attempt id="45" started="05/01/2022 16:38:55" isStartedSynced="True" ended="05/01/2022 16:44:50" isEndedSynced="True" />
+    <Attempt id="46" started="05/01/2022 16:45:18" isStartedSynced="True" ended="05/01/2022 16:58:01" isEndedSynced="True" />
+    <Attempt id="47" started="05/01/2022 16:58:33" isStartedSynced="True" ended="05/01/2022 16:59:56" isEndedSynced="True" />
+    <Attempt id="48" started="05/01/2022 17:00:20" isStartedSynced="True" ended="05/01/2022 17:01:28" isEndedSynced="True" />
+    <Attempt id="49" started="05/01/2022 17:01:50" isStartedSynced="True" ended="05/01/2022 17:08:37" isEndedSynced="True" />
+    <Attempt id="50" started="05/01/2022 20:17:50" isStartedSynced="True" ended="05/01/2022 22:07:33" isEndedSynced="True" />
+    <Attempt id="51" started="05/02/2022 20:35:39" isStartedSynced="True" ended="05/03/2022 18:24:47" isEndedSynced="True" />
+    <Attempt id="52" started="05/03/2022 21:39:59" isStartedSynced="True" ended="05/03/2022 23:36:41" isEndedSynced="True" />
+    <Attempt id="53" started="05/04/2022 22:47:25" isStartedSynced="True" ended="05/07/2022 01:24:10" isEndedSynced="True" />
+    <Attempt id="54" started="05/07/2022 08:03:41" isStartedSynced="True" ended="05/07/2022 08:04:03" isEndedSynced="True" />
+    <Attempt id="55" started="05/07/2022 08:04:03" isStartedSynced="True" ended="05/07/2022 08:04:31" isEndedSynced="True" />
+    <Attempt id="56" started="05/07/2022 08:09:33" isStartedSynced="True" ended="05/07/2022 08:10:19" isEndedSynced="True" />
+    <Attempt id="57" started="05/07/2022 08:11:17" isStartedSynced="True" ended="05/07/2022 08:13:23" isEndedSynced="True" />
+    <Attempt id="58" started="05/07/2022 08:13:26" isStartedSynced="True" ended="05/07/2022 09:01:06" isEndedSynced="True">
+      <RealTime>00:47:40.1100000</RealTime>
+      <GameTime>01:21:54.9600000</GameTime>
+    </Attempt>
+    <Attempt id="59" started="05/07/2022 09:06:27" isStartedSynced="True" ended="05/07/2022 09:07:32" isEndedSynced="True" />
+    <Attempt id="60" started="05/07/2022 09:11:30" isStartedSynced="True" ended="05/07/2022 09:17:05" isEndedSynced="True" />
+    <Attempt id="61" started="05/07/2022 09:17:34" isStartedSynced="True" ended="05/07/2022 09:18:33" isEndedSynced="True" />
+    <Attempt id="62" started="05/07/2022 09:18:54" isStartedSynced="True" ended="05/07/2022 09:20:18" isEndedSynced="True" />
+    <Attempt id="63" started="05/07/2022 09:20:40" isStartedSynced="True" ended="05/07/2022 09:27:26" isEndedSynced="True" />
+    <Attempt id="64" started="05/07/2022 09:28:37" isStartedSynced="True" ended="05/07/2022 09:40:10" isEndedSynced="True" />
+    <Attempt id="65" started="05/07/2022 09:40:39" isStartedSynced="True" ended="05/07/2022 09:53:09" isEndedSynced="True" />
+    <Attempt id="66" started="05/07/2022 09:53:46" isStartedSynced="True" ended="05/07/2022 09:54:16" isEndedSynced="True" />
+    <Attempt id="67" started="05/07/2022 09:54:26" isStartedSynced="True" ended="05/07/2022 10:22:00" isEndedSynced="True" />
+    <Attempt id="68" started="05/07/2022 10:22:34" isStartedSynced="True" ended="05/07/2022 10:40:27" isEndedSynced="True" />
+    <Attempt id="69" started="05/08/2022 08:05:20" isStartedSynced="True" ended="05/08/2022 08:05:22" isEndedSynced="True" />
+    <Attempt id="70" started="05/08/2022 08:06:59" isStartedSynced="True" ended="05/08/2022 08:20:29" isEndedSynced="True" />
+    <Attempt id="71" started="05/08/2022 08:20:59" isStartedSynced="True" ended="05/08/2022 09:16:34" isEndedSynced="True">
+      <RealTime>00:55:35.0190000</RealTime>
+      <GameTime>01:34:49.0540000</GameTime>
+    </Attempt>
+    <Attempt id="72" started="05/08/2022 09:21:31" isStartedSynced="True" ended="05/08/2022 10:07:25" isEndedSynced="True">
+      <RealTime>00:45:53.8230000</RealTime>
+      <GameTime>01:24:36.5540000</GameTime>
+    </Attempt>
+    <Attempt id="73" started="05/09/2022 15:53:32" isStartedSynced="True" ended="05/09/2022 15:54:57" isEndedSynced="True" />
+    <Attempt id="74" started="05/09/2022 15:57:45" isStartedSynced="True" ended="05/09/2022 15:59:06" isEndedSynced="True" />
+    <Attempt id="75" started="05/09/2022 16:00:33" isStartedSynced="True" ended="05/09/2022 16:01:51" isEndedSynced="True" />
+    <Attempt id="76" started="05/09/2022 16:02:00" isStartedSynced="True" ended="05/09/2022 16:03:28" isEndedSynced="True" />
+    <Attempt id="77" started="05/09/2022 16:03:37" isStartedSynced="True" ended="05/09/2022 16:05:20" isEndedSynced="True" />
+    <Attempt id="78" started="05/09/2022 16:05:28" isStartedSynced="True" ended="05/09/2022 16:07:58" isEndedSynced="True" />
+    <Attempt id="79" started="05/09/2022 16:08:05" isStartedSynced="True" ended="05/09/2022 16:09:51" isEndedSynced="True" />
+    <Attempt id="80" started="05/09/2022 16:10:00" isStartedSynced="True" ended="05/09/2022 16:11:23" isEndedSynced="True" />
+    <Attempt id="81" started="05/09/2022 16:11:30" isStartedSynced="True" ended="05/09/2022 16:11:43" isEndedSynced="True" />
+    <Attempt id="82" started="05/09/2022 16:11:57" isStartedSynced="True" ended="05/09/2022 16:13:16" isEndedSynced="True" />
+    <Attempt id="83" started="05/09/2022 16:13:28" isStartedSynced="True" ended="05/09/2022 16:15:44" isEndedSynced="True" />
+    <Attempt id="84" started="05/09/2022 19:30:41" isStartedSynced="True" ended="05/09/2022 19:32:41" isEndedSynced="True" />
+    <Attempt id="85" started="05/11/2022 18:43:23" isStartedSynced="True" ended="05/11/2022 18:55:58" isEndedSynced="True" />
+    <Attempt id="86" started="05/11/2022 18:59:11" isStartedSynced="True" ended="05/11/2022 19:02:20" isEndedSynced="True" />
+    <Attempt id="87" started="05/11/2022 19:03:13" isStartedSynced="True" ended="05/11/2022 19:06:52" isEndedSynced="True" />
+    <Attempt id="88" started="05/11/2022 19:07:35" isStartedSynced="True" ended="05/11/2022 19:57:23" isEndedSynced="True">
+      <RealTime>00:49:47.7000000</RealTime>
+      <GameTime>01:29:13.3430000</GameTime>
+    </Attempt>
+    <Attempt id="89" started="05/11/2022 19:59:46" isStartedSynced="True" ended="05/11/2022 20:05:06" isEndedSynced="True" />
+    <Attempt id="90" started="05/11/2022 20:05:28" isStartedSynced="True" ended="05/11/2022 20:53:52" isEndedSynced="True">
+      <RealTime>00:48:23.6440000</RealTime>
+      <GameTime>01:29:22.2580000</GameTime>
+    </Attempt>
+    <Attempt id="91" started="05/13/2022 14:53:36" isStartedSynced="True" ended="05/13/2022 17:12:54" isEndedSynced="True" />
+    <Attempt id="92" started="05/13/2022 17:34:43" isStartedSynced="True" ended="05/13/2022 18:27:14" isEndedSynced="True">
+      <RealTime>00:52:30.8160000</RealTime>
+      <GameTime>01:36:16.4870000</GameTime>
+    </Attempt>
+    <Attempt id="93" started="05/29/2022 08:51:32" isStartedSynced="True" ended="05/29/2022 08:52:33" isEndedSynced="True" />
+    <Attempt id="94" started="05/29/2022 08:53:40" isStartedSynced="True" ended="05/29/2022 08:55:28" isEndedSynced="True" />
+    <Attempt id="95" started="05/29/2022 08:56:40" isStartedSynced="True" ended="05/29/2022 08:57:44" isEndedSynced="True" />
+    <Attempt id="96" started="05/29/2022 08:58:23" isStartedSynced="True" ended="05/29/2022 09:05:36" isEndedSynced="True" />
+    <Attempt id="97" started="05/29/2022 09:07:56" isStartedSynced="True" ended="05/29/2022 09:12:30" isEndedSynced="True" />
+    <Attempt id="98" started="05/29/2022 09:13:15" isStartedSynced="True" ended="05/29/2022 09:55:29" isEndedSynced="True">
+      <RealTime>00:42:13.8520000</RealTime>
+      <GameTime>01:18:15.4940000</GameTime>
+    </Attempt>
+    <Attempt id="99" started="05/29/2022 10:01:53" isStartedSynced="True" ended="05/29/2022 10:07:35" isEndedSynced="True" />
+    <Attempt id="100" started="05/29/2022 10:08:11" isStartedSynced="True" ended="05/29/2022 10:38:15" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>The Scourge of God</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:48.3540000</RealTime>
+          <GameTime>00:09:35.0320000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:48.3540000</RealTime>
+        <GameTime>00:09:35.0320000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:06:11.1350000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:05:47.3200000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:05:32.1010000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:05:27.5160000</RealTime>
+          <GameTime>00:10:54.0260000</GameTime>
+        </Time>
+        <Time id="46">
+          <RealTime>00:04:57.1450000</RealTime>
+          <GameTime>00:09:53.0240000</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:05:50.7880000</RealTime>
+          <GameTime>00:11:40.0320000</GameTime>
+        </Time>
+        <Time id="63">
+          <RealTime>00:05:12.3210000</RealTime>
+          <GameTime>00:10:11.0420000</GameTime>
+        </Time>
+        <Time id="64">
+          <RealTime>00:05:20.6000000</RealTime>
+          <GameTime>00:10:32.0580000</GameTime>
+        </Time>
+        <Time id="65">
+          <RealTime>00:05:10.9420000</RealTime>
+          <GameTime>00:10:16.0540000</GameTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:05:03.7060000</RealTime>
+          <GameTime>00:10:06.0600000</GameTime>
+        </Time>
+        <Time id="70">
+          <RealTime>00:04:55.6680000</RealTime>
+          <GameTime>00:09:50.0540000</GameTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:05:19.1350000</RealTime>
+          <GameTime>00:10:37.0420000</GameTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:05:21.2990000</RealTime>
+          <GameTime>00:10:41.0400000</GameTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:05:19.5530000</RealTime>
+          <GameTime>00:10:38.0340000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:05:21.1720000</RealTime>
+          <GameTime>00:10:34.0640000</GameTime>
+        </Time>
+        <Time id="92">
+          <RealTime>00:06:49.4850000</RealTime>
+          <GameTime>00:13:27.0250000</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:04:48.3540000</RealTime>
+          <GameTime>00:09:35.0320000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Great Ride</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:37.8350000</RealTime>
+          <GameTime>00:24:02.1120000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:47.0100000</RealTime>
+        <GameTime>00:12:33.0540000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-5">
+          <RealTime>00:06:47.0100000</RealTime>
+          <GameTime>00:12:33.0540000</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:07:08.7190000</RealTime>
+          <GameTime>00:13:11</GameTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:08:12.2790000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:08:08.5110000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:07:08.7190000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:07:40.7460000</RealTime>
+          <GameTime>00:14:08.0460000</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:07:32.3640000</RealTime>
+          <GameTime>00:13:27.0520000</GameTime>
+        </Time>
+        <Time id="67">
+          <RealTime>00:06:51.1180000</RealTime>
+          <GameTime>00:12:33.0540000</GameTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:06:55.0620000</RealTime>
+          <GameTime>00:12:41.0620000</GameTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:07:32.4680000</RealTime>
+          <GameTime>00:13:45.0740000</GameTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:07:16.3640000</RealTime>
+          <GameTime>00:12:53.0920000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:07:34.7660000</RealTime>
+          <GameTime>00:13:20.1240000</GameTime>
+        </Time>
+        <Time id="92" />
+        <Time id="98">
+          <RealTime>00:07:49.4810000</RealTime>
+          <GameTime>00:14:27.0800000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Walls of Constantinople</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:43.3200000</RealTime>
+          <GameTime>00:30:09.1720000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:05.0200000</RealTime>
+        <GameTime>00:06:02.0400000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-9">
+          <GameTime>00:06:02.0640000</GameTime>
+        </Time>
+        <Time id="-8">
+          <RealTime>00:03:56.9820000</RealTime>
+        </Time>
+        <Time id="-7">
+          <RealTime>00:01:05.0200000</RealTime>
+          <GameTime>00:06:02.0640000</GameTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:05:45.2310000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:07:21.6830000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:06:24.3310000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:04:24.2590000</RealTime>
+          <GameTime>00:06:37.0470000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:03:13.0100000</RealTime>
+          <GameTime>00:06:02.0400000</GameTime>
+        </Time>
+        <Time id="92">
+          <RealTime>00:15:25.8810000</RealTime>
+          <GameTime>00:06:07.0340000</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:04:05.4850000</RealTime>
+          <GameTime>00:06:07.0600000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>A Barbarian Betrothal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:27:58.0740000</RealTime>
+          <GameTime>00:51:47.3680000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:14.7540000</RealTime>
+        <GameTime>00:21:31.0100000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-2">
+          <RealTime>00:11:54.4680000</RealTime>
+          <GameTime>00:22:57</GameTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:19:39.3120000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:13:12.1160000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:11:54.4680000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:20:55.8380000</RealTime>
+          <GameTime>00:27:55.4670000</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:14:00.6190000</RealTime>
+          <GameTime>00:21:57.7300000</GameTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:13:32.3900000</RealTime>
+          <GameTime>00:25:28.1680000</GameTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:11:46.2140000</RealTime>
+          <GameTime>00:22:50.6180000</GameTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:12:42.6190000</RealTime>
+          <GameTime>00:23:54.4160000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:12:09.6120000</RealTime>
+          <GameTime>00:22:40.6580000</GameTime>
+        </Time>
+        <Time id="92">
+          <RealTime>00:11:28.2020000</RealTime>
+          <GameTime>00:21:31.0100000</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:11:14.7540000</RealTime>
+          <GameTime>00:21:38.1960000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Catalaunian Fields</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:55.2940000</RealTime>
+          <GameTime>01:01:04.4240000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:57.2200000</RealTime>
+        <GameTime>00:09:15</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-6">
+          <RealTime>00:05:37.5230000</RealTime>
+          <GameTime>00:09:15</GameTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:10:06.3900000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:13:46.5160000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:08:20.5060000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:06:16.1550000</RealTime>
+          <GameTime>00:11:09.0560000</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:05:38.0840000</RealTime>
+          <GameTime>00:10:11.0660000</GameTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:10:14.9630000</RealTime>
+          <GameTime>00:14:43.0480000</GameTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:07:45.8970000</RealTime>
+          <GameTime>00:09:31.0840000</GameTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:11:30.9910000</RealTime>
+          <GameTime>00:10:21.1180000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:06:11.2700000</RealTime>
+          <GameTime>00:11:10.0840000</GameTime>
+        </Time>
+        <Time id="92" />
+        <Time id="98">
+          <RealTime>00:04:57.2200000</RealTime>
+          <GameTime>00:09:17.0560000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Fall of Rome</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:13.0230000</RealTime>
+          <GameTime>01:18:15.4940000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:31.2650000</RealTime>
+        <GameTime>00:15:40.0500000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-4" />
+        <Time id="41">
+          <RealTime>00:11:23.8470000</RealTime>
+          <GameTime>00:21:31.0380000</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:09:28.0690000</RealTime>
+          <GameTime>00:17:06.0510000</GameTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:15:04.4440000</RealTime>
+          <GameTime>00:18:29.0380000</GameTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:09:30.7930000</RealTime>
+          <GameTime>00:17:52.0560000</GameTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:08:31.2650000</RealTime>
+          <GameTime>00:15:40.0500000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:13:53.8020000</RealTime>
+          <GameTime>00:20:52.0680000</GameTime>
+        </Time>
+        <Time id="92">
+          <RealTime>00:18:47.0440000</RealTime>
+          <GameTime>00:17:49.0360000</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:09:17.7290000</RealTime>
+          <GameTime>00:17:11.0700000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Attila the Hun</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:13.8520000</RealTime>
+          <GameTime>01:18:15.4940000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.0120000</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-4">
+          <RealTime>00:15:50.9990000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:00:00.0440000</RealTime>
+          <GameTime>00:10:08.1220000</GameTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:00:00.0220000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+        <Time id="71">
+          <RealTime>00:00:00.0240000</RealTime>
+          <GameTime>00:05:09.6660000</GameTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:00:00.1700000</RealTime>
+          <GameTime>00:03:54.6180000</GameTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:00:02.6490000</RealTime>
+          <GameTime>00:09:09.5860000</GameTime>
+        </Time>
+        <Time id="90">
+          <RealTime>00:00:00.0120000</RealTime>
+          <GameTime>00:04:43.2200000</GameTime>
+        </Time>
+        <Time id="92">
+          <RealTime>00:00:00.2040000</RealTime>
+          <GameTime>00:37:22.3820000</GameTime>
+        </Time>
+        <Time id="98">
+          <RealTime>00:00:00.8290000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

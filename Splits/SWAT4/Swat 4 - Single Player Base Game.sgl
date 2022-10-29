@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Food Wall Restaurant</Name>
+      <Note>1-2 Bodyguards
+0-2 Patrons
+1 Waiter
+1 Chef
+2 Named
+</Note>
+    </Split>
+    <Split>
+      <Name>Fairfax Residence</Name>
+      <Note>1 Random Burglar
+3 Named</Note>
+    </Split>
+    <Split>
+      <Name>Qwik Fuel Convenience Store</Name>
+      <Note>3 Patrols
+3 Stationary
+Alice &amp; 3 civvies</Note>
+    </Split>
+    <Split>
+      <Name>A-Bomb Nightclub</Name>
+      <Note>2-3 Victims
+3 Downstairs Bad Guys
+2 Downstairs Patrol
+1 Upstairs Patrol
++ Stage + Upstairs (glitched)</Note>
+    </Split>
+    <Split>
+      <Name>Victory Imports Auto Center</Name>
+      <Note>6-8 Car Thieves
+1 Enemy Mechanic
+4-5 Patrollers
+0-2 Clerks
+0-1 Friend Mechanic
+Gary</Note>
+    </Split>
+    <Split>
+      <Name>Red Library Offices</Name>
+      <Note>3-5 Armor
+5-6 No Armor
+4-5 Patrollers
+4-6 Hostages
+3-5 Account Hostages
++ Warren + Fixed</Note>
+    </Split>
+    <Split>
+      <Name>Northside Vending and Amusements</Name>
+      <Note>1-3 Bookies
+1-2 Dealers
+2-4 Security
+2-3 Poker Players
++ Civvies + Allen + Simon</Note>
+    </Split>
+    <Split>
+      <Name>DuPlessis Wholesale Diamond Center</Name>
+      <Note>4-5 Bad Guys
+2 Insiders
+2 Upper Patrol
+2 Lower Patrol
+1-2 Vault Guys
+1 Vault Patrol
+2-3 Victims
+1-2 Security</Note>
+    </Split>
+    <Split>
+      <Name>Children of Taronne Tenement</Name>
+      <Note>4-5 Bad Guys
+3-4 Bomb Bad Guys
+3-4 Patrols
+4-5 Hostages
++ Andrew (&amp; Many Slaves)</Note>
+    </Split>
+    <Split>
+      <Name>St. Michaels Medical Center</Name>
+      <Note>8-10 Terrorists
+1-3 basement Terrorists
+1-2 Staff
+0-2 Doctors
++ Hyun-Jun Park</Note>
+    </Split>
+    <Split>
+      <Name>The Wolcott Projects</Name>
+      <Note>3-4 Dealers
+4-5 Thugs
+4-5 Patrollers
++ Hadeon + Jennings + Homeless</Note>
+    </Split>
+    <Split>
+      <Name>Old Granite Hotel</Name>
+      <Note>9-10 Bombers
+4-6 Patrollers
++ Civvies &amp; Bombs</Note>
+    </Split>
+    <Split>
+      <Name>Mt. Threshold Research Center</Name>
+      <Note>5-8 DNA Bad Guys
+2-4 Patrol Upstairs
+3-4 Patrol Downstairs
++ many civvies (mostly fixed)</Note>
+    </Split>
+  </Splits>
+  <Name>Swat 4</Name>
+  <Category>Any% Single Player</Category>
+</Guide>

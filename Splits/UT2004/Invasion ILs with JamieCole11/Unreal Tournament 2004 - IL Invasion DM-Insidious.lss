@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Unreal Tournament 2004</GameName>
+  <CategoryName>IL: Invasion DM-Insidious</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="01/13/2022 21:14:10" isStartedSynced="True" ended="01/13/2022 21:14:13" isEndedSynced="True" />
+    <Attempt id="2" started="01/13/2022 21:17:05" isStartedSynced="True" ended="01/13/2022 22:01:20" isEndedSynced="True">
+      <RealTime>00:44:15.2400000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="01/15/2022 20:29:21" isStartedSynced="True" ended="01/15/2022 21:08:21" isEndedSynced="True" />
+    <Attempt id="4" started="01/15/2022 21:10:15" isStartedSynced="True" ended="01/15/2022 21:14:19" isEndedSynced="True" />
+    <Attempt id="5" started="01/15/2022 21:14:51" isStartedSynced="True" ended="01/15/2022 21:58:59" isEndedSynced="True">
+      <RealTime>00:44:07.2750000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="04/12/2022 18:21:16" isStartedSynced="True" ended="04/12/2022 18:44:52" isEndedSynced="True" />
+    <Attempt id="7" started="04/12/2022 18:47:53" isStartedSynced="True" ended="04/12/2022 19:33:30" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>1: 0,90,16 - Pupae, Krall, Flies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:51.8550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:51.8550000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:55</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>2: 0,90,12 - Mantae, Geodudes, Elite Krall</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:46.8710000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:47.0730000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:46.8710000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>3: 0,90,12 - Brutes, Krall, Pupae, Geodudes</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:48.0340000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:49.7850000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:48.0340000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>4: 1,90,12 - Skaarj, (E.) Krall, Geodudes, Flies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:46.0610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:51.2590000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:46.0610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>5: 1,90,12 - Sk., Brutes, Pupae, Geodudes</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.9110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:01:42.9110000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:00.8730000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>6: 1,90,12 - (Ice) Sk., Behemoths, Brutes, Mantae, Flies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:59.9160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6" />
+        <Time id="7">
+          <RealTime>00:01:59.9160000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>7: 2,120,12 - (Ice) Sk., Geodudes, Pupae, Flies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:18.4480000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:04:21.8880000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:18.4480000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>8: 2,120,12 - (Ice) Sk., Behemoths, Elite Krall, Mantae, Pupae</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:13.2850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:02:13.2850000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:19.5650000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>9: 2,120,12 - (Fire &amp; Ice) Sk., (E.) Krall, Pupae</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:15.0220000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6" />
+        <Time id="7">
+          <RealTime>00:02:15.0220000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>10: 2,120,12 - Fire &amp; Ice Sk., Bhmths, Brutes, Mantae, Flies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:13.8430000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:04:23.8470000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:13.8430000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>11: 3,180,12 - Warlords, Pupae, Mantae</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:20.3190000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="7">
+          <RealTime>00:03:20.3190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>12: 3,180,12 - Everything except Krall &amp; Brutes</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:21.0260000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="7">
+          <RealTime>00:03:21.0260000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>13: 3,180,12 - Warlords, (F&amp;I) Sk., Elite Krall, Pupae</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:30.9770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="7">
+          <RealTime>00:03:30.9770000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>14: 4,180,12 - Warlords, (F&amp;I) Sk., Bhmths, Mantae</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:47.9570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="7">
+          <RealTime>00:03:47.9570000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>15: 4,180,12 - Warlords, (Fire &amp; Ice) Skaarj</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:50.2690000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="7">
+          <RealTime>00:03:50.2690000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>16: 4,255,8 - Warlords</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
