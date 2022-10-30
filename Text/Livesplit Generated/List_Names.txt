@@ -1,12 +1,12 @@
-Unicorn
-1+1
-1* (2+1 - J Mail - Spam)
-Install VR
-Enter VR
-Exit VR
-2 **
-3 ***
-4 ****
-Install Hangar
-5 *****
-Masterpiece
+-Food Wall Restaurant
+-Fairfax Residence
+-Qwik Fuel Convenience Store
+-A-Bomb Nightclub
+-Victory Imports Auto Center
+-Red Library Offices
+-Northside Vending and Amusements
+-DuPlessis Diamond Center
+-Children of Taronne Tenement
+-St. Michaels Medical Center
+-The Wolcott Projects
+{Expansion}Stetchkov Warehouse

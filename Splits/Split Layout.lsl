@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1068</X>
-  <Y>84</Y>
+  <X>2213</X>
+  <Y>132</Y>
   <VerticalWidth>528</VerticalWidth>
   <VerticalHeight>930</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -546,7 +546,7 @@
         <TXTColor.R>255</TXTColor.R>
         <TXTColor.G>255</TXTColor.G>
         <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>D:\Files\Stream2022\Text\Livesplit Generated\Speed Guides Live.txt</ActiveSplitTxtPath>
+        <ActiveSplitTxtPath>D:\Repositories\Stream-Resources\Text\SpeedGuidesLive.txt</ActiveSplitTxtPath>
         <WindowPos.X>3377</WindowPos.X>
         <WindowPos.Y>369</WindowPos.Y>
         <WindowSize.Width>371</WindowSize.Width>
