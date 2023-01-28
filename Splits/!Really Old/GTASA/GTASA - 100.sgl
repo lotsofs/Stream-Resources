@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<PersonenListe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Push</Name>
+      <Note>Information about current events in the run will be displayed here.</Note>
+    </Split>
+    <Split>
+      <Name>Fires &amp; Millie's Haircut</Name>
+      <Note>I blow up Ryder's car because failing the mission makes the Pizza Tutorial Cutscene skippable.</Note>
+    </Split>
+    <Split>
+      <Name>-TUTorial (7)</Name>
+      <Note>WARNING: FLASHING SCREENS DURING THIS SPLIT
+(after getting tag #6, it helps CJ grab the ledge)</Note>
+    </Split>
+    <Split>
+      <Name>-Shoot People (8)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-15-21 Shoot Bottles (8)</Name>
+      <Note>WARNING: FLASHING SCREENS DURING THIS SPLIT
+(after shooting each group of bottles, skipping dialogue)</Note>
+    </Split>
+    <Split>
+      <Name>-Jeffrey (12)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>22-6 Shoot a Homie</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Boring Mission (34 ø2)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Phonecallwarp (36)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Vehicular Manslaughter (38)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Rescue Sweet (39)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Bounce Bounce Revolution (41)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Rhymeboob (48)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Man Issues (49)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Burning Denise (51)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-12-20 Burglaries? Oh (52)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Train (53)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Bam Boom Blam! Pew Pew</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Doberman Cutscene (57)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>NRG Section (64 ø6)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-20-6 Grenades! (66)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Train Two (68)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Boat Strats (69)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>9-17 Grove Street Block</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Autoscroller</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name> ---------Los Santos (73)---------</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-2-11 Bustowarp</Name>
+      <Note>I will intentionally get busted to warp to a police station close to my destination</Note>
+    </Split>
+    <Split>
+      <Name>-Trucking 0</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Farming (ø7)</Name>
+      <Note>I blow up the trucks to either get a better destination or better truck.
+Linerunner = bad. Tanker/Roadtrain = good.
+Ocean docks = bad destination</Note>
+    </Split>
+    <Split>
+      <Name>Ded</Name>
+      <Note>I will intentionally kill myself to teleport to the hospital, which is where I need to be.</Note>
+    </Split>
+    <Split>
+      <Name>-Sniper Episode (ø15)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Eat My Shit</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name> ---------Badlands---------</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-3-10 City Tour</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-6-13 We Snapshot (6)</Name>
+      <Note>The DA  teleports closer if certain conditions are met. One of those conditions involves pushing the valets.</Note>
+    </Split>
+    <Split>
+      <Name>-Cratesound Glitch Mission</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Cesar Warning (ø16)</Name>
+      <Note>WARNING: FLASHING SCREENS DURING THIS SPLIT
+(after taking pictures of Toreno, skipping dialogue)</Note>
+    </Split>
+    <Split>
+      <Name>-That Damn House (8 ø17)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Driving</Name>
+      <Note>Only bronze medals are required for %
+I go for all silvers to unlock the Bullet</Note>
+    </Split>
+    <Split>
+      <Name>Mountain Pimp Boy (14)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Hrmphf</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Engine</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Creative Mission Names (17)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Who wants donuts? (18)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Sleepfest</Name>
+      <Note>Make Tanker Replay</Note>
+    </Split>
+    <Split>
+      <Name>-PARTNER (31)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-1-15 Train Three (ø18)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-20-2 Parking (32 ø19)</Name>
+      <Note>5 levels of valet parking need to be done</Note>
+    </Split>
+    <Split>
+      <Name>Phnom Penh</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name> ---------San Fierro Kinda (ø27)---------</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Mexican Jumping Bean (ø28)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-GTA2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-6-19 Car Accident</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-0 RNG</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Crane</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Non-linear Start</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Non-linear End (41)</Name>
+      <Note>Non-linear involves doing multiple things with no set route:
+Taxi Driver, Blood Bowl, Courier Hippy Shopper, Car exports, Zero's missions, some snapshots &amp; safehouses, Trucking 6</Note>
+    </Split>
+    <Split>
+      <Name>-Desert House 1 (ø29)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Booth 2's Lair</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Desert House 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Desert House 3 (ø30)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Desert House 4</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name> ---------Desert---------</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Brown Thunder</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Untie Me Eeeh</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-I Am A Terrorist (1)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Trouble With Them (2)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Cunt Paul (3)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Crime &amp; Punishment</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-House (4)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Another House</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Flying</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Carbon Based Buffoon</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Agricultural Espionage</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-5-13 Trail To Her Snail (9)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-I Am The Avalanche</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>RTSF Start</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-5-16 RTSF Middle (ø31)</Name>
+      <Note>Left = Bullet race
+Right = Bandito race</Note>
+    </Split>
+    <Split>
+      <Name>5-16 RTSF End</Name>
+      <Note>By having a phonecall come in as Quarry is started, the mission can be duplicated.
+% is awarded upon completing any 7 missions, so first mission is duped 7 times.</Note>
+    </Split>
+    <Split>
+      <Name>-Dead</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Flyraces</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Pavement Pizza</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Faggio Squad (10)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Frefal &amp; Trucking 8 (11)</Name>
+      <Note>I blow up the truck to get a good destination or truck.
+Linerunner = bad. Tanker/Roadtrain = good.
+Good destinations: Randolph Ind Est, Airport Depot, Freight Depot.</Note>
+    </Split>
+    <Split>
+      <Name>-11-21 Stealth</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-A Chase (ø33)</Name>
+      <Note>Holding sprint while entering a car from the passengerside instantly kills the driver</Note>
+    </Split>
+    <Split>
+      <Name>-20-6 Mission</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Train Four (13)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-JPS1 (19 ø34)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-JPS1 cont. (21 ø35)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-12:30-16:30 Cop Land (25)</Name>
+      <Note>I save often because I need it to be a specific time and day to do stadium events
+MON or WED 10:30 - 16:30
+SUN or TUE 12:30 - 16:30</Note>
+    </Split>
+    <Split>
+      <Name>-Stadium Events &amp; House</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-12-20 JPS2 (35 ø37)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-JPS2 cont. (36)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-JPS2 continues (40 ø38)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-JPS2 badlands edition (ø39)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-20-6 Flying Brick (50 ø43)</Name>
+      <Note>Using the minigun turret while hovering with the jetpack gives you 30000 minigun ammo</Note>
+    </Split>
+    <Split>
+      <Name>  ---------Las Venturas---------</Name>
+      <Note>Using the minigun turret during Up Up And Away while hovering with the jetpack gives you 30000 minigun ammo.</Note>
+    </Split>
+    <Split>
+      <Name>-Jumpjet (ø47)</Name>
+      <Note>WARNING: FLASHING SCREENS DURING THIS SPLIT
+(after starting A Home in the Hills, skipping dialogue)</Note>
+    </Split>
+    <Split>
+      <Name>Idiot</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Gang Territories Start (74 ø48)</Name>
+      <Note>Using the minigun turret during Up Up And Away while hovering with the jetpack gives you 30000 minigun ammo.
+Police bike allows for skipping the third wave of each gang war.</Note>
+    </Split>
+    <Split>
+      <Name>-Gang Territories Middle</Name>
+      <Note>Using the minigun turret during Up Up And Away while hovering with the jetpack gives you 30000 minigun ammo.
+Police bike allows for skipping the third wave of each gang war.</Note>
+    </Split>
+    <Split>
+      <Name>Gang Territories End (92)</Name>
+      <Note>Using the minigun turret during Up Up And Away while hovering with the jetpack gives you 30000 minigun ammo.
+Police bike allows for skipping the third wave of each gang war.</Note>
+    </Split>
+    <Split>
+      <Name>-Relaxing</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Hotring Racer</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Drive Somewhere</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Hazer (93)</Name>
+      <Note>Using the minigun turret during Up Up And Away while hovering with the jetpack gives you 30000 minigun ammo.</Note>
+    </Split>
+    <Split>
+      <Name>-Hazer's House &amp; Car</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Like An Atomic Cobra (95)</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Train Five Next</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Any% (100 ø50)</Name>
+      <Note>Split involves doing: Freight, LS Streetraces, End of the Line part 3
+Don't have hands free during this bit to hit the split, hence the long split
+350 290 400 230 69</Note>
+    </Split>
+    <Split>
+      <Name>{        / 100%}100%</Name>
+      <Note>Last % is rewarded after the credits</Note>
+    </Split>
+  </Splits>
+  <Name />
+  <Category />
+</PersonenListe>

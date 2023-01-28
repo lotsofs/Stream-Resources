@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<PersonenListe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Hi I'm a man</Name>
+      <Note>Make hospital replay
+1 USJ</Note>
+    </Split>
+    <Split>
+      <Name>Saint Mark's Bistro</Name>
+      <Note>Play hospital replay
+Mike Lips Last Lunch: 5-21
+2 packages</Note>
+    </Split>
+    <Split>
+      <Name>Shitty Chauffeur</Name>
+      <Note>Setup Rampage Replay behind Luigi's</Note>
+    </Split>
+    <Split>
+      <Name>Non-Linear</Name>
+      <Note>Marty 9-19 , Joey 6-14
+The Crook - Firefighter
+Thieves, Wife, Lover
+Skunk - Turismo
+Getaway - Diablo Destruction - Pump Pimp - I scream
+Vigilante
+Cars: Police, Enforcer, Coach, Firetruck, Whoopie
+Fuzz Ball - Trial by Fire - Big n Veiny</Note>
+    </Split>
+    <Split>
+      <Name>Trailers! Hands up!</Name>
+      <Note>Tony missions</Note>
+    </Split>
+    <Split>
+      <Name>Bam Boom Blam!</Name>
+      <Note>Mafia Massacre after dupe n fail</Note>
+    </Split>
+    <Split>
+      <Name>IDK what you're saying</Name>
+      <Note>After Sayonara: 29 packages</Note>
+    </Split>
+    <Split>
+      <Name>-Bouncy Bouncy Car</Name>
+      <Note>Save after Silence the Sneak to be late morning / early afternoon</Note>
+    </Split>
+    <Split>
+      <Name>RNG Injection</Name>
+      <Note>package count: 41</Note>
+    </Split>
+    <Split>
+      <Name>One Armed Bandit</Name>
+      <Note>Rocket rampage replay at church</Note>
+    </Split>
+    <Split>
+      <Name>Rescue An Old Man</Name>
+      <Note>Bribe Replay on way back</Note>
+    </Split>
+    <Split>
+      <Name>Onslaught Soon</Name>
+      <Note>This bit is difficult</Note>
+    </Split>
+    <Split>
+      <Name>Special Delivery</Name>
+      <Note>Do rampage + package before Kingdom Come</Note>
+    </Split>
+    <Split>
+      <Name>Proper Dodo Flying</Name>
+      <Note>Bait package should be 79 + bridge.
+Stunt should be 17.
+Rampage should be 18 - 2 glitched ones</Note>
+    </Split>
+    <Split>
+      <Name>100%</Name>
+      <Note>Make replay at x:59 during Rumble for weather manip</Note>
+    </Split>
+  </Splits>
+  <Name>GTA3 100% No Instapass</Name>
+  <Category />
+</PersonenListe>

@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Serious Sam 2</GameName>
+  <CategoryName>IL: 3.4 CT</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>30</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/24/2019 09:18:40" isStartedSynced="True" ended="08/24/2019 09:18:45" isEndedSynced="True" />
+    <Attempt id="2" started="08/24/2019 09:19:16" isStartedSynced="True" ended="08/24/2019 09:19:24" isEndedSynced="True" />
+    <Attempt id="3" started="08/24/2019 09:19:27" isStartedSynced="True" ended="08/24/2019 09:19:55" isEndedSynced="True" />
+    <Attempt id="4" started="08/24/2019 09:20:00" isStartedSynced="True" ended="08/24/2019 09:28:26" isEndedSynced="True">
+      <RealTime>00:08:25.4960000</RealTime>
+      <GameTime>00:08:25.4810000</GameTime>
+    </Attempt>
+    <Attempt id="5" started="08/24/2019 09:29:24" isStartedSynced="True" ended="08/24/2019 09:38:29" isEndedSynced="True">
+      <RealTime>00:09:04.6120000</RealTime>
+      <GameTime>00:09:04.5650000</GameTime>
+    </Attempt>
+    <Attempt id="6" started="08/24/2019 09:39:47" isStartedSynced="True" ended="08/24/2019 09:48:02" isEndedSynced="True">
+      <RealTime>00:08:14.4430000</RealTime>
+      <GameTime>00:08:14.4430000</GameTime>
+    </Attempt>
+    <Attempt id="7" started="08/24/2019 09:49:23" isStartedSynced="True" ended="08/24/2019 09:49:43" isEndedSynced="True" />
+    <Attempt id="8" started="08/24/2019 09:50:27" isStartedSynced="True" ended="08/24/2019 09:58:42" isEndedSynced="True">
+      <RealTime>00:08:14.7200000</RealTime>
+      <GameTime>00:08:14.7200000</GameTime>
+    </Attempt>
+    <Attempt id="9" started="08/24/2019 10:01:01" isStartedSynced="True" ended="08/24/2019 10:03:10" isEndedSynced="True" />
+    <Attempt id="10" started="08/24/2019 11:36:38" isStartedSynced="True" ended="08/24/2019 11:36:46" isEndedSynced="True" />
+    <Attempt id="11" started="08/24/2019 11:36:52" isStartedSynced="True" ended="08/24/2019 11:45:09" isEndedSynced="True">
+      <RealTime>00:08:17.4500000</RealTime>
+      <GameTime>00:08:17.4340000</GameTime>
+    </Attempt>
+    <Attempt id="12" started="08/28/2019 18:11:02" isStartedSynced="True" ended="08/28/2019 18:11:04" isEndedSynced="True" />
+    <Attempt id="13" started="08/28/2019 18:17:13" isStartedSynced="True" ended="08/28/2019 18:21:53" isEndedSynced="True">
+      <RealTime>00:04:40.1130000</RealTime>
+      <GameTime>00:04:40.1130000</GameTime>
+    </Attempt>
+    <Attempt id="14" started="08/28/2019 18:23:13" isStartedSynced="True" ended="08/28/2019 18:23:33" isEndedSynced="True" />
+    <Attempt id="15" started="08/28/2019 18:23:39" isStartedSynced="True" ended="08/28/2019 18:28:05" isEndedSynced="True">
+      <RealTime>00:04:25.8050000</RealTime>
+      <GameTime>00:04:25.8050000</GameTime>
+    </Attempt>
+    <Attempt id="16" started="08/28/2019 18:44:11" isStartedSynced="True" ended="08/28/2019 18:48:54" isEndedSynced="True">
+      <RealTime>00:04:42.8580000</RealTime>
+      <GameTime>00:04:42.8380000</GameTime>
+    </Attempt>
+    <Attempt id="17" started="08/28/2019 18:49:23" isStartedSynced="True" ended="08/28/2019 18:49:41" isEndedSynced="True" />
+    <Attempt id="18" started="08/28/2019 18:49:44" isStartedSynced="True" ended="08/28/2019 18:53:57" isEndedSynced="True">
+      <RealTime>00:04:13.0250000</RealTime>
+      <GameTime>00:04:13.0250000</GameTime>
+    </Attempt>
+    <Attempt id="19" started="08/28/2019 18:55:32" isStartedSynced="True" ended="08/28/2019 18:56:45" isEndedSynced="True" />
+    <Attempt id="20" started="08/28/2019 18:56:50" isStartedSynced="True" ended="08/28/2019 19:01:16" isEndedSynced="True">
+      <RealTime>00:04:26.0090000</RealTime>
+      <GameTime>00:04:26.0090000</GameTime>
+    </Attempt>
+    <Attempt id="21" started="08/28/2019 19:01:49" isStartedSynced="True" ended="08/28/2019 19:03:04" isEndedSynced="True" />
+    <Attempt id="22" started="08/28/2019 19:03:08" isStartedSynced="True" ended="08/28/2019 19:07:27" isEndedSynced="True">
+      <RealTime>00:04:18.6610000</RealTime>
+      <GameTime>00:04:18.6610000</GameTime>
+    </Attempt>
+    <Attempt id="23" started="08/28/2019 19:08:51" isStartedSynced="True" ended="08/28/2019 19:13:06" isEndedSynced="True">
+      <RealTime>00:04:14.4590000</RealTime>
+      <GameTime>00:04:14.4590000</GameTime>
+    </Attempt>
+    <Attempt id="24" started="08/28/2019 21:01:50" isStartedSynced="True" ended="08/28/2019 21:06:09" isEndedSynced="True">
+      <RealTime>00:04:19.9420000</RealTime>
+      <GameTime>00:04:19.9420000</GameTime>
+    </Attempt>
+    <Attempt id="25" started="08/28/2019 21:10:44" isStartedSynced="True" ended="08/28/2019 21:10:50" isEndedSynced="True" />
+    <Attempt id="26" started="09/08/2019 11:58:03" isStartedSynced="True" ended="09/08/2019 11:58:38" isEndedSynced="True" />
+    <Attempt id="27" started="09/08/2019 11:58:49" isStartedSynced="True" ended="09/08/2019 12:03:09" isEndedSynced="True">
+      <RealTime>00:04:19.6910000</RealTime>
+      <GameTime>00:04:19.6770000</GameTime>
+    </Attempt>
+    <Attempt id="28" started="10/16/2019 18:30:47" isStartedSynced="True" ended="10/16/2019 18:35:18" isEndedSynced="True" />
+    <Attempt id="29" started="10/16/2019 18:35:20" isStartedSynced="True" ended="10/16/2019 18:39:44" isEndedSynced="True">
+      <RealTime>00:04:24.1030000</RealTime>
+      <GameTime>00:04:24.1030000</GameTime>
+    </Attempt>
+    <Attempt id="30" started="10/16/2019 18:40:45" isStartedSynced="True" ended="10/16/2019 18:40:48" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Balls</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:57.8840000</RealTime>
+          <GameTime>00:01:57.8840000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.8110000</RealTime>
+        <GameTime>00:01:56.7970000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:02:08.1080000</RealTime>
+          <GameTime>00:02:08.1080000</GameTime>
+        </Time>
+        <Time id="-1" />
+        <Time id="15">
+          <RealTime>00:01:58.9440000</RealTime>
+          <GameTime>00:01:58.9440000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:57.7250000</RealTime>
+          <GameTime>00:01:57.7250000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:57.8840000</RealTime>
+          <GameTime>00:01:57.8840000</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:01:57.6500000</RealTime>
+          <GameTime>00:01:57.6500000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:01:57.0760000</RealTime>
+          <GameTime>00:01:57.0760000</GameTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:57.9020000</RealTime>
+          <GameTime>00:01:57.9020000</GameTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:02:00.3040000</RealTime>
+          <GameTime>00:02:00.3040000</GameTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:01:56.8110000</RealTime>
+          <GameTime>00:01:56.7970000</GameTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:01:57.9180000</RealTime>
+          <GameTime>00:01:57.9180000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:01:57.7180000</RealTime>
+          <GameTime>00:01:57.7180000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Kung Fu Rhinos</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:54.6770000</RealTime>
+          <GameTime>00:03:54.6770000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.4670000</RealTime>
+        <GameTime>00:01:56.4670000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:02:03.7570000</RealTime>
+          <GameTime>00:02:03.7570000</GameTime>
+        </Time>
+        <Time id="-1" />
+        <Time id="15">
+          <RealTime>00:02:03.2420000</RealTime>
+          <GameTime>00:02:03.2420000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:12.0650000</RealTime>
+          <GameTime>00:02:12.0450000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:56.7930000</RealTime>
+          <GameTime>00:01:56.7930000</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:01:59.2750000</RealTime>
+          <GameTime>00:01:59.2750000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:01:57.8420000</RealTime>
+          <GameTime>00:01:57.8420000</GameTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:56.4670000</RealTime>
+          <GameTime>00:01:56.4670000</GameTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:01:56.9040000</RealTime>
+          <GameTime>00:01:56.9040000</GameTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:01:58.5750000</RealTime>
+          <GameTime>00:01:58.5750000</GameTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:01:59.0190000</RealTime>
+          <GameTime>00:01:59.0190000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:02:00.9910000</RealTime>
+          <GameTime>00:02:00.9910000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lollipop</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:55.6790000</RealTime>
+          <GameTime>00:03:55.6790000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.9160000</RealTime>
+        <GameTime>00:00:00.9160000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:00:01.6510000</RealTime>
+          <GameTime>00:00:01.6510000</GameTime>
+        </Time>
+        <Time id="-1" />
+        <Time id="15">
+          <RealTime>00:00:00.9850000</RealTime>
+          <GameTime>00:00:00.9850000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:01.9920000</RealTime>
+          <GameTime>00:00:01.9920000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:01.0020000</RealTime>
+          <GameTime>00:00:01.0020000</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:01.0770000</RealTime>
+          <GameTime>00:00:01.0770000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:00:01.1750000</RealTime>
+          <GameTime>00:00:01.1750000</GameTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:00:01.4620000</RealTime>
+          <GameTime>00:00:01.4620000</GameTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:00:01.2030000</RealTime>
+          <GameTime>00:00:01.2030000</GameTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:00:01.7690000</RealTime>
+          <GameTime>00:00:01.7690000</GameTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:00:00.9160000</RealTime>
+          <GameTime>00:00:00.9160000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:00:01.5590000</RealTime>
+          <GameTime>00:00:01.5590000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>UFO Hop</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:13.0250000</RealTime>
+          <GameTime>00:04:13.0250000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:17.3460000</RealTime>
+        <GameTime>00:00:17.3460000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="13">
+          <RealTime>00:00:26.5970000</RealTime>
+          <GameTime>00:00:26.5970000</GameTime>
+        </Time>
+        <Time id="-1">
+          <GameTime>00:03:17.6180000</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:00:22.6340000</RealTime>
+          <GameTime>00:00:22.6340000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:31.0760000</RealTime>
+          <GameTime>00:00:31.0760000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:00:17.3460000</RealTime>
+          <GameTime>00:00:17.3460000</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:28.0070000</RealTime>
+          <GameTime>00:00:28.0070000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:00:22.5680000</RealTime>
+          <GameTime>00:00:22.5680000</GameTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:00:18.6280000</RealTime>
+          <GameTime>00:00:18.6280000</GameTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:00:21.5310000</RealTime>
+          <GameTime>00:00:21.5310000</GameTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:00:22.5360000</RealTime>
+          <GameTime>00:00:22.5360000</GameTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:00:23.8350000</RealTime>
+          <GameTime>00:00:23.8350000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>D:\Programs\Stream\Livesplit\Components\serioussam2.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings />
+  </AutoSplitterSettings>
+</Run>

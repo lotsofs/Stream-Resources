@@ -1,0 +1,1641 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>GTAVC</GameName>
+  <CategoryName>100% no Instapass</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>373</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" />
+    <Attempt id="2" />
+    <Attempt id="3" />
+    <Attempt id="4" />
+    <Attempt id="5" />
+    <Attempt id="6" />
+    <Attempt id="7" />
+    <Attempt id="8" />
+    <Attempt id="9" />
+    <Attempt id="10">
+      <RealTime>09:34:05.1190000</RealTime>
+      <GameTime>09:34:05.1190000</GameTime>
+    </Attempt>
+    <Attempt id="11" />
+    <Attempt id="12" />
+    <Attempt id="13" />
+    <Attempt id="14">
+      <RealTime>08:18:53.3230000</RealTime>
+      <GameTime>08:18:53.3230000</GameTime>
+    </Attempt>
+    <Attempt id="15" />
+    <Attempt id="16" />
+    <Attempt id="17" />
+    <Attempt id="18" />
+    <Attempt id="19" />
+    <Attempt id="20" />
+    <Attempt id="21" />
+    <Attempt id="22" />
+    <Attempt id="23" />
+    <Attempt id="24">
+      <RealTime>08:10:12.5880000</RealTime>
+      <GameTime>08:10:12.5880000</GameTime>
+    </Attempt>
+    <Attempt id="25" />
+    <Attempt id="26">
+      <RealTime>07:59:56.7090000</RealTime>
+      <GameTime>07:59:56.7090000</GameTime>
+    </Attempt>
+    <Attempt id="27" />
+    <Attempt id="28" />
+    <Attempt id="29">
+      <RealTime>07:46:53.9550000</RealTime>
+      <GameTime>07:46:53.9550000</GameTime>
+    </Attempt>
+    <Attempt id="30" />
+    <Attempt id="31" />
+    <Attempt id="32" />
+    <Attempt id="33" />
+    <Attempt id="34" />
+    <Attempt id="35" />
+    <Attempt id="36" />
+    <Attempt id="37" />
+    <Attempt id="38" />
+    <Attempt id="39" />
+    <Attempt id="40" />
+    <Attempt id="41" />
+    <Attempt id="42">
+      <RealTime>07:46:07.1950000</RealTime>
+      <GameTime>07:46:07.1950000</GameTime>
+    </Attempt>
+    <Attempt id="43" />
+    <Attempt id="44" />
+    <Attempt id="45" />
+    <Attempt id="46" />
+    <Attempt id="47" />
+    <Attempt id="48" />
+    <Attempt id="49" />
+    <Attempt id="50" />
+    <Attempt id="51" />
+    <Attempt id="52" />
+    <Attempt id="53" />
+    <Attempt id="54" />
+    <Attempt id="55" />
+    <Attempt id="56" />
+    <Attempt id="57" />
+    <Attempt id="58" />
+    <Attempt id="59" />
+    <Attempt id="60" />
+    <Attempt id="61" />
+    <Attempt id="62" />
+    <Attempt id="63" />
+    <Attempt id="64" />
+    <Attempt id="65" />
+    <Attempt id="66" />
+    <Attempt id="67" />
+    <Attempt id="68" />
+    <Attempt id="69" />
+    <Attempt id="70" />
+    <Attempt id="71" />
+    <Attempt id="72" />
+    <Attempt id="73" />
+    <Attempt id="74" />
+    <Attempt id="75" />
+    <Attempt id="76" />
+    <Attempt id="77">
+      <RealTime>07:44:04.1330000</RealTime>
+      <GameTime>07:44:04.1330000</GameTime>
+    </Attempt>
+    <Attempt id="78" />
+    <Attempt id="79" />
+    <Attempt id="80" />
+    <Attempt id="81" />
+    <Attempt id="82" />
+    <Attempt id="83" />
+    <Attempt id="84" />
+    <Attempt id="85" />
+    <Attempt id="86" />
+    <Attempt id="87" />
+    <Attempt id="88" />
+    <Attempt id="89" />
+    <Attempt id="90" />
+    <Attempt id="91" />
+    <Attempt id="92" />
+    <Attempt id="93" />
+    <Attempt id="94" />
+    <Attempt id="95" />
+    <Attempt id="96" />
+    <Attempt id="97" />
+    <Attempt id="98" />
+    <Attempt id="99" />
+    <Attempt id="100" />
+    <Attempt id="101" />
+    <Attempt id="102" />
+    <Attempt id="103" />
+    <Attempt id="104" />
+    <Attempt id="105" />
+    <Attempt id="106" />
+    <Attempt id="107">
+      <RealTime>07:18:19.2930000</RealTime>
+      <GameTime>07:18:19.2930000</GameTime>
+    </Attempt>
+    <Attempt id="108" />
+    <Attempt id="109" />
+    <Attempt id="110" />
+    <Attempt id="111" />
+    <Attempt id="112" />
+    <Attempt id="113" />
+    <Attempt id="114" />
+    <Attempt id="115" />
+    <Attempt id="116" />
+    <Attempt id="117" />
+    <Attempt id="118" />
+    <Attempt id="119" />
+    <Attempt id="120">
+      <RealTime>07:05:06.1070000</RealTime>
+      <GameTime>07:05:06.1070000</GameTime>
+    </Attempt>
+    <Attempt id="121" />
+    <Attempt id="122" />
+    <Attempt id="123" />
+    <Attempt id="124" />
+    <Attempt id="125" />
+    <Attempt id="126" />
+    <Attempt id="127" />
+    <Attempt id="128" />
+    <Attempt id="129" />
+    <Attempt id="130" />
+    <Attempt id="131" />
+    <Attempt id="132" />
+    <Attempt id="133" />
+    <Attempt id="134" />
+    <Attempt id="135" />
+    <Attempt id="136" />
+    <Attempt id="137" />
+    <Attempt id="138" />
+    <Attempt id="139" />
+    <Attempt id="140" />
+    <Attempt id="141" />
+    <Attempt id="142" />
+    <Attempt id="143" />
+    <Attempt id="144" />
+    <Attempt id="145" />
+    <Attempt id="146" />
+    <Attempt id="147" />
+    <Attempt id="148" />
+    <Attempt id="149" />
+    <Attempt id="150" />
+    <Attempt id="151" />
+    <Attempt id="152" />
+    <Attempt id="153" />
+    <Attempt id="154" />
+    <Attempt id="155" />
+    <Attempt id="156" />
+    <Attempt id="157" />
+    <Attempt id="158" />
+    <Attempt id="159" />
+    <Attempt id="160" />
+    <Attempt id="161" />
+    <Attempt id="162" />
+    <Attempt id="163" />
+    <Attempt id="164" />
+    <Attempt id="165" />
+    <Attempt id="166" />
+    <Attempt id="167" />
+    <Attempt id="168" />
+    <Attempt id="169" />
+    <Attempt id="170" />
+    <Attempt id="171" />
+    <Attempt id="172" />
+    <Attempt id="173" />
+    <Attempt id="174" />
+    <Attempt id="175" />
+    <Attempt id="176" />
+    <Attempt id="177" />
+    <Attempt id="178" />
+    <Attempt id="179" />
+    <Attempt id="180" />
+    <Attempt id="181" />
+    <Attempt id="182" />
+    <Attempt id="183" />
+    <Attempt id="184" />
+    <Attempt id="185" />
+    <Attempt id="186" />
+    <Attempt id="187" />
+    <Attempt id="188" />
+    <Attempt id="189" />
+    <Attempt id="190" />
+    <Attempt id="191" />
+    <Attempt id="192" />
+    <Attempt id="193" />
+    <Attempt id="194" />
+    <Attempt id="195" />
+    <Attempt id="196" />
+    <Attempt id="197" />
+    <Attempt id="198" />
+    <Attempt id="199" />
+    <Attempt id="200" />
+    <Attempt id="201" />
+    <Attempt id="202">
+      <RealTime>07:08:34.0060000</RealTime>
+      <GameTime>07:08:34.0060000</GameTime>
+    </Attempt>
+    <Attempt id="203" />
+    <Attempt id="204" />
+    <Attempt id="205" />
+    <Attempt id="206" />
+    <Attempt id="207" />
+    <Attempt id="208" />
+    <Attempt id="209" />
+    <Attempt id="210" />
+    <Attempt id="211" />
+    <Attempt id="212" />
+    <Attempt id="213" />
+    <Attempt id="214" />
+    <Attempt id="215" />
+    <Attempt id="216" />
+    <Attempt id="217" />
+    <Attempt id="218" />
+    <Attempt id="219" />
+    <Attempt id="220" />
+    <Attempt id="221" />
+    <Attempt id="222" />
+    <Attempt id="223" />
+    <Attempt id="224" />
+    <Attempt id="225" />
+    <Attempt id="226" />
+    <Attempt id="227" />
+    <Attempt id="228" />
+    <Attempt id="229" />
+    <Attempt id="230" />
+    <Attempt id="231" />
+    <Attempt id="232" />
+    <Attempt id="233" />
+    <Attempt id="234" />
+    <Attempt id="235" />
+    <Attempt id="236" />
+    <Attempt id="237" />
+    <Attempt id="238" />
+    <Attempt id="239" />
+    <Attempt id="240" />
+    <Attempt id="241" />
+    <Attempt id="242" />
+    <Attempt id="243" />
+    <Attempt id="244" />
+    <Attempt id="245" />
+    <Attempt id="246" />
+    <Attempt id="247" />
+    <Attempt id="248" />
+    <Attempt id="249" />
+    <Attempt id="250" />
+    <Attempt id="251" />
+    <Attempt id="252" />
+    <Attempt id="253" />
+    <Attempt id="254" />
+    <Attempt id="255" />
+    <Attempt id="256" />
+    <Attempt id="257" />
+    <Attempt id="258" />
+    <Attempt id="259" />
+    <Attempt id="260">
+      <RealTime>06:58:10.4840000</RealTime>
+      <GameTime>06:58:10.4840000</GameTime>
+    </Attempt>
+    <Attempt id="261" />
+    <Attempt id="262" />
+    <Attempt id="263" />
+    <Attempt id="264" />
+    <Attempt id="265" />
+    <Attempt id="266" />
+    <Attempt id="267" />
+    <Attempt id="268" />
+    <Attempt id="269" />
+    <Attempt id="270">
+      <RealTime>06:51:57.8910000</RealTime>
+      <GameTime>06:51:57.8910000</GameTime>
+    </Attempt>
+    <Attempt id="271" />
+    <Attempt id="272" />
+    <Attempt id="273" />
+    <Attempt id="274" />
+    <Attempt id="275" />
+    <Attempt id="276" />
+    <Attempt id="277" />
+    <Attempt id="278" />
+    <Attempt id="279" />
+    <Attempt id="280" />
+    <Attempt id="281" />
+    <Attempt id="282" />
+    <Attempt id="283" />
+    <Attempt id="284" started="05/02/2017 14:47:10" isStartedSynced="True" ended="05/02/2017 14:47:16" isEndedSynced="True" />
+    <Attempt id="285" started="04/08/2020 20:21:46" isStartedSynced="True" ended="04/08/2020 20:25:27" isEndedSynced="True" />
+    <Attempt id="286" started="04/08/2020 20:26:27" isStartedSynced="True" ended="04/08/2020 20:29:26" isEndedSynced="True" />
+    <Attempt id="287" started="04/09/2020 12:24:40" isStartedSynced="True" ended="04/09/2020 12:30:46" isEndedSynced="True" />
+    <Attempt id="288" started="04/09/2020 12:35:15" isStartedSynced="True" ended="04/09/2020 20:34:18" isEndedSynced="True">
+      <RealTime>07:59:03.7980000</RealTime>
+    </Attempt>
+    <Attempt id="289" started="04/12/2020 11:31:01" isStartedSynced="True" ended="04/12/2020 11:31:31" isEndedSynced="True" />
+    <Attempt id="290" started="04/12/2020 11:32:04" isStartedSynced="True" ended="04/12/2020 11:33:39" isEndedSynced="True" />
+    <Attempt id="291" started="04/12/2020 11:33:41" isStartedSynced="True" ended="04/12/2020 19:08:41" isEndedSynced="True">
+      <RealTime>07:35:00.8050000</RealTime>
+    </Attempt>
+    <Attempt id="292" started="04/18/2020 11:01:48" isStartedSynced="True" ended="04/18/2020 11:02:13" isEndedSynced="True" />
+    <Attempt id="293" started="04/18/2020 11:02:15" isStartedSynced="True" ended="04/18/2020 18:45:36" isEndedSynced="True">
+      <RealTime>07:43:22.0940000</RealTime>
+    </Attempt>
+    <Attempt id="294" started="04/24/2020 11:25:14" isStartedSynced="True" ended="04/24/2020 11:25:52" isEndedSynced="True" />
+    <Attempt id="295" started="04/24/2020 11:26:04" isStartedSynced="True" ended="04/24/2020 11:26:55" isEndedSynced="True" />
+    <Attempt id="296" started="04/24/2020 11:26:58" isStartedSynced="True" ended="04/24/2020 19:26:46" isEndedSynced="True">
+      <RealTime>07:59:48.3410000</RealTime>
+    </Attempt>
+    <Attempt id="297" started="05/24/2020 12:26:41" isStartedSynced="True" ended="05/24/2020 12:26:42" isEndedSynced="True" />
+    <Attempt id="298" started="05/24/2020 12:27:45" isStartedSynced="True" ended="05/24/2020 12:28:38" isEndedSynced="True" />
+    <Attempt id="299" started="05/24/2020 12:28:59" isStartedSynced="True" ended="05/24/2020 12:30:07" isEndedSynced="True" />
+    <Attempt id="300" started="05/24/2020 12:30:29" isStartedSynced="True" ended="05/24/2020 12:32:02" isEndedSynced="True" />
+    <Attempt id="301" started="05/24/2020 12:37:13" isStartedSynced="True" ended="05/24/2020 14:29:27" isEndedSynced="True" />
+    <Attempt id="302" started="05/30/2020 12:03:46" isStartedSynced="True" ended="05/30/2020 12:03:48" isEndedSynced="True" />
+    <Attempt id="303" started="05/30/2020 12:04:04" isStartedSynced="True" ended="05/30/2020 12:08:20" isEndedSynced="True" />
+    <Attempt id="304" started="05/30/2020 12:08:23" isStartedSynced="True" ended="05/30/2020 20:13:22" isEndedSynced="True">
+      <RealTime>08:04:58.7470000</RealTime>
+    </Attempt>
+    <Attempt id="305" started="05/31/2020 22:59:37" isStartedSynced="True" ended="05/31/2020 23:32:28" isEndedSynced="True" />
+    <Attempt id="306" started="05/31/2020 23:34:05" isStartedSynced="True" ended="05/31/2020 23:34:20" isEndedSynced="True" />
+    <Attempt id="307" started="05/31/2020 23:34:33" isStartedSynced="True" ended="05/31/2020 23:48:29" isEndedSynced="True" />
+    <Attempt id="308" started="05/31/2020 23:48:47" isStartedSynced="True" ended="05/31/2020 23:55:11" isEndedSynced="True" />
+    <Attempt id="309" started="06/05/2020 12:28:22" isStartedSynced="True" ended="06/05/2020 12:31:34" isEndedSynced="True" />
+    <Attempt id="310" started="06/05/2020 12:31:42" isStartedSynced="True" ended="06/05/2020 12:31:43" isEndedSynced="True" />
+    <Attempt id="311" started="06/05/2020 12:31:44" isStartedSynced="True" ended="06/05/2020 19:58:09" isEndedSynced="True">
+      <RealTime>07:26:25.1140000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>-Local Gunshop (ø2)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA2UlEQVQ4T5WTOw7CMBBEXVBwBCQocpx0INGk5CgUFDliyhQUuYXZ2XhWa+dnihdH651nJ7JDjFG5dO8I2vszg3VPIzCXhUE4nXOkxc8jzHcV+EmA0PCdjFIAKMGogubV22SNAFAyC1wRgXEcjb0dAPsEMx4IfFgXXBT+2IH2LwoVAvZiDFd5ACuUAvmp7UPORIJ9lNgnUFIr4Kg78JI1gceHM8HWDoZJzkOCAi9JP3H7IHkw51fXBfFy6z6p0B8KGDQBLgQElKBpDx/Wy4QHQBGU17mEfXMuhh/IhSTi0sf1pAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>00:07:12.3670000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:03.6450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:07:32.3180000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:06:47.3850000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:06:34.2490000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:07:45.9190000</RealTime>
+        </Time>
+        <Time id="301">
+          <RealTime>00:07:16.0590000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:06:30.1410000</RealTime>
+        </Time>
+        <Time id="311" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>RITO (5 R1.0)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA2UlEQVQ4T5WTOw7CMBBEXVBwBCQocpx0INGk5CgUFDliyhQUuYXZ2XhWa+dnihdH651nJ7JDjFG5dO8I2vszg3VPIzCXhUE4nXOkxc8jzHcV+EmA0PCdjFIAKMGogubV22SNAFAyC1wRgXEcjb0dAPsEMx4IfFgXXBT+2IH2LwoVAvZiDFd5ACuUAvmp7UPORIJ9lNgnUFIr4Kg78JI1gceHM8HWDoZJzkOCAi9JP3H7IHkw51fXBfFy6z6p0B8KGDQBLgQElKBpDx/Wy4QHQBGU17mEfXMuhh/IhSTi0sf1pAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:37.3810000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>00:10:46.0930000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:30.3080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:04:35.8920000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:04:24.7250000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:04:05.2490000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:04:26.9390000</RealTime>
+        </Time>
+        <Time id="301">
+          <RealTime>00:03:54.7380000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:04:09.8450000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:11:37.3810000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Ze rain is très Wet</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA/wAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAtklEQVQ4T8WTIRLCMBBFIxA9ArLHqYTBIDkIAskRIyMQvcWyf8uGvxkoLQjES2en+37SNEkiYmyPFwHD7jCL97kXZA5Im26ia1CFQ4IMqqjkcZRcIhxg/Rj60zUEmOgsCaiFvgSllEq+qUh8DGAZzO2BOaFoAlBDGva6sQ+435xQvAhg+T8BP32ChfAGAu0JTigwYxOy4Deepbdien5xkJ4BYPVRxoXgFay+TBiAr8AD3sGyiKQ7R6osm2Kyx38AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:37.7720000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>00:22:04.4640000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:00.3760000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:13:55.9730000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:11:38.1200000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:14:53.5730000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:13:45.9740000</RealTime>
+        </Time>
+        <Time id="301">
+          <RealTime>00:15:33.9950000</RealTime>
+        </Time>
+        <Time id="304" />
+        <Time id="311">
+          <RealTime>00:12:00.3910000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Loser (18 ø11 R3.0)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAABwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAvklEQVQ4T52TMRKCMBBFU1hwBI/EDOOAY+MhKD2Ax0yZgiK3WPcvbtwEkcTiAcX/L5shcUQkzPODQD/dfnK+PwXtpbLjT6Hrck4frEAlaWWUvY/kQ0FcUYkVgGpBknAuE/RX3huDcf0SKSwhJ+TY7YBdgQaBFegkVYJhnDaSZsFwWSX1gndQBFzeCDiDbOodCfD+W1CWmwR7IJcJDg8SSxWZqDxItQLdji2LoOkyjV8uEx4qAfp/E1yy2DIRuRcenVhAW0G34wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:33:00.8750000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>00:31:15.6790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:42.4470000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:11:14.6950000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:09:53.7520000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:10:21.3280000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:08:54.1160000</RealTime>
+        </Time>
+        <Time id="301">
+          <RealTime>00:10:48.3570000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:22:35.6250000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:09:23.1030000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>House</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAAQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAuElEQVQ4T6WSIRKDMBBFIxA9CoLOIHoAJHW5QF1tfWVFBbIykqNUcpzKuu3+kM1AZpshg3iB2fz/WIEhol2owxLmgx/tqfXgPccyF7p6cDsVH8zn8Z4ZpjwhJz0vsMeuWICOKrj3VzIH3igpYoa7rMAPORjDoSxSsMpqG9zOF6qbmr7PaQVmuJPcX0FaTFEFoFQgvSgAsGLVHPHLgvyJwDlH42sk21sV3CEjed9dCkqJgj2ow+2Q+QHJpUenibl53QAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>00:31:21.3100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:04.2280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:00:04.4680000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:00:04.3820000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:00:04.3300000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:00:04.2280000</RealTime>
+        </Time>
+        <Time id="301">
+          <RealTime>00:00:06.5650000</RealTime>
+        </Time>
+        <Time id="304" />
+        <Time id="311" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-No pizze (22 R4.5)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAEQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAyElEQVQ4T5WTMQ6DMAxFM3TIfbgIEpVKb5LjMBQpqJdg6IEYOmSolPItGcWW09DhCSLnv8QkuPRJmm4nV0BNzBeDHStkcWSaYXdxebgNeV5mXRMCXSRijCRgIFJzSFDteX2t2Xt/MN5HPaerrs7EZ/wlyE0BQBACyHTtlIB3YNWagu290Qfsrz2963pTgCAE02M6J0C/AP3iyUeIcE0gjpH7ZcqwIaBjFLvgFZkQQhnQ2FcZNw5h4+aVUK4UCEmDI1OGmT9+5+S+gTJSpMCK0ZIAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:41.2100000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>00:50:18.1990000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:18:56.8890000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:19:21.0890000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:22:11.9540000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:38:37.4130000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:20:54.6490000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:21:24.6760000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:21:40.3350000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>3D autoscroller #1 (24)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAABwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAvklEQVQ4T52TMRKCMBBFU1hwBI/EDOOAY+MhKD2Ax0yZgiK3WPcvbtwEkcTiAcX/L5shcUQkzPODQD/dfnK+PwXtpbLjT6Hrck4frEAlaWWUvY/kQ0FcUYkVgGpBknAuE/RX3huDcf0SKSwhJ+TY7YBdgQaBFegkVYJhnDaSZsFwWSX1gndQBFzeCDiDbOodCfD+W1CWmwR7IJcJDg8SSxWZqDxItQLdji2LoOkyjV8uEx4qAfp/E1yy2DIRuRcenVhAW0G34wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:42.6620000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:20:01.0250000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:29:01.4520000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:31:13.9610000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:30:17.7070000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:30:14.4750000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:32:59.9250000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:30:02.0830000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:29:01.4520000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-3D autoscroller #2</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAABwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAvklEQVQ4T52TMRKCMBBFU1hwBI/EDOOAY+MhKD2Ax0yZgiK3WPcvbtwEkcTiAcX/L5shcUQkzPODQD/dfnK+PwXtpbLjT6Hrck4frEAlaWWUvY/kQ0FcUYkVgGpBknAuE/RX3huDcf0SKSwhJ+TY7YBdgQaBFegkVYJhnDaSZsFwWSX1gndQBFzeCDiDbOodCfD+W1CWmwR7IJcJDg8SSxWZqDxItQLdji2LoOkyjV8uEx4qAfp/E1yy2DIRuRcenVhAW0G34wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:28:34.2510000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run">
+          <RealTime>02:47:52.7800000</RealTime>
+        </SplitTime>
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:25:01.7790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:46.1320000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:05:05.4340000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:04:50.8870000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:04:56.2260000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:04:48.2330000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:05:32.0240000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:04:51.5890000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Lawnmower (35)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAADAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAw0lEQVQ4T6WTPQ4CIRCFKSw4mokx0ai3oLTwqFNSbLGFhTcYZwbehCXBuKH4Nht472N/IDCzkdKTleP10XHbkNLLQM/LQW6NGB0I2jHkIPGVdZBoZVo+Ri+gRecEkrkqUOYFeDeEcs5GOEQ+nS8WVjBO77XI79ITfgqMprxLMEJz0wKU554AvZHAv4HQCjTzt8D+QifZLYBkKPANEURgG6mwCVW5IRnNem9aUA5TERgSBq3AqTnt2GHSCyQKSiOQKz0OX8gOVSi0mTImAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:41:34.2370000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:33:12.0150000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:03.4910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:09:47.7300000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:08:30.1480000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:08:26.6560000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:08:17.4020000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:10:02.8740000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:12:59.9860000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Linear Part</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAABwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAvklEQVQ4T52TMRKCMBBFU1hwBI/EDOOAY+MhKD2Ax0yZgiK3WPcvbtwEkcTiAcX/L5shcUQkzPODQD/dfnK+PwXtpbLjT6Hrck4frEAlaWWUvY/kQ0FcUYkVgGpBknAuE/RX3huDcf0SKSwhJ+TY7YBdgQaBFegkVYJhnDaSZsFwWSX1gndQBFzeCDiDbOodCfD+W1CWmwR7IJcJDg8SSxWZqDxItQLdji2LoOkyjV8uEx4qAfp/E1yy2DIRuRcenVhAW0G34wAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:43:35.2380000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:34:56.7220000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:20.2650000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:01:31.0770000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:01:25.4850000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:01:20.2650000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:01:34.1030000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:01:51.8890000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:02:01.0010000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Shopping (41 R5.5)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAAQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAuElEQVQ4T6WSIRKDMBBFIxA9CoLOIHoAJHW5QF1tfWVFBbIykqNUcpzKuu3+kM1AZpshg3iB2fz/WIEhol2owxLmgx/tqfXgPccyF7p6cDsVH8zn8Z4ZpjwhJz0vsMeuWICOKrj3VzIH3igpYoa7rMAPORjDoSxSsMpqG9zOF6qbmr7PaQVmuJPcX0FaTFEFoFQgvSgAsGLVHPHLgvyJwDlH42sk21sV3CEjed9dCkqJgj2ow+2Q+QHJpUenibl53QAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:53:09.8390000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:44:40.4950000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:13.2920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:09:45.1080000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:10:06.7560000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:09:14.8390000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:10:00.0090000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:09:38.8480000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:09:34.6010000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Cuntface person (ø15)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAQQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA+ElEQVQ4T5WTLQ7CQBBGR3IIBAJRgeAoJCAqEAhED0BIRQWyIYRU9gLcA9EDIRC4ZWfabzrbtKWIt51053v7kyw554S4+rgpHBqQ6w2v7pnANcWkX/5HRRpINLy6+skNSeMYCAMRaHiCwO5ABUHDvoOdM7RH9AOQM04QYNFAIGFu+CFAP1CBNvlQsajpE2DrmsNl5FF9w4mnnJPAdVfAIMOoACCc77YiwEq8Mo659l/0DwrS2yMQAAmZXQQCPoZdfUhgUUF2vrgymrlySS47tVs8Vm+tk+qlNVCBhBuBbWCshEmebS2PiYsxAcOSrkgeEw+Q/EOdc/QFD5t1nEuiiPoAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:05:54.4790000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:56:51.1390000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:54.1110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:16:02.5600000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:19:36.1430000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:17:10.6020000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:17:31.8770000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:16:27.5430000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:12:44.6400000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Polar Bears (47)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAANwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA7klEQVQ4T4WTMRLCIBREU3oUyxS5gIUz9l7ASRqOYGGXi9h4D0c9UEo7ZCELC4Gx2EA+u4+fgXTWWq/L52vrWgqFOnPN8M4tqQgwr+TxgBRKdASG8Rbrw3gVSPAQ1Nw9vYedCdAOoAwwvTEurq/O9m5XhjFHDfNp9Zp19ADzZDgACFGxziAVOyBEzWU4zJ1vzUQAdweEoZaaHcSCM2070LXCXxYYrgFqioBk/A/QWgaA9PhKQO8uV1nLPoGLx/ke57hA0P5w9qOGfUZfIA0rADrNj8wLbX4m41qnCMDRUer1PxMeClFAUAorIORs9wNQx5Vza7uzDAAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:09:20.2080000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>01:59:59.5240000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:48.5740000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:13:32.3080000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:06:47.1140000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:03:22.7200000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:03:15.6380000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:03:17.2990000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:03:25.7290000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pew Pew Pew</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA2UlEQVQ4T52TsQ2DMBBFKT1GRkhDn5I+CyAhJCSWiJQFUlLSsAcSGShNJLqLv8k/2RgIpHgYWfcfdxZORMSR96Mcgbm/wsQJ/A1jTFCwBxUgDBLb1B5UUD1HAcZuZvdOmqYJeLRtQHbrXG1lwyASlGUZkNd1wKYAzAXnNHWwddZFAkr8sD8zwAgMqoCHcbpco4AelPee2w8Vw1tXFczDDFHsC6r+tU9ANPwVHOogYk2w9CNhvximw8KKECVcVwWYnUUML0l+XiaG0MU87C4THpsSW7zUwZST5APJ3ICSFuHgnQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:13:47.7440000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>02:05:18.2390000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:22.9630000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:05:09.4630000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:04:47.3530000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:04:22.9630000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:06:14.6860000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:04:26.3760000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:04:27.5360000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Stupid Test Trials (R7.5)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAAQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAuElEQVQ4T6WSIRKDMBBFIxA9CoLOIHoAJHW5QF1tfWVFBbIykqNUcpzKuu3+kM1AZpshg3iB2fz/WIEhol2owxLmgx/tqfXgPccyF7p6cDsVH8zn8Z4ZpjwhJz0vsMeuWICOKrj3VzIH3igpYoa7rMAPORjDoSxSsMpqG9zOF6qbmr7PaQVmuJPcX0FaTFEFoFQgvSgAsGLVHPHLgvyJwDlH42sk21sV3CEjed9dCkqJgj2ow+2Q+QHJpUenibl53QAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:22:42.6810000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>02:13:06.2560000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:25.5390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288" />
+        <Time id="291" />
+        <Time id="293">
+          <RealTime>00:15:20.5990000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:10:44.1800000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:09:25.2440000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:08:54.9370000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>BJ Smith! (55 ø17 R9.0)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAGAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAz0lEQVQ4T52TsRGDMAxFVWaEjEBJmTKjUOUYK0XGSUnhkjJbKP7yfSIJjpAUjzsb/WfZGFFVYxBRMB6EuRD+RQBM4MNZUKaL4ecyQVDKNQSywMYlCsUPUDA/ewPjx+2s98ogpzrXGV4IggBQgDAFgIJcvxIAhpusWyToJNcuAu43hpvAS1j3VfCqYUAB58vUGysBwdfwEh8e97ZAuDJDhJ3k+iDAFijwnWBlCnz7IArqJfEH1M7lE7D9712kTBZsYT/T1osj2M+Exz+SllN5A9k33+S7dGHdAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:50:42.8950000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>02:36:58.8000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:22:26.5120000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:33:50.3130000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:35:32.8940000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:22:26.5120000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:36:00.3140000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:29:10.1740000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:28:00.2140000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Stomach Butterflies</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAcgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAABKUlEQVQ4T5WTMWoCQRSGPUCKFDlCytwkFjaCRS6QMiFnEEuLFAsRLGwCaQISSJlSUCFH2CLFNAsDWkz38v4385w3OCZYfDvjOv+3/4xuj4iE0KwoNN+0e9mWPPM9Q1y34kjMFWGMGuyGb4K7nlJ39y5YgUqKsDZwlxNBJCkMEbACwIIcxihP5XBofWSTgaC9aQ7hJMgfQHs1IT/fUvjhEONY6LmVCiHZPXzUBfunTxFoGPOW2wAr6G4XdYEfvB4J8HQItAXCZwlqDU5v4ZG3gJN2QZB5CgJpc8Eykykb9LnBCQEOU7ZyvzxPoFsAkNj14N8toLbFrgeFIOjPmGrLvFmn78s/nI6lYPwVTz7hRqhcDx4E+WWK+BlXNfwlkJcJFyupCyw5TES9Xx6tN/3TWHELAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:08:18.2820000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>02:54:04.6280000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:05.8280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:18:18.8350000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:22:14.2200000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:17:48.2950000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:17:20.6830000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:17:30.9430000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:17:35.3870000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Bam Boom Blam</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA/QAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAtElEQVQ4T9WTPQ6CQBBGp7DgCB6JZE3E2HgIDmDpMbfcgoJbjPMNO+tswhKCFcWjIO97KD/EzMr19WHQ35+bmGe7agzo0m3iXQ34EyQ9SHGaV9GIONWmGgtrQ495Zdc/5L8J1C1XTlOqSTUaEbfsWgEi/NwfhwLhNnAIw/GAZ38giy1OFLDnbTQD4/hmgBsVo3thvJTjijhwy+7vAD4ICygiGz5QyB42+jHhYBFgoxbmLTumL613XzROvkYFAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:16:49.4030000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:02:35.0300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:59.7310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:08:20.4350000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:08:02.7270000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:08:41.6660000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:10:19.9480000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:08:52.9840000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:08:31.1210000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Godbike part</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAQQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA+ElEQVQ4T5WTLQ7CQBBGR3IIBAJRgeAoJCAqEAhED0BIRQWyIYRU9gLcA9EDIRC4ZWfabzrbtKWIt51053v7kyw554S4+rgpHBqQ6w2v7pnANcWkX/5HRRpINLy6+skNSeMYCAMRaHiCwO5ABUHDvoOdM7RH9AOQM04QYNFAIGFu+CFAP1CBNvlQsajpE2DrmsNl5FF9w4mnnJPAdVfAIMOoACCc77YiwEq8Mo659l/0DwrS2yMQAAmZXQQCPoZdfUhgUUF2vrgymrlySS47tVs8Vm+tk+qlNVCBhBuBbWCshEmebS2PiYsxAcOSrkgeEw+Q/EOdc/QFD5t1nEuiiPoAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:25:37.1590000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:12:28.6140000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:17.2670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:13:31.3120000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:11:16.6970000</RealTime>
+        </Time>
+        <Time id="293" />
+        <Time id="296">
+          <RealTime>00:09:33.9490000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:20:40.2250000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:08:47.7560000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Flange 9000 :O (R10.0)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAQQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA+ElEQVQ4T5WTLQ7CQBBGR3IIBAJRgeAoJCAqEAhED0BIRQWyIYRU9gLcA9EDIRC4ZWfabzrbtKWIt51053v7kyw554S4+rgpHBqQ6w2v7pnANcWkX/5HRRpINLy6+skNSeMYCAMRaHiCwO5ABUHDvoOdM7RH9AOQM04QYNFAIGFu+CFAP1CBNvlQsajpE2DrmsNl5FF9w4mnnJPAdVfAIMOoACCc77YiwEq8Mo659l/0DwrS2yMQAAmZXQQCPoZdfUhgUUF2vrgymrlySS47tVs8Vm+tk+qlNVCBhBuBbWCshEmebS2PiYsxAcOSrkgeEw+Q/EOdc/QFD5t1nEuiiPoAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:33:04.4780000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:20:12.9510000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:44.1560000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:07:33.2420000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:07:00.8080000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:19:20.1420000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:07:18.1360000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:07:56.6220000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:07:27.3190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Mangly Cojones</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA9UlEQVQ4T42TMRKCMBBFKSw4BkegoLDUzsbKCziMRUpKC0u9h433YBwKjmNJF3c3+XEhBCleNmz2PzMyZNZa4dx+rNANq0BOFsNNCktVZHTM6B5jWldFEH7Zo0NlfRN4n5KJQN9AD6b2uIEXcHiwxe4kNL27BSpjOrfnWuxpjogEGP4nQC8SQLJGgHAQSNPX7eUqdY6qdmcSRMWDPiirMvQAetE8L7rJLAlAyGEzlSwxyugHafih1C2iebwB0/9qTsNcmYb+eSbf0JuhmhQgDCDRYQjMWwnkY6LBqeTweImEw8f7cyQA8jHxwszdgkFwKnA5m30B7uZZdD9Z0acAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:43:21.1860000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:32:57.0290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:32.2600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:07:36.5890000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:11:47.6290000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:08:17.5820000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:11:55.1060000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:10:33.5360000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:10:16.7080000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Pooperwarp</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAFQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAzElEQVQ4T52TOw7CMBBEt/TxkEAiB+AAlBQUHI0DUHAUCgoXSMvOJmPWFnEIxfNvPc9WFIuqOvmVdQ3M/RUmLvhW6CEHcco8FnswuCx4PirkaIHI7RMGlSDZJ0lpBGH0CJXNYVzWOEB42G112G8chNGXjdMNOC/raEp4EjAMGOwKriYg94BgzWQRHDYrwDiG0bcC3DJKZm+wShAlrcBrvwh8YgUUCTZDihoPuJxPoyDbf2JUghZsZJDEsAuWHlMriGF/TGiWJBUhrKryBs9w7ArX7UOpAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:43:40.7620000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:33:18.7920000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:15.1330000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:00:24.1880000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:00:29.3360000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:00:20.6810000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:00:21.6870000</RealTime>
+        </Time>
+        <Time id="304" />
+        <Time id="311">
+          <RealTime>00:00:19.5760000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Nasal Engagement</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA9UlEQVQ4T42TMRKCMBBFKSw4BkegoLDUzsbKCziMRUpKC0u9h433YBwKjmNJF3c3+XEhBCleNmz2PzMyZNZa4dx+rNANq0BOFsNNCktVZHTM6B5jWldFEH7Zo0NlfRN4n5KJQN9AD6b2uIEXcHiwxe4kNL27BSpjOrfnWuxpjogEGP4nQC8SQLJGgHAQSNPX7eUqdY6qdmcSRMWDPiirMvQAetE8L7rJLAlAyGEzlSwxyugHafih1C2iebwB0/9qTsNcmYb+eSbf0JuhmhQgDCDRYQjMWwnkY6LBqeTweImEw8f7cyQA8jHxwszdgkFwKnA5m30B7uZZdD9Z0acAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:03:41.2620000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:00.5000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:25:43.8940000</RealTime>
+        </Time>
+        <Time id="291" />
+        <Time id="293">
+          <RealTime>00:25:19.3470000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:23:39.5770000</RealTime>
+        </Time>
+        <Time id="304" />
+        <Time id="311">
+          <RealTime>00:20:00.5000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Taxi Soon (62 ø21)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA+gAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAsUlEQVQ4T6WROxLDIAxEKXxsFzkSR3CRA1GkoMgMYTVsLAmZJJPieUBoHx+n1tpX1GdtwNfNhPhmjNOWBC95D4g09zKgiGFh1Nm/FID9tv8mAF6iKY/SW85eEyQQRJKcc1+2vWYCVrsDnECfwgSP+zEFJsZbUHLuqh/KwV0BRciIIAqjpuv6yFzjfBJw8UrgkQ+tDAP9/z8KPKX2u46wvm9EWPxbAChZhUFYJJD4mqWlFz05mfex3QT4AAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:49:50.5050000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:09.7140000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:05:09.7140000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:29:43.7910000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:06:17.6410000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:12:28.6980000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:26:06.7520000</RealTime>
+        </Time>
+        <Time id="311" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Cop Wheels (64)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA1UlEQVQ4T8WTLRKDMBCFIyo4QkUFx8F1OhgOEVmBqOgxkYgKbrHdt5mX2ZCAqKn4gCzvfeWnBBExYnwKGO7jKTHOBnu5HPTQuHQZlvwshAQl+ZdRXpZNlk+iKCmcI0MBOBR4iZ9VgmHUy1RCp8Ftk3VdM7wtP0MG2dzzAuDDLQFzlYCSInwgKDrF4hfBdXoLqcItga6Ljl/YYFfw7MuWrwZ/FfQY6EMq/jgOnEPuNr1KAYocDI/0NlplnGOOEvuYcEAJBS0o6KfZ9vYxYUMJBWcwl3oSvqz6SR+9CdFdAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:20:53.2610000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:56:06.7700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:53.2800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288" />
+        <Time id="291">
+          <RealTime>00:06:13.4800000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:09:34.9580000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:06:12.7290000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:08:01.4700000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:17:11.9990000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Stretch</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtwAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAbklEQVQ4T6WTQQ7AIAgE/f/b+qDeaBVshHYMWpMV2Vm4WUSk6T71SuuZ68PnoWCl2mwu/FVNauwIFxjAPvgIsA8+Avee5BA4xcyQQ+AUM0MOgXtPcgiwDz4C7IP/Blm5BTu16fdnqldfsiKdk3IBrjUAF3dc4K0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:22:27.5260000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>03:57:51.9900000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:24.7700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288" />
+        <Time id="291" />
+        <Time id="293">
+          <RealTime>00:01:24.8040000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:02:58.9410000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:01:31.7310000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:01:34.2650000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Taking Out The Taxi</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtwAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAbklEQVQ4T6WTQQ7AIAgE/f/b+qDeaBVshHYMWpMV2Vm4WUSk6T71SuuZ68PnoWCl2mwu/FVNauwIFxjAPvgIsA8+Avee5BA4xcyQQ+AUM0MOgXtPcgiwDz4C7IP/Blm5BTu16fdnqldfsiKdk3IBrjUAF3dc4K0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:33:49.1050000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>04:11:06.0210000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:21.5790000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:25:14.1140000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:15:56.2900000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:13:47.8950000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:15:02.4980000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:14:07.0870000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:11:21.5790000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Stunt to Havana (75 ø27 R12.5)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAEQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAyElEQVQ4T41T0QrCMBDrp/mDg8IQ/B4R6ecMVPDtNOnSXY/V+ZCGXpPc0a3JzIhLeRuQA+byYl2c70+yfFzydamHX44BqE/l0bEPaZ2FGDCaQMyA0QTplIbdWwCELDReaIxQKDRz064TdIUds7A1cXq/OaPQxHUSilyAbwY+nAA1D28Gp2ndiI/uIIZwAh+CAGEU0gXECTbx/h14M8+8GSzxHmCIIfUr3OoPJP5lps4xA0aIRqELwINQ53+hAD4mLEAUjeDNZpY+mQDnWBHddw8AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>04:18:56.1880000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:50.1670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288" />
+        <Time id="291">
+          <RealTime>00:07:59.6880000</RealTime>
+        </Time>
+        <Time id="293" />
+        <Time id="296" />
+        <Time id="304" />
+        <Time id="311" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cabocalypse Now (79 R15.0)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAtwAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAbklEQVQ4T6WTQQ7AIAgE/f/b+qDeaBVshHYMWpMV2Vm4WUSk6T71SuuZ68PnoWCl2mwu/FVNauwIFxjAPvgIsA8+Avee5BA4xcyQQ+AUM0MOgXtPcgiwDz4C7IP/Blm5BTu16fdnqldfsiKdk3IBrjUAF3dc4K0AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:09:07.2190000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>04:43:56.5800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:16:37.9380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:31:33.9050000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:20:25.7100000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:23:34.9470000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:39:32.7390000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:29:20.9670000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:35:18.1140000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Oye! Pepe! (81 ø29)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA9UlEQVQ4T42TMRKCMBBFKSw4BkegoLDUzsbKCziMRUpKC0u9h433YBwKjmNJF3c3+XEhBCleNmz2PzMyZNZa4dx+rNANq0BOFsNNCktVZHTM6B5jWldFEH7Zo0NlfRN4n5KJQN9AD6b2uIEXcHiwxe4kNL27BSpjOrfnWuxpjogEGP4nQC8SQLJGgHAQSNPX7eUqdY6qdmcSRMWDPiirMvQAetE8L7rJLAlAyGEzlSwxyugHafih1C2iebwB0/9qTsNcmYb+eSbf0JuhmhQgDCDRYQjMWwnkY6LBqeTweImEw8f7cyQA8jHxwszdgkFwKnA5m30B7uZZdD9Z0acAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:11:44.7890000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>05:48:36.3970000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:01:48.9270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>01:08:20.3260000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>01:03:27.9490000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>01:15:37.6270000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>01:08:02.0360000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>01:03:35.6520000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>01:02:37.5700000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dubgame's Split</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA2ElEQVQ4T52TOw7CMBBEXVDkCEg0HCdSkAii4RAuKVJyzJQuUnALs7PJ2GuUKJ/iWS52ntcr28UYFe/fEdTts+Recn59FOZS2MlWqaqSUwkFlKSTEe77b+zDH0NGJVJnJbsEKpk6TYL6IXcT0C4KwhBKQolKpDbllgTOod3MIUFza2PTtMcFlu2CqXCJ9SHOhCw2vEuQr7NRwFbtHDBQG1aB9508pE4L9CGJBHBQKLoKlymAPcPYrwoYnpOoYPxMo0CRIKEAxZTY0/UzYaEEcCYEQQsFYy66HzpuUgbpVuM2AAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:13:37.6250000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>05:50:35.4260000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:52.8360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:02:06.6660000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:02:01.8130000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:01:58.7180000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:01:55.3790000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:03:05.1250000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:01:52.8360000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-OMG a Helicopter! (ø31 R15.5)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA/wAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAtklEQVQ4T8WTIRLCMBBFIxA9ArLHqYTBIDkIAskRIyMQvcWyf8uGvxkoLQjES2en+37SNEkiYmyPFwHD7jCL97kXZA5Im26ia1CFQ4IMqqjkcZRcIhxg/Rj60zUEmOgsCaiFvgSllEq+qUh8DGAZzO2BOaFoAlBDGva6sQ+435xQvAhg+T8BP32ChfAGAu0JTigwYxOy4Deepbdien5xkJ4BYPVRxoXgFay+TBiAr8AD3sGyiKQ7R6osm2Kyx38AAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:29:08.0440000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>06:04:38.1430000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:18.9250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288" />
+        <Time id="291">
+          <RealTime>00:21:36.0700000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:11:18.9250000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:16:35.7920000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:19:18.7980000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:15:30.4190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Orpheus and Eurydice (84)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAwQAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAeElEQVQ4T62RSw6AIAwFuf/JOA4LFyxMKs+k2vJ5IHExEqQzJhJE5BP5zGV59+6QARGEothIM1hjRWUp0BNrGTgJMLGWwbao3A8mMmhghgukIzUDM+D8G1BijBQ76wK9rwBIvfcuwH7iKL58C8uBEQhY7NkT2EfCBXythu+NJ/S/AAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:33:23.5340000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:15.4900000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:25:01.0240000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:05:04.6330000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:04:52.7550000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:05:00.8830000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:08:34.4470000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:04:15.4900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Sex (92 ø35)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAwQAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAeElEQVQ4T62RSw6AIAwFuf/JOA4LFyxMKs+k2vJ5IHExEqQzJhJE5BP5zGV59+6QARGEothIM1hjRWUp0BNrGTgJMLGWwbao3A8mMmhghgukIzUDM+D8G1BijBQ76wK9rwBIvfcuwH7iKL58C8uBEQhY7NkT2EfCBXythu+NJ/S/AAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:48:47.1290000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>06:20:57.4070000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:23.0220000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:18:11.6120000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:11:35.1550000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:11:53.4290000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:13:59.3480000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:12:17.8920000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:15:23.5950000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pubic Tour (R16.0)</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAxQAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAAfElEQVQ4T6WMQQ7AIAgE/f+LPTShQrotrBg0PUyADbNNRH6RhifMwYhW8K8Sj3H2qy/JSr6lkAGXHMnAl4QCnYAFn+ssC6qsLNAbcK4zFPgSFrMMjnnvQs96A87hmBeORPAiy+ZMgSvxU+FfZQ4eidkusHDEDP+ANNxH2g37w7z5lMdCpQAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:03:54.4630000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run" />
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>06:30:01.8370000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:16.8910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:10:16.6430000</RealTime>
+        </Time>
+        <Time id="291" />
+        <Time id="293">
+          <RealTime>00:09:44.2110000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:09:45.2660000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:07:16.8910000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:15:07.3340000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Supercool Gunfight</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA1UlEQVQ4T8WTLRKDMBCFIyo4QkUFx8F1OhgOEVmBqOgxkYgKbrHdt5mX2ZCAqKn4gCzvfeWnBBExYnwKGO7jKTHOBnu5HPTQuHQZlvwshAQl+ZdRXpZNlk+iKCmcI0MBOBR4iZ9VgmHUy1RCp8Ftk3VdM7wtP0MG2dzzAuDDLQFzlYCSInwgKDrF4hfBdXoLqcItga6Ljl/YYFfw7MuWrwZ/FfQY6EMq/jgOnEPuNr1KAYocDI/0NlplnGOOEvuYcEAJBS0o6KfZ9vYxYUMJBWcwl3oSvqz6SR+9CdFdAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:26:25.1140000</RealTime>
+        </SplitTime>
+        <SplitTime name="Old Run">
+          <RealTime>13:24:06.3900000</RealTime>
+        </SplitTime>
+        <SplitTime name="Former WR w/ CP dupe">
+          <RealTime>06:51:57.8910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:26.7540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="288">
+          <RealTime>00:28:58.9100000</RealTime>
+        </Time>
+        <Time id="291">
+          <RealTime>00:33:10.0040000</RealTime>
+        </Time>
+        <Time id="293">
+          <RealTime>00:21:56.4720000</RealTime>
+        </Time>
+        <Time id="296">
+          <RealTime>00:20:26.7540000</RealTime>
+        </Time>
+        <Time id="304">
+          <RealTime>00:51:32.9840000</RealTime>
+        </Time>
+        <Time id="311">
+          <RealTime>00:22:30.6510000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

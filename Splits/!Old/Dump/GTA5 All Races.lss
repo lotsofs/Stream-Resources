@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>
+  </CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>41</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/24/2022 19:45:04" isStartedSynced="True" ended="08/25/2022 18:51:16" isEndedSynced="True" />
+    <Attempt id="2" started="08/25/2022 19:22:42" isStartedSynced="True" ended="08/25/2022 19:27:22" isEndedSynced="True" />
+    <Attempt id="3" started="08/25/2022 19:27:54" isStartedSynced="True" ended="08/25/2022 19:36:55" isEndedSynced="True" />
+    <Attempt id="4" started="08/25/2022 19:37:47" isStartedSynced="True" ended="08/25/2022 21:10:07" isEndedSynced="True">
+      <RealTime>01:32:19.4060000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="08/25/2022 21:39:05" isStartedSynced="True" ended="08/25/2022 21:56:38" isEndedSynced="True" />
+    <Attempt id="6" started="08/25/2022 21:58:04" isStartedSynced="True" ended="08/25/2022 22:05:17" isEndedSynced="True" />
+    <Attempt id="7" started="08/25/2022 22:05:48" isStartedSynced="True" ended="08/25/2022 22:10:48" isEndedSynced="True" />
+    <Attempt id="8" started="08/25/2022 22:11:34" isStartedSynced="True" ended="08/25/2022 22:16:42" isEndedSynced="True" />
+    <Attempt id="9" started="08/25/2022 22:17:33" isStartedSynced="True" ended="08/25/2022 23:46:32" isEndedSynced="True">
+      <RealTime>01:28:58.4020000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="08/26/2022 20:28:23" isStartedSynced="True" ended="08/26/2022 20:48:15" isEndedSynced="True" />
+    <Attempt id="11" started="08/26/2022 20:49:39" isStartedSynced="True" ended="08/26/2022 21:07:49" isEndedSynced="True" />
+    <Attempt id="12" started="08/26/2022 21:09:41" isStartedSynced="True" ended="08/26/2022 21:10:29" isEndedSynced="True" />
+    <Attempt id="13" started="08/26/2022 21:11:02" isStartedSynced="True" ended="08/26/2022 21:15:05" isEndedSynced="True" />
+    <Attempt id="14" started="08/26/2022 21:15:34" isStartedSynced="True" ended="08/26/2022 21:32:05" isEndedSynced="True" />
+    <Attempt id="15" started="08/26/2022 21:33:04" isStartedSynced="True" ended="08/26/2022 21:37:58" isEndedSynced="True" />
+    <Attempt id="16" started="08/26/2022 21:38:58" isStartedSynced="True" ended="08/26/2022 21:39:45" isEndedSynced="True" />
+    <Attempt id="17" started="08/26/2022 21:40:36" isStartedSynced="True" ended="08/26/2022 21:46:51" isEndedSynced="True" />
+    <Attempt id="18" started="08/26/2022 21:47:23" isStartedSynced="True" ended="08/26/2022 21:52:38" isEndedSynced="True" />
+    <Attempt id="19" started="08/26/2022 21:53:33" isStartedSynced="True" ended="08/26/2022 21:54:18" isEndedSynced="True" />
+    <Attempt id="20" started="08/26/2022 21:54:43" isStartedSynced="True" ended="08/26/2022 22:49:59" isEndedSynced="True">
+      <RealTime>00:55:15.8860000</RealTime>
+    </Attempt>
+    <Attempt id="21" started="08/28/2022 19:27:57" isStartedSynced="True" ended="08/28/2022 19:33:10" isEndedSynced="True" />
+    <Attempt id="22" started="08/28/2022 19:33:42" isStartedSynced="True" ended="08/28/2022 19:54:11" isEndedSynced="True" />
+    <Attempt id="23" started="08/28/2022 19:55:01" isStartedSynced="True" ended="08/28/2022 20:00:19" isEndedSynced="True" />
+    <Attempt id="24" started="08/28/2022 20:01:19" isStartedSynced="True" ended="08/28/2022 20:17:31" isEndedSynced="True" />
+    <Attempt id="25" started="08/28/2022 20:19:41" isStartedSynced="True" ended="08/28/2022 20:33:33" isEndedSynced="True" />
+    <Attempt id="26" started="08/28/2022 20:34:09" isStartedSynced="True" ended="08/28/2022 20:34:25" isEndedSynced="True" />
+    <Attempt id="27" started="08/28/2022 20:35:08" isStartedSynced="True" ended="08/28/2022 21:25:02" isEndedSynced="True">
+      <RealTime>00:49:53.3020000</RealTime>
+    </Attempt>
+    <Attempt id="28" started="08/28/2022 21:28:40" isStartedSynced="True" ended="08/28/2022 21:29:06" isEndedSynced="True" />
+    <Attempt id="29" started="08/28/2022 21:29:30" isStartedSynced="True" ended="08/28/2022 21:45:34" isEndedSynced="True" />
+    <Attempt id="30" started="08/28/2022 21:46:40" isStartedSynced="True" ended="08/28/2022 22:34:09" isEndedSynced="True" />
+    <Attempt id="31" started="08/29/2022 12:42:49" isStartedSynced="True" ended="08/29/2022 19:49:29" isEndedSynced="True" />
+    <Attempt id="32" started="08/29/2022 20:04:12" isStartedSynced="True" ended="08/29/2022 20:09:01" isEndedSynced="True" />
+    <Attempt id="33" started="08/29/2022 20:11:50" isStartedSynced="True" ended="08/29/2022 20:26:07" isEndedSynced="True" />
+    <Attempt id="34" started="08/29/2022 20:26:45" isStartedSynced="True" ended="08/29/2022 20:27:03" isEndedSynced="True" />
+    <Attempt id="35" started="08/29/2022 20:27:21" isStartedSynced="True" ended="08/29/2022 20:42:00" isEndedSynced="True" />
+    <Attempt id="36" started="08/29/2022 20:42:58" isStartedSynced="True" ended="08/29/2022 20:43:55" isEndedSynced="True" />
+    <Attempt id="37" started="08/29/2022 20:44:19" isStartedSynced="True" ended="08/29/2022 21:01:53" isEndedSynced="True" />
+    <Attempt id="38" started="08/29/2022 21:02:35" isStartedSynced="True" ended="08/29/2022 21:03:15" isEndedSynced="True" />
+    <Attempt id="39" started="08/29/2022 21:03:38" isStartedSynced="True" ended="08/29/2022 21:59:33" isEndedSynced="True">
+      <RealTime>00:55:54.7210000</RealTime>
+    </Attempt>
+    <Attempt id="40" started="08/29/2022 22:00:58" isStartedSynced="True" ended="08/29/2022 22:01:31" isEndedSynced="True" />
+    <Attempt id="41" started="08/29/2022 22:02:20" isStartedSynced="True" ended="08/29/2022 22:52:52" isEndedSynced="True">
+      <RealTime>00:50:32.2590000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Race 1 - Near Franklin's Mansion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:17.1730000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:47.8060000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:52.3630000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:04:00.0300000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:05:33.7630000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:04:28.4530000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:04:09.9100000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:04:18.0280000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:04:15.2130000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:23.0900000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:04:04.5960000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:47.8060000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:04:13.2020000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:04:15.4440000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:04:05.7190000</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:04:08.3090000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:04:22.9140000</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:04:29.7520000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:04:14.8110000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:03:58.9560000</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:03:58.9200000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:03:54.8940000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:03:59.1940000</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:03:48.1060000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:03:51.6770000</RealTime>
+        </Time>
+        <Time id="37">
+          <RealTime>00:03:51.3980000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:04:16.9140000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:04:17.1730000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 2 - Where I bought my first GTAO Garage</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:23.8780000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:01.1020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:40.9680000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:05.3780000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:03:35.5900000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:18.4450000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:27.7080000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:29.0480000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:03:22.5820000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:03:21.8850000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:03:09.1350000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:03:10.8970000</RealTime>
+        </Time>
+        <Time id="29" />
+        <Time id="27">
+          <RealTime>00:03:01.1020000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:03:18.8860000</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:03:20.6880000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:03:13.3030000</RealTime>
+        </Time>
+        <Time id="37">
+          <RealTime>00:03:16.5780000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:03:18.5910000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:06.7050000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 3 - Airport</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:26.9200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:58.5520000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:05:35.1370000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:06:26.8290000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:04:51.8120000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:02.8870000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:04:15.8770000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:04:27.3120000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:04:11.8670000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:03:58.5520000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:04:13.9740000</RealTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:04:14.3280000</RealTime>
+        </Time>
+        <Time id="29" />
+        <Time id="27">
+          <RealTime>00:04:02.6210000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:04:16.2410000</RealTime>
+        </Time>
+        <Time id="33">
+          <RealTime>00:04:15.3000000</RealTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:04:17.6720000</RealTime>
+        </Time>
+        <Time id="37">
+          <RealTime>00:04:08.5960000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:04:02.0970000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:04:03.0420000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 4 - Near Franklin's Shack</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:28.9800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53.0860000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:21.9940000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:03:17.3760000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:03:27.0650000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:27.3560000</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:33.1620000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:03:00.7480000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:03:11.6320000</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:03:11.6980000</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:10:46.7450000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:03:00.1570000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:03:09.6080000</RealTime>
+        </Time>
+        <Time id="37">
+          <RealTime>00:03:10.4250000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:02:53.0860000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:02.0600000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 5 - Bike Race</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:39.3410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:10.3610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:05:11.1620000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:21:31.0860000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:04:29.6900000</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:04:42.1270000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:04:16.3240000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:04:12.1560000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:04:20.9360000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:04:10.3610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 6 - Sea Shark in LS</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:54.8310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:10.5130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:07:41.0120000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:05:20.2400000</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:05:27.7130000</RealTime>
+        </Time>
+        <Time id="30">
+          <RealTime>00:03:40.8170000</RealTime>
+        </Time>
+        <Time id="27">
+          <RealTime>00:04:17.2610000</RealTime>
+        </Time>
+        <Time id="39">
+          <RealTime>00:03:10.5130000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:15.4900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 7 - In the Middle of Badlands</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:19.6170000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:24.7860000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="41">
+          <RealTime>00:03:24.7860000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:28.6250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 8 - Death Warp to Trevor Town</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:10.8360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.2190000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="41">
+          <RealTime>00:03:51.2190000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:05:11.0410000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 9 - Lake to Sea</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:27.6790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:16.8430000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="41">
+          <RealTime>00:02:16.8430000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:04:36.4250000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 10 - Sea to Lake</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:09.6610000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:38.5060000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="41">
+          <RealTime>00:02:41.9820000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:38.5060000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 11 - Sea Shark in Trevor Town</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:20.5340000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:10.8730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="41">
+          <RealTime>00:02:10.8730000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:35.2870000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 12 - Quarry</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:12.5010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:20.0020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:03:20.0020000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:51.9670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 13 - Windmills</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:43:40.8840000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:28.3830000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:03:46.3010000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:28.3830000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 14 - Southern Sea Shark</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:30.4200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:17.6690000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:03:17.6690000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:49.5360000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Race 15 - Lighthouse</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:32.2590000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:01.8390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:04:58.7280000</RealTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:03:01.8390000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

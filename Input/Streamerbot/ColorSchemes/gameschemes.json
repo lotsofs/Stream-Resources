@@ -1,0 +1,84 @@
+{
+	"Categories": {
+		"AoE2DE": {
+			"Default": "Nomad",
+			"Colors": {
+				"Nomad": {
+					"Inner": "#caac8d",
+					"Outer": "#744427",
+					"Text": "#dcc09a"
+				}
+			}
+		},
+		"GTA5": {
+			"Default": "Power",
+			"Colors": {
+				"Power": {
+					"Inner": "#bfa036",
+					"Outer": "#332f2a",
+					"Text": "#bfa036"
+				}
+			}
+		},
+		"GTASA": {
+			"Default": "Health",
+			"Colors": {
+				"Health": {
+					"Inner": "#3d6035",
+					"Outer": "#000200",
+					"Text": "#bebebc"
+				}
+			}
+		},
+		"MELE": {
+			"Default": "Weapon",
+			"Colors": {
+				"Weapon": {
+					"Inner": "#2d5759",
+					"Outer": "#619799",
+					"Text": "#8dd7cc"
+				}
+			}
+		},
+		"KTANE": {
+			"Default": "Unsolved",
+			"Colors": {
+				"Unsolved": {
+					"Inner": "#161513",
+					"Outer": "#87786c",
+					"Text": "#a19888"
+				},
+				"Strike": {
+					"Inner": "#d20433",
+					"Outer": "#ff6a29",
+					"Text": "#ff4556"
+				},
+				"Solve": {
+					"Inner": "#089723",
+					"Outer": "#10e33c",
+					"Text": "#1eec55"
+				},
+				"ModuleBackground": {
+					"Inner": "#98a2af",
+					"Outer": "#b6e2f2",
+					"Text": "#a3bbb0"
+				},
+				"Desk": {
+					"Inner": "#5f4536",
+					"Outer": "#feba8d",
+					"Text": "#87786c"
+				}
+			}
+		},
+		"None": {
+			"Default": "BnW",
+			"Colors": {
+				"BnW": {
+					"Inner": "#000000",
+					"Outer": "#ffffff",
+					"Text": "#ffffff"
+				}
+			}
+		}
+	}
+}

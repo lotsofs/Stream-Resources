@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>Lost and Damned</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>8</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" />
+    <Attempt id="2" />
+    <Attempt id="3">
+      <RealTime>14:29:09.4793898</RealTime>
+      <GameTime>14:29:09.4793898</GameTime>
+    </Attempt>
+    <Attempt id="4" />
+    <Attempt id="5">
+      <RealTime>02:09:36.8539054</RealTime>
+      <GameTime>02:09:36.8539054</GameTime>
+    </Attempt>
+    <Attempt id="6" started="10/02/2015 22:26:58" isStartedSynced="True" ended="10/02/2015 22:29:27" isEndedSynced="True" />
+    <Attempt id="7" started="10/02/2015 22:29:29" isStartedSynced="True" ended="10/02/2015 22:30:08" isEndedSynced="True" />
+    <Attempt id="8" started="10/02/2015 22:30:11" isStartedSynced="True" ended="10/03/2015 00:51:45" isEndedSynced="True">
+      <RealTime>02:21:34.4470000</RealTime>
+      <GameTime>00:00:00</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Brian Dead</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:41:47.1496547</RealTime>
+          <GameTime>01:41:47.1496547</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:34:19.8900000</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>01:34:19.8900000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>01:41:47.1496547</RealTime>
+          <GameTime>01:41:47.1496547</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>01:47:25.2270000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jimmy Dead</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAQQIAAAKJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAAetJREFUOE/FlEFrE1EUhTOThjIxSWs7ySQ2mdYQmLRKJZkxKRGxgi0GrRW0JdrWVOteRFxYY4IKLroq+lfcC4K4KeJeN4JLEZQuShGP5z4T7M6ZuPDAB483dz7m5r6X0P9KlpS7OLLRb2rkFflG0GWfvCVLJFB0shMxYhg7cRp2pU4uIOvOITqS7snzUug3InyXsGyUGnfhNlvwNp5gevkerGOnRPaTBG5/Ww8P4PD4JMqrm3BvtpGcrCAcGRThBxJRVQEyRj7HrQm4a20KO0g6rsj2yKIU9JOdRCZP4aODwi8krp72kffqC29Q2BThSRHK1FPqacBIy7tWcUYJPQrtmYu9gVyRAr+JkufkDYFduwR3vY3yWgvO+VvQNE2k94nvtOWl7oswHY/tsuX1DrLevOz9ILNS6CeXQ5q2n0gfxWh+GlwjznVvKObvoXwlpqr2kReaHmZrTZSvP4QxZOJQMvdnykWvJ0yrah9ZICicbXAQLQwMGoiZ/yasExTOXeMQNtVvGB3NKKG38RipqarsybHJEF+pEhwpzaJy+yly/FPIn7nK9TOUVh4gnpkQ4SciJ8FX5H6+1HQdw7aDXLWO8doirKkajOGU+mJyRwqDRK7VFvlI5IiI5Dt5TZZJ3zFIgRwncmv+klDoF49VuXMZApdOAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:02:57.9024962</RealTime>
+          <GameTime>02:02:57.9024962</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:21:10.7528415</RealTime>
+        <GameTime>00:21:10.7528415</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:53:22.0935747</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:21:10.7528415</RealTime>
+          <GameTime>00:21:10.7528415</GameTime>
+        </Time>
+        <Time id="8" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Billy Dead</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAewIAAAKJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAAiVJREFUOE+9lNtqE1EYhTPJTFPHpNoITdJWc0CjJDYnkhY1aSM1Fi+qYhKxRrStVBFEhIqltNY0Hu4E8fgeghc+gw8g+gSKV4o3amS5/j0VtYIzirjgYyeTtdf8e//Z2/U/FSJlEif9JLY2/pUWyRsC8pm8J5/IO/KcLJAu4khh0vEFo4juPYpwpoJgcg/6c/vRlxqBv2+rvER4SrzEVj3kdSA+hPypZRRnVlGYvsHP1zi2yAoGcuNwaZqENtQMB3rm1nXEx2oonm0jMTENY4OP1Y6iONtGpnEFuteUwLuW3V7HCSKlwxg+dxuxck0tszeWUoHpY5dhdG+UZw/F7EQVgmj5CIbnbrHShgrcsj2zPvC+mJ2oSqwK575XGIjvtpZcn1dbwGePxexEdzSPBzsPNVGYbSFx8AwM049wusxAfq9Owa0bEnjdstvriWH6MFS/hFxzAbmTS0hOXkB2ahHZE1fhC0VUxWRcuR1oSXN7sKPaVEuUCrvMHlYoXb7Jyme+Vdiy7PZSTYmUJn/qciBudfmHPXwkZicaI/+0yxcJouu7/Ov/8IGY7WSQl3q3iVilvnZS2GUGqD3kUUw35iG/0+doyXJNdYLJEeRPrzCgbZ3l5jLHVfWC2GgNmnWWz6sZNgqQt15/L0KpEgbyVQwWJjgeUBVujuyC5tEl7AXZJBOcaB+R6+kD+UIkoEM+klfkHtlG/liDJEGyRG7uKPnNHehyfQWqK/V1ZzkRfgAAAABJRU5ErkJgggs=]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:09:36.8539054</RealTime>
+          <GameTime>02:09:36.8539054</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:38.9514092</RealTime>
+        <GameTime>00:00:00</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:07:01.7310608</RealTime>
+          <GameTime>00:07:01.7310608</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:06:38.9514092</RealTime>
+          <GameTime>00:06:38.9514092</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:34:09.2200000</RealTime>
+          <GameTime>00:00:00</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

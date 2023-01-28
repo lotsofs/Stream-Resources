@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Serious Sam 2</GameName>
+  <CategoryName>IL: 2.4 WS</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>32</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/24/2019 09:18:40" isStartedSynced="True" ended="08/24/2019 09:18:45" isEndedSynced="True" />
+    <Attempt id="2" started="08/24/2019 09:19:16" isStartedSynced="True" ended="08/24/2019 09:19:24" isEndedSynced="True" />
+    <Attempt id="3" started="08/24/2019 09:19:27" isStartedSynced="True" ended="08/24/2019 09:19:55" isEndedSynced="True" />
+    <Attempt id="4" started="08/24/2019 09:20:00" isStartedSynced="True" ended="08/24/2019 09:28:26" isEndedSynced="True">
+      <RealTime>00:08:25.4960000</RealTime>
+      <GameTime>00:08:25.4810000</GameTime>
+    </Attempt>
+    <Attempt id="5" started="08/24/2019 09:29:24" isStartedSynced="True" ended="08/24/2019 09:38:29" isEndedSynced="True">
+      <RealTime>00:09:04.6120000</RealTime>
+      <GameTime>00:09:04.5650000</GameTime>
+    </Attempt>
+    <Attempt id="6" started="08/24/2019 09:39:47" isStartedSynced="True" ended="08/24/2019 09:48:02" isEndedSynced="True">
+      <RealTime>00:08:14.4430000</RealTime>
+      <GameTime>00:08:14.4430000</GameTime>
+    </Attempt>
+    <Attempt id="7" started="08/24/2019 09:49:23" isStartedSynced="True" ended="08/24/2019 09:49:43" isEndedSynced="True" />
+    <Attempt id="8" started="08/24/2019 09:50:27" isStartedSynced="True" ended="08/24/2019 09:58:42" isEndedSynced="True">
+      <RealTime>00:08:14.7200000</RealTime>
+      <GameTime>00:08:14.7200000</GameTime>
+    </Attempt>
+    <Attempt id="9" started="08/24/2019 10:01:01" isStartedSynced="True" ended="08/24/2019 10:03:10" isEndedSynced="True" />
+    <Attempt id="10" started="08/24/2019 11:36:38" isStartedSynced="True" ended="08/24/2019 11:36:46" isEndedSynced="True" />
+    <Attempt id="11" started="08/24/2019 11:36:52" isStartedSynced="True" ended="08/24/2019 11:45:09" isEndedSynced="True">
+      <RealTime>00:08:17.4500000</RealTime>
+      <GameTime>00:08:17.4340000</GameTime>
+    </Attempt>
+    <Attempt id="12" started="08/31/2019 17:37:21" isStartedSynced="True" ended="08/31/2019 17:41:51" isEndedSynced="True">
+      <RealTime>00:04:29.9770000</RealTime>
+      <GameTime>00:04:29.9770000</GameTime>
+    </Attempt>
+    <Attempt id="13" started="08/31/2019 17:43:11" isStartedSynced="True" ended="08/31/2019 17:43:55" isEndedSynced="True" />
+    <Attempt id="14" started="08/31/2019 17:43:56" isStartedSynced="True" ended="08/31/2019 17:48:27" isEndedSynced="True">
+      <RealTime>00:04:30.8130000</RealTime>
+      <GameTime>00:04:30.8130000</GameTime>
+    </Attempt>
+    <Attempt id="15" started="08/31/2019 17:50:13" isStartedSynced="True" ended="08/31/2019 17:50:56" isEndedSynced="True" />
+    <Attempt id="16" started="08/31/2019 17:51:02" isStartedSynced="True" ended="08/31/2019 17:55:32" isEndedSynced="True">
+      <RealTime>00:04:30.6120000</RealTime>
+      <GameTime>00:04:30.6120000</GameTime>
+    </Attempt>
+    <Attempt id="17" started="08/31/2019 17:56:03" isStartedSynced="True" ended="08/31/2019 17:56:58" isEndedSynced="True" />
+    <Attempt id="18" started="08/31/2019 17:57:02" isStartedSynced="True" ended="08/31/2019 18:00:25" isEndedSynced="True" />
+    <Attempt id="19" started="08/31/2019 18:00:31" isStartedSynced="True" ended="08/31/2019 18:01:55" isEndedSynced="True" />
+    <Attempt id="20" started="08/31/2019 18:01:59" isStartedSynced="True" ended="08/31/2019 18:06:17" isEndedSynced="True" />
+    <Attempt id="21" started="08/31/2019 18:06:23" isStartedSynced="True" ended="08/31/2019 18:09:09" isEndedSynced="True" />
+    <Attempt id="22" started="08/31/2019 18:09:14" isStartedSynced="True" ended="08/31/2019 18:13:44" isEndedSynced="True">
+      <RealTime>00:04:30.1370000</RealTime>
+      <GameTime>00:04:30.1260000</GameTime>
+    </Attempt>
+    <Attempt id="23" started="08/31/2019 18:15:37" isStartedSynced="True" ended="08/31/2019 18:18:07" isEndedSynced="True" />
+    <Attempt id="24" started="08/31/2019 18:18:20" isStartedSynced="True" ended="08/31/2019 18:18:29" isEndedSynced="True" />
+    <Attempt id="25" started="08/31/2019 18:18:55" isStartedSynced="True" ended="08/31/2019 18:23:26" isEndedSynced="True">
+      <RealTime>00:04:30.9900000</RealTime>
+      <GameTime>00:04:30.9900000</GameTime>
+    </Attempt>
+    <Attempt id="26" started="08/31/2019 18:24:27" isStartedSynced="True" ended="08/31/2019 18:28:57" isEndedSynced="True">
+      <RealTime>00:04:29.9610000</RealTime>
+      <GameTime>00:04:29.9610000</GameTime>
+    </Attempt>
+    <Attempt id="27" started="09/04/2019 17:50:25" isStartedSynced="True" ended="09/04/2019 18:03:45" isEndedSynced="True" />
+    <Attempt id="28" started="09/04/2019 18:04:49" isStartedSynced="True" ended="09/04/2019 18:09:19" isEndedSynced="True">
+      <RealTime>00:04:29.3470000</RealTime>
+      <GameTime>00:04:29.3470000</GameTime>
+    </Attempt>
+    <Attempt id="29" started="09/04/2019 18:10:28" isStartedSynced="True" ended="09/04/2019 18:12:13" isEndedSynced="True" />
+    <Attempt id="30" started="09/08/2019 12:04:03" isStartedSynced="True" ended="09/08/2019 12:04:09" isEndedSynced="True" />
+    <Attempt id="31" started="09/08/2019 12:04:28" isStartedSynced="True" ended="09/08/2019 12:09:02" isEndedSynced="True">
+      <RealTime>00:04:34.0110000</RealTime>
+      <GameTime>00:04:33.9880000</GameTime>
+    </Attempt>
+    <Attempt id="32" started="10/16/2019 17:55:59" isStartedSynced="True" ended="10/16/2019 18:00:38" isEndedSynced="True">
+      <RealTime>00:04:38.9500000</RealTime>
+      <GameTime>00:04:38.9500000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Elevator Ride A</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:55.5420000</RealTime>
+          <GameTime>00:01:55.5420000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:55.5220000</RealTime>
+        <GameTime>00:01:55.5220000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:55.5440000</RealTime>
+          <GameTime>00:01:55.5440000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:55.5690000</RealTime>
+          <GameTime>00:01:55.5690000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:55.5600000</RealTime>
+          <GameTime>00:01:55.5600000</GameTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:01:55.5490000</RealTime>
+          <GameTime>00:01:55.5490000</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:01:55.5350000</RealTime>
+          <GameTime>00:01:55.5350000</GameTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:55.5530000</RealTime>
+          <GameTime>00:01:55.5530000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:01:55.5490000</RealTime>
+          <GameTime>00:01:55.5490000</GameTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:01:55.5350000</RealTime>
+          <GameTime>00:01:55.5350000</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:01:55.5220000</RealTime>
+          <GameTime>00:01:55.5220000</GameTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:01:55.5420000</RealTime>
+          <GameTime>00:01:55.5420000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:01:55.5330000</RealTime>
+          <GameTime>00:01:55.5330000</GameTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:01:55.5460000</RealTime>
+          <GameTime>00:01:55.5460000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Elevator Ride B</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:04.6070000</RealTime>
+          <GameTime>00:04:04.6070000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:09.0650000</RealTime>
+        <GameTime>00:02:09.0650000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:02:09.6430000</RealTime>
+          <GameTime>00:02:09.6430000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:10.5250000</RealTime>
+          <GameTime>00:02:10.5250000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:10.4830000</RealTime>
+          <GameTime>00:02:10.4830000</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:02:13.9450000</RealTime>
+          <GameTime>00:02:13.9450000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:02:09.9280000</RealTime>
+          <GameTime>00:02:09.9280000</GameTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:02:10.8180000</RealTime>
+          <GameTime>00:02:10.8180000</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:02:09.4830000</RealTime>
+          <GameTime>00:02:09.4830000</GameTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:02:09.0650000</RealTime>
+          <GameTime>00:02:09.0650000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:02:12.8280000</RealTime>
+          <GameTime>00:02:12.8050000</GameTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:02:18.7370000</RealTime>
+          <GameTime>00:02:18.7370000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Trampoline</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:29.3470000</RealTime>
+          <GameTime>00:04:29.3470000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:24.5690000</RealTime>
+        <GameTime>00:00:24.5690000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:00:24.7900000</RealTime>
+          <GameTime>00:00:24.7900000</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:24.7190000</RealTime>
+          <GameTime>00:00:24.7190000</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:24.5690000</RealTime>
+          <GameTime>00:00:24.5690000</GameTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:00:24.6600000</RealTime>
+          <GameTime>00:00:24.6490000</GameTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:00:24.6370000</RealTime>
+          <GameTime>00:00:24.6370000</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:00:24.9560000</RealTime>
+          <GameTime>00:00:24.9560000</GameTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:00:24.7400000</RealTime>
+          <GameTime>00:00:24.7400000</GameTime>
+        </Time>
+        <Time id="31">
+          <RealTime>00:00:25.6500000</RealTime>
+          <GameTime>00:00:25.6500000</GameTime>
+        </Time>
+        <Time id="32">
+          <RealTime>00:00:24.6670000</RealTime>
+          <GameTime>00:00:24.6670000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>D:\Programs\Stream\Livesplit\Components\serioussam2.asl</ScriptPath>
+    <Start>True</Start>
+    <Split>True</Split>
+    <CustomSettings />
+  </AutoSplitterSettings>
+</Run>

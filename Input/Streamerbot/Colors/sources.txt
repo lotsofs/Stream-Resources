@@ -1,0 +1,9 @@
+# basiccolors.json
+CSS 1.0 colors. Includes all colors with min/maxed R G B values, all those colors divided in half, and 'silver'.
+"Basic colors" table of https://en.wikipedia.org/wiki/Web_colors
+Does not include 'orange'.
+
+# htmlcolors.json
+Extended CSS colors/HTML colors. Source as implemented by System.Drawing.Color in .net resource.
+"Extended colors" table of https://en.wikipedia.org/wiki/Web_colors 
+Includes 'RebeccaPurple' and alternate spellings of the 7 shades of Græy

@@ -1,0 +1,71 @@
+Title=HL2 (2007) Scriptless
+Attempts=28
+Offset=61000
+Size=120,25
+  Trainstation,0,171.95,171.95
+  Plaza,0,219.64,47.69
+  Apartments,0,246.02,24.22
+Point Insertion (Roof),0,358.18,112.16
+  Cutscene,0,826,467.82
+A Red Letter Day (Parked trains),0,898.53,61
+  Moving trains,0,1063.3,164.77
+  Barrels in water,0,1187.85,113.77
+  Helicopter,0,1221.18,25.6599999999999
+  Sewers,0,1402.84,181.66
+Route Kanal (Airboat),0,1531.81,128.97
+  Dam jump,0,1679.95,148.14
+  Pistol shot,0,1791.3,108.42
+  Triggerskip,0,1877.26,85.96
+  Music,0,1959.83,82.5699999999999
+  Chimneys,0,2073.55,113.72
+  Gun,0,2282.16,208.61
+  APCs,0,2400.76,117.35
+Water Hazard (Gates),0,2543.23,49.98
+  Dialogue,0,2976.17,432.94
+Black Mesa East (Fetch),0,3346.7,368.53
+  Streets,0,3479.22,132.52
+  Ledge,0,3511.96,32.7400000000002
+  Rooftops,0,3588.69,76.73
+  Graveyard,0,3617.55,28.8600000000001
+  Caverns,0,3670.54,52.9899999999998
+We Don't Go To Ravenholm (Winston),0,3871.01,200.47
+  Pier,0,3900.44,29.4299999999998
+  Beach,0,4018.36,81.8499999999999
+  Crane,0,4067.92,38.7200000000003
+  Rollermines,0,4150.17,73.4200000000001
+Highway 17 (The Bridge),0,4235.67,85.5
+  Some roads,0,4327.73,87.4200000000001
+  Lighthouse,0,4384.81,52.3899999999994
+  Antlion Guard,0,4508.31,123.5
+  Cliffs,0,4600.27,91.96
+Sandtraps (Gunships!!!),0,4770.31,105.77
+  Deserted prison,0,4827.94,52.8100000000004
+  Enemies,0,4884.12,56.1800000000003
+  More prison,0,4959.74,54.1800000000003
+Nova Prospekt (Prison),0,5028.32,66.2600000000002
+  Attacking,0,5525.16,484.54
+  Drawing,0,5879.45,325.82
+  Defending,0,6402.97,523.52
+Entanglement (Waiting),0,6560.64,157.67
+  Dog fight,0,6644.86,84.2199999999993
+  Plaza Again,0,6676.15,28.4099999999999
+  Hoppers,0,6707.9,31.1000000000004
+  Staircases,0,6811.95,104.05
+  Car tunnel,0,6962.89,143.82
+  Window,0,7014.9,52.0099999999993
+  Ignore Alyx,0,7158.79,117.089999999999
+Anticitizen 1 (Sewers),0,7336.53,126.56
+  Snipers,0,7459.56,80.5900000000001
+  Orbital Laser,0,7581.01,102.87
+  Barney is a dick,0,7831.25,250.24
+  Rooftop,0,7913.72,33.4399999999996
+  Striders,0,7953.05,39.2800000000007
+  Long tunnel,0,7992.58,35.6300000000001
+Follow Freeman (Horse statue),0,8128.12,124.41
+  Entrance,0,8199.98,71.8599999999997
+  Podride,0,8375.27,175.290000000001
+  Weaponstripper,0,8481.46,106.189999999999
+  Elevator,0,8692.57,211.110000000001
+Our Benefactors (Podride again),0,8834.87,142.300000000001
+Dark Energy (The reactor),0,9401.27,566.4
+Icons="D:\Dropbox\wsplit\HL2 images\ts01.png","D:\Dropbox\wsplit\HL2 images\ts02.png","D:\Dropbox\wsplit\HL2 images\ts03.png","D:\Dropbox\wsplit\HL2 images\ts04.png","D:\Dropbox\wsplit\HL2 images\ts05.png","D:\Dropbox\wsplit\HL2 images\ts06.png","D:\Dropbox\wsplit\HL2 images\c01.png","D:\Dropbox\wsplit\HL2 images\c01a.png","D:\Dropbox\wsplit\HL2 images\c02.png","D:\Dropbox\wsplit\HL2 images\c03.png","D:\Dropbox\wsplit\HL2 images\c05.png","D:\Dropbox\wsplit\HL2 images\c06.png","D:\Dropbox\wsplit\HL2 images\c07.png","D:\Dropbox\wsplit\HL2 images\c08.png","D:\Dropbox\wsplit\HL2 images\c09.png","D:\Dropbox\wsplit\HL2 images\c10.png","D:\Dropbox\wsplit\HL2 images\c11.png","D:\Dropbox\wsplit\HL2 images\c12.png","D:\Dropbox\wsplit\HL2 images\c13.png","D:\Dropbox\wsplit\HL2 images\eli01.png","D:\Dropbox\wsplit\HL2 images\eli02.png","D:\Dropbox\wsplit\HL2 images\t01.png","D:\Dropbox\wsplit\HL2 images\t01a.png","D:\Dropbox\wsplit\HL2 images\t02.png","D:\Dropbox\wsplit\HL2 images\t02a.png","D:\Dropbox\wsplit\HL2 images\t04.png","D:\Dropbox\wsplit\HL2 images\t05.png","D:\Dropbox\wsplit\HL2 images\coast01.png","D:\Dropbox\wsplit\HL2 images\coast03.png","D:\Dropbox\wsplit\HL2 images\coast04.png","D:\Dropbox\wsplit\HL2 images\coast05.png","D:\Dropbox\wsplit\HL2 images\coast07.png","D:\Dropbox\wsplit\HL2 images\coast09.png","D:\Dropbox\wsplit\HL2 images\coast10.png","D:\Dropbox\wsplit\HL2 images\coast11.png","D:\Dropbox\wsplit\HL2 images\coast12.png","D:\Dropbox\wsplit\HL2 images\p01.png","D:\Dropbox\wsplit\HL2 images\p02.png","D:\Dropbox\wsplit\HL2 images\p03.png","D:\Dropbox\wsplit\HL2 images\p04.png","D:\Dropbox\wsplit\HL2 images\p05.png","D:\Dropbox\wsplit\HL2 images\p06.png","D:\Dropbox\wsplit\HL2 images\p07.png","D:\Dropbox\wsplit\HL2 images\p08.png","D:\Dropbox\wsplit\HL2 images\c1701.png","D:\Dropbox\wsplit\HL2 images\c1702.png","D:\Dropbox\wsplit\HL2 images\c1703.png","D:\Dropbox\wsplit\HL2 images\c1704.png","D:\Dropbox\wsplit\HL2 images\c1705.png","D:\Dropbox\wsplit\HL2 images\c1706a.png","D:\Dropbox\wsplit\HL2 images\c1706b.png","D:\Dropbox\wsplit\HL2 images\c1707.png","D:\Dropbox\wsplit\HL2 images\c1708.png","D:\Dropbox\wsplit\HL2 images\c1709.png","D:\Dropbox\wsplit\HL2 images\c1710a.png","D:\Dropbox\wsplit\HL2 images\c1710b.png","D:\Dropbox\wsplit\HL2 images\c1711.png","D:\Dropbox\wsplit\HL2 images\c1712.png","D:\Dropbox\wsplit\HL2 images\c1712b.png","D:\Dropbox\wsplit\HL2 images\c1713.png","D:\Dropbox\wsplit\HL2 images\cit01.png","D:\Dropbox\wsplit\HL2 images\cit02.png","D:\Dropbox\wsplit\HL2 images\cit03.png","D:\Dropbox\wsplit\HL2 images\cit04.png","D:\Dropbox\wsplit\HL2 images\cit05.png","D:\Dropbox\wsplit\HL2 images\b01.png"

@@ -14,7 +14,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1356</AttemptCount>
+  <AttemptCount>1359</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" />
     <Attempt id="2" />
@@ -1540,6 +1540,13 @@
       <RealTime>00:48:12.1870000</RealTime>
     </Attempt>
     <Attempt id="1340" started="07/25/2022 22:27:27" isStartedSynced="True" ended="08/01/2022 22:41:58" isEndedSynced="True" />
+    <Attempt id="1341" started="01/01/2023 00:46:06" isStartedSynced="True" ended="01/01/2023 00:46:58" isEndedSynced="True" />
+    <Attempt id="1342" started="01/01/2023 00:47:02" isStartedSynced="True" ended="01/01/2023 01:36:11" isEndedSynced="True">
+      <RealTime>00:49:09.1180000</RealTime>
+    </Attempt>
+    <Attempt id="1343" started="01/01/2023 01:37:45" isStartedSynced="True" ended="01/01/2023 02:23:53" isEndedSynced="True">
+      <RealTime>00:46:08.2420000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -4419,6 +4426,12 @@
         <Time id="1339">
           <RealTime>00:01:04.5560000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:01:04.0220000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:01:03.0400000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -5079,6 +5092,12 @@
         </Time>
         <Time id="1339">
           <RealTime>00:00:49.4610000</RealTime>
+        </Time>
+        <Time id="1342">
+          <RealTime>00:01:26.3420000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:01:12.9650000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -6867,6 +6886,12 @@
         <Time id="1339">
           <RealTime>00:01:26.3220000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:01:19.0060000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:01:34.2780000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -8166,6 +8191,12 @@
         <Time id="1339">
           <RealTime>00:02:29.1110000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:04:25.7380000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:02:11.1370000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -9138,6 +9169,12 @@
         <Time id="1339">
           <RealTime>00:02:57.5970000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:01:48.7150000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:07:20.4500000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -9795,6 +9832,12 @@
         <Time id="1339">
           <RealTime>00:03:31.7260000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:05:21.8290000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:03:15.7960000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -10362,6 +10405,12 @@
         <Time id="1339">
           <RealTime>00:01:52.6410000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:02:02.9420000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:04:16.9480000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -10826,6 +10875,12 @@
         <Time id="1339">
           <RealTime>00:06:06.6690000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:03:27.2410000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:04:00.0150000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -11221,6 +11276,12 @@
         <Time id="1339">
           <RealTime>00:06:56.2630000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:10:23.8570000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:03:14.3340000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -11232,7 +11293,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:04.8480000</RealTime>
+        <RealTime>00:01:57.4150000</RealTime>
         <GameTime>00:03:13.8280000</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
@@ -11601,6 +11662,12 @@
         <Time id="1339">
           <RealTime>00:05:09.0170000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:01:57.4150000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:03:53.8190000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -11960,11 +12027,17 @@
         <Time id="1339">
           <RealTime>00:02:33.6490000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:05:02.3500000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:05:20.3050000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Old Granite Hotel</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAGQ4AAAKJUE5HDQoaCgAAAA1JSERSAAABAAAAAQAIBgAAAFxyqGYAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7BAAAOwQG4kWvtAAANu0lEQVR4Xu3dL5AVxxbH8YgnEAgEIgKBWBGBiEAgIhAIBGIFAoFAIBAIBCICQRUCgUAgEBEIBAKBQCAiEE8gEAgEAoFAIBCICASi079TZ8nNpIHp2z27c2a+n6pf1asEel723tM70//mJwAAAAAAAAAIJv3P/weAdUk7Oa9zzvk/ALAO6ZecDzkp56+c3/xfAFg2FXv66MW/F3UCuVMAsGDptBf7ZvHvRXcEdALAMqXzOV+82L+Vtzk/+18AsAzpcs6Pin8vb3KO+F8EEFu6tlHcY/P/nMPeAICY0p2Noq7NnzmsEwDiUeGme17ILXmcQycAxGHFr8ItFfQ2yR0JgAD03G637qVCbsltvwCAedLIvQ3elQq4JawUBOZNc/c2fVcq4JZocdApvwiA+bF1/VMVPysDgfn616aenlGHcswvAmB+bFPPJy/YnnmZw3JgYL7SmZxvbeppCSsAgXkbtalnm2jtAMUPzFe6mjNF8T/KYcUfMF/p+kbB9sxdvwCAeVKRFou3NTf9AgDmx9b1/7FRsD1zzS8CYH66b+rZi8YQLvhFAMyPbep57gXbM5o6PO8XATA/6WgOm3qA9Zl0U8+vfhEA82Pr+nUqb6mAW/I+h009wHylEzlTbephXT8wX7apZ4p1/S9yKH5gvvRiTjb1ACs06aaeQ34RAPNjL+uYovgf5rCpB5iv9PtGwfYMm3qAeZtsU88NvwCA+bF1/Q82CrZnNOB3Nkev/j6Vc9zDOABw8FSIk2zqGRvNMrzzqLPQHoOnOeqQlJueKzmXctSRnMxRJ8JMArA929Qzxbr+/Y46Dy0qUuehzkwdx60cjWeo09jNUcexk8OdB5ALQev6dcJuqaCWHp1W/DpHrynbu8vQHYY6Ct1dsEAJS6Yz9SfZ1LOkaBpUex90V7F3R3ExRx3EEf9BAtFM9rKOteVjjpYz60QkPWpo4ZQ6B8YlMFe2rl9f3NIXmvSL7hye5NzOUcegzVQsgMJBsw5gihV+5MfRz/1Vzr2cyzm5UwD23WRr/El9NAWqWZg7OfpcjvuHBEzJfgOVvpDk4KPxGb0IRS9Z4ZQkTGWyF3mQvtGUpcYTNNBIh4CeJlv7T6aLFj3dz9FZDSxqQiub4y590cj88znnWY4eF3b8AwVqTPaCD7L/0SzDjRw6A9SwTmAJewLIP1FnoINdjvmHDHyPbQzSyrbSl2nbaJpLA1haTqvs7frTwFbpz5Npos5dncFR/7CBkkle/PGdk4DszmPvfAAto9WOvTM52sGnaORbG3W03FbHiakT0W82dSJ6/i1dj3w7+plpijH/nIEi6wT0so7SF2jbTPSm368diJbaqvPQYhp1HOo0tAxXA5w6W0Adh3b/sQz6n6ij11QwdwUYmmTD0BVv/IB97TS0LFrbf7UNWJ2FfjPqEWhtG6X27gpYY4BNdkve850AWn6cf0NHYKck6fAQPY5o1aTuKPQIog5iyXcROh+BxwPs6f5WIHUCuaiiszck63xDnQ+gcwL0mKFxidJ/c8RonEV3R/luCSvXffOQOpTcsSyRzaSoY9BjhXb9aewh8h2DtjVrTIWOYN3sN13pC7JtVBQreiOw3THoN6ruFrRyL9o0qDqCC/4fg3WyeeTSl2PbaLBtxSvWbIxBHav2Y+iWu/Qzmlt0hiRjBOtlv8FKX4xtw+vBv9I5g7bBRzMSGmyc85kNWty1ojs4bOi+g1CdAOfo/YfNRGgWQoeFzPEAV3VQ2pXIOoJ1sXn03puHtFSVTuC7bO2Cdv1pDGFOqyA1nnPJ/09iHawT0NRX6QuxbfTFZrR5FLs70KCi1ib0nKZtiWY8eCxYD5vy6r2DUHcWdAJVrDPQYKKeyw/6zkCPBRon4qCSdbBOoPfz6T1vHNXs81BnoLup0s92v6Jpw4Wu9cDAJDsI73jj2JqNGWhG4aD2NuhuQIeTcEe3fDan3fuLNtEOwrWx8RpNL2rM5iCmFvWYmDsjLJztIOy97JXR5a7snZCaVtzvlYi6HisJl2+SzUNBdhBGYouOdNjKfj8eaNaC6d5ls8UrPW811RYDSpOwGQRtXNKgXelnP0V0LV6LtmzsIIzFxgl07sF+3RHo8+TObtnsN0vpw982+nKy0GRSNo2ow0/2a3GRxiOYJViu7q8fUyfAiPLkbGpX6/z3Y9ZApxCxn2C5Jtk8xA7CfWEzO72XfJeiQ2hP+kWxPHasd+mD3zY64ZfR5H1jYzq9T4oeRo8du35BLIsNMrGDMDSbOtRjQemz6BU9clz1C2JZrBPouXlI4wG8A2/f2ZmHU59PcNsvhmWxUeYenYBuR5kRODDWmWufwZSDhHpXATMEy9O8eYhBwNmwlZ9THoeuMwZ4zFse6wS2GVTSoZQU/6zY2ICW+JY+rx5hrGeZbIqpZuUZX4RZs5mCqTYZ8dkvk95HN2rVmWYQ+ALMnu021F1a6TNsDZ3AMv1wByHHhIViG4z0VubSZ9kaOoFl+ubmobv+BxCOnWA8xSwBncAy6cCIf33QzAWHp7cITbLDkE5gmb6+fozjwBbDxgWmWDikTUQ8Gi6PBgaxLDZVqN/apUJuCeNDQAw2ONh7P4jCOBEQgy0hvrdRvL1y0y8AYP7sQNJSIbeEXYRAHF8HfHtFU45nvXEA89e9E9CCMnaJAnF07wR07DgbxoA4uncCmnJkehCIo3sn8MAbBhBD907gijcMIIaux8h/zuG4cSCWrqcP68iyI94wgPmzFYM9lw0/9YYBxGCdgHb8lQp6m/zuDQOIwXYR9tpKrJWCvGEaiMUOj+112KhOomY8AIjFThbqdbzYY28UQBzp8qCQW3LRGwUQR7ezBPRIcdwbBRCDzQy88CJuDfsFgHjskNGPXsStYWoQiEcHf3QZFFQbnB8AxKNzAItFXZv8SAEgmK4rBTlPEIjHxgN6LBJSG7ktAMHYeyVLRV2bJ94ggFjSw0Exb5tz3iCAOGzTkPb9l4q6JjpQ9JA3CiAO2y9QKura3PAGAcTSZamw3i3AgCAQjz0KaMtvqbBr8tAbBBBL2h0U87bh8BAgpi7nCb70xgDE0m2B0CVvEEAseilIsahrwrQgEFeXswOueWMAYkmnBsW8TT7kcJAoEFP6Y6OYt81NbwxALOnnnNYBQS0Oyu0ACChd3yjmbXPLGwMQi0by7Vm+VNhjo7sIxgKAmDSnXyzsmjAWAMRkR4i1vmeQuwAgri77BK57YwDisReClAp7bDSWwOpAIKYuB4ewOhCIKz0fFHRttEeA14oBMXW5C9j1xgDE0zwWkO8iAATVZUbgV28MQDzp1aCga/PAGwIQT/NdwOccFgYBMdnqQI3ol4p7bK54YwDi0Zx+sbDHhsNDgbjsXQKt5wWc9MYAxJPuDgq6Nve9IQDxpJ2cLxsFXRudGHTYGwMQT3q2UdDb5LI3BCCedH5Q0LXJHQiAoOzYsI8bBV0bPUJwcCgQV/NgINuEgbjSiUFB14Y1AUBsKuJicY/NjjcEIJ7m04N5fwAQl+bzbZNPqbjH5LU3BCCm9GRQ1LXhMQCIK10cFHRtmA0A4rI1AVreWyruMeG4MCC29HBQ1DXRoqCj3hCAeNK5jYLeJvkxAkBQzY8Bj7whADE1zQZ88EYAxNS8KOiENwQgHg3kFQt7bJgOBGJrencAZwQAsaU7g6KuiQYReYkoEFc6s1HQ2+Q3bwhAPDYd2LI56IY3BCCmpgNDGQcAYmt6e9AnbwRATHoNeLG4x4bXiAOxNS0LvuqNAIgp/Tko6pqwLwCITWf9FYt7TN56IwBiSmcHRV0b3h0IxGWvES8V9tiwIAiITbfyxeIeEzYGAbGlx4OirslDbwRATE0Lgl55IwBi0nN8sbjH5pA3BCAee2tQqbDHhhOCgNiaBgLPeyMAYkpPB0Vdk5veCICY0u1BUdfksTcCIKZ0YVDUNWEmAIitaWvwF28EQEw65LNY3GPDq8OB2NL7QVHX5Kw3AiCmprMBOBwEiC3dHxR1Te56IwBiStcHRV0TpgKB2NLuoKhr8sIbARBTOjUo6pq890YAxJSODYq6MgCC06KeUnGPynFvBEBMTbsCOR8QiC09HxR1TdgWDMSWHgyKuibXvREAMWlBT7G4x4RzAYDYVMTF4h6TfPcAILB0aVDUNWE1IBBb02rA594IgJjS6UFR1+SNNwIgJi3mKRb3mLAcGIgtHR0UdWUABFcq7NE54o0AiKnpaDD2AwCxpdeDoq4J+wGA2Jr2A5z2RgDE1NQBnPNGAMSUHg2KuiaXvBEAMTXtCKQDAGJr6gCueSMAYkq3BkVdE7YEA7E1bQmmAwBia+oA7nkjAGJqOhOAQ0GA2OgAgBVLFwdFXZNn3giAmJoOBeFUICA2OgBgxegAgBWjAwBWTHv6i8U9Ji+9EQAxNR0M+s4bARATHQCwYnQAwIrRAQArRgcArBgdALBidADAiqXDg6KuyWdvBEBcxeIeGQDBlQp7bAAEVyrssQEQXKmwxwZAcKXCHhsAwZUKe2wABFcq7LEBEFypsMcGQHClwh4bAMGVCntsAARXKuyxARBcevvfwh6Vv7wBAHGlx4PCHpsX3gCAuNL1QWGPDW8HBuJLx3I+bRT2mHzO+cUbABBburBR3GNy1f8igGVIt3K+bBT5t8KtP7BM6VTOm41i38y7nNP+BwEsl40LnMvRAOFuzo7/CwAAAAAAgEY//fQ3y7Zp6EK01QcAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[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]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:27:15.9410000</RealTime>
@@ -12313,6 +12386,12 @@
         <Time id="1339">
           <RealTime>00:09:59.1420000</RealTime>
         </Time>
+        <Time id="1342">
+          <RealTime>00:07:00.1880000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:03:57.0320000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -12605,6 +12684,12 @@
         </Time>
         <Time id="1339">
           <RealTime>00:03:16.0330000</RealTime>
+        </Time>
+        <Time id="1342">
+          <RealTime>00:03:49.4730000</RealTime>
+        </Time>
+        <Time id="1343">
+          <RealTime>00:04:48.1230000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

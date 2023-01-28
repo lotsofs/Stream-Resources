@@ -1,0 +1,45 @@
+Title=Unreal II: The Awakening
+Attempts=5
+Offset=0
+Size=120,25
+Terran Colonial Authority HQ,0,149.99,149.99
+Sanctuary Briefing,0,241.31,91.32
+  Izarians,0,472.9,231.58
+  Elevator Drop,0,658.81,185.9
+  Arch,0,1009.57,350.76
+  Swamps,0,1769.91,760.34
+Hell Briefing,0,1874.91,105
+  Elevator,0,2051.41,176.49
+  Big Fire,0,2119.65,68.24
+  Grenade Jumps,0,2385.02,265.36
+  Many Buttons,0,2691.98,306.96
+Acheron Briefing,0,2850.08,158.09
+  Actual Acheron,0,0,0
+Severnaya Briefing,0,0,0
+  Dam,0,0,0
+Kalydon Briefing,0,0,0
+  Sniping Action,0,0,0
+Sulferon Briefing,0,0,0
+  Assault,0,0,0
+  Defense,0,0,0
+Janus Briefing,0,0,0
+  Concussion Jumps,0,0,0
+  Hallway,0,0,0
+  Some Rooms,0,0,0
+  Ledge,0,0,0
+  Roof,0,0,0
+Na Koja Abad Briefing,0,0,0
+  Fresh Air,0,0,0
+  Corridors,0,0,0
+  Drakk,0,0,0
+NC962VII Briefing,0,0,0
+  Drakk Hive Planet,0,0,0
+  Weird Stuff,0,0,0
+  Curvy hallways,0,0,0
+  Some Core Thing,0,0,0
+  Drakk Boss,0,0,0
+Final Briefing,0,0,0
+  Avalon,0,0,0
+  Dorian Gray,0,0,0
+  The End,0,200879.69,0
+Icons="","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""

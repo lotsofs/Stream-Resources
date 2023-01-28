@@ -1,0 +1,35 @@
+Game:
+1350*1080
+570X 0Y
+
+Camera:
+304*171
+0X 0Y
+
+Input:
+312*63
+0X 179Y
+
+Splits Panel:
+312*451
+0X 246Y
+
+Music:
+312*24
+0X 701Y
+
+Chat:
+312*171
+0X 729Y
+
+Unused Corner Box:
+312*172
+0X 908Y
+
+Unused Side Bar:
+242*1080
+320X 0Y
+
+Unused Bottom Bar:
+1920*172
+0X 908Y

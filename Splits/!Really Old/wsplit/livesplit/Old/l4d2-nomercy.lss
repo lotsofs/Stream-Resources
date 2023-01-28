@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.4.2">
+  <GameIcon />
+  <GameName>L4D2 No Mercy</GameName>
+  <CategoryName>
+  </CategoryName>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>37</AttemptCount>
+  <RunHistory>
+    <Time id="1" />
+    <Time id="2" />
+    <Time id="3" />
+    <Time id="4" />
+    <Time id="5" />
+    <Time id="6" />
+    <Time id="7" />
+    <Time id="8" />
+    <Time id="9" />
+    <Time id="10" />
+    <Time id="11" />
+    <Time id="12" />
+    <Time id="13" />
+    <Time id="14" />
+    <Time id="15" />
+    <Time id="16" />
+    <Time id="17" />
+    <Time id="18" />
+    <Time id="19" />
+    <Time id="20" />
+    <Time id="21" />
+    <Time id="22" />
+    <Time id="23" />
+    <Time id="24" />
+    <Time id="25" />
+    <Time id="26" />
+    <Time id="27" />
+    <Time id="28" />
+    <Time id="29" />
+    <Time id="30" />
+    <Time id="31" />
+    <Time id="32" />
+    <Time id="33" />
+    <Time id="34" />
+    <Time id="35" />
+    <Time id="36" />
+    <Time id="37">
+      <RealTime>00:11:51.3748869</RealTime>
+      <GameTime>00:11:51.3748869</GameTime>
+    </Time>
+  </RunHistory>
+  <Segments>
+    <Segment>
+      <Name>Jump off a roof 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:33.4398657</RealTime>
+          <GameTime>00:00:33.4398657</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:31.2319477</RealTime>
+        <GameTime>00:00:31.2319477</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="5">
+          <RealTime>00:00:35.6642374</RealTime>
+          <GameTime>00:00:35.6642374</GameTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:36.0348348</RealTime>
+          <GameTime>00:00:36.0348348</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:31.5832456</RealTime>
+          <GameTime>00:00:31.5832456</GameTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:34.1595811</RealTime>
+          <GameTime>00:00:34.1595811</GameTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:38.6897016</RealTime>
+          <GameTime>00:00:38.6897016</GameTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:34.2396430</RealTime>
+          <GameTime>00:00:34.2396430</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:33.4102813</RealTime>
+          <GameTime>00:00:33.4102813</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:00:31.4866759</RealTime>
+          <GameTime>00:00:31.4866759</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:33.0236774</RealTime>
+          <GameTime>00:00:33.0236774</GameTime>
+        </Time>
+        <Time id="17">
+          <RealTime>00:00:34.2076961</RealTime>
+          <GameTime>00:00:34.2076961</GameTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:35.5514937</RealTime>
+          <GameTime>00:00:35.5514937</GameTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:00:34.9584871</RealTime>
+          <GameTime>00:00:34.9584871</GameTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:00:38.9435075</RealTime>
+          <GameTime>00:00:38.9435075</GameTime>
+        </Time>
+        <Time id="25">
+          <RealTime>00:00:38.8466885</RealTime>
+          <GameTime>00:00:38.8466885</GameTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:00:34.5116470</RealTime>
+          <GameTime>00:00:34.5116470</GameTime>
+        </Time>
+        <Time id="35">
+          <RealTime>00:00:31.2319477</RealTime>
+          <GameTime>00:00:31.2319477</GameTime>
+        </Time>
+        <Time id="37">
+          <RealTime>00:00:33.4398657</RealTime>
+          <GameTime>00:00:33.4398657</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Light a fire</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:38.2075757</RealTime>
+        <GameTime>00:01:38.2075757</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:38.2075757</RealTime>
+          <GameTime>00:01:38.2075757</GameTime>
+        </Time>
+        <Time id="37" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gas station</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:04:19.7109723</RealTime>
+          <GameTime>00:04:19.7109723</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:46.2711066</RealTime>
+        <GameTime>00:03:46.2711066</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="37">
+          <RealTime>00:03:46.2711066</RealTime>
+          <GameTime>00:03:46.2711066</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Elevator ride</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:26.7673059</RealTime>
+          <GameTime>00:07:26.7673059</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:07.0563336</RealTime>
+        <GameTime>00:03:07.0563336</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="37">
+          <RealTime>00:03:07.0563336</RealTime>
+          <GameTime>00:03:07.0563336</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Jump off a roof 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:51.3748869</RealTime>
+          <GameTime>00:11:51.3748869</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:24.6075810</RealTime>
+        <GameTime>00:04:24.6075810</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="37">
+          <RealTime>00:04:24.6075810</RealTime>
+          <GameTime>00:04:24.6075810</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

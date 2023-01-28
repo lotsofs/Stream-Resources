@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>Real Time Chatting 33</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>-00:14:00</Offset>
+  <AttemptCount>10</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/31/2016 22:32:36" isStartedSynced="True" ended="10/31/2016 22:33:09" isEndedSynced="True" />
+    <Attempt id="2" started="10/31/2016 22:33:16" isStartedSynced="True" ended="10/31/2016 22:34:45" isEndedSynced="True" />
+    <Attempt id="3" started="10/31/2016 22:36:46" isStartedSynced="True" ended="10/31/2016 22:42:38" isEndedSynced="True" />
+    <Attempt id="4" started="10/31/2016 23:11:12" isStartedSynced="True" ended="10/31/2016 23:11:42" isEndedSynced="True" />
+    <Attempt id="5" started="11/02/2016 18:06:13" isStartedSynced="True" ended="11/02/2016 18:06:28" isEndedSynced="True" />
+    <Attempt id="6" started="11/02/2016 18:43:26" isStartedSynced="True" ended="11/02/2016 18:43:29" isEndedSynced="True" />
+    <Attempt id="7" started="11/02/2016 19:50:19" isStartedSynced="True" ended="11/02/2016 21:42:09" isEndedSynced="True">
+      <RealTime>01:41:50.3050000</RealTime>
+    </Attempt>
+    <Attempt id="8" started="11/30/2016 18:43:47" isStartedSynced="True" ended="11/30/2016 21:25:21" isEndedSynced="True">
+      <RealTime>02:24:34.2240000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="12/14/2016 18:46:53" isStartedSynced="True" ended="12/14/2016 21:57:43" isEndedSynced="True">
+      <RealTime>02:56:50.0940000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="07/12/2017 17:46:59" isStartedSynced="True" ended="07/12/2017 20:20:58" isEndedSynced="True">
+      <RealTime>02:19:58.9920000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Intro</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:54.4420000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:54.4420000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:14:13.3470000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:15:01.6950000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:54.4420000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Real Time Chatting PSA</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:44.2000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:49.7580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10">
+          <RealTime>00:02:49.7580000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>SGDQ</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:10.4490000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:16:26.2490000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10">
+          <RealTime>00:16:26.2490000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>SGDQ: MashAttack</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:37:20.6040000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:10.1550000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10">
+          <RealTime>00:06:10.1550000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ultime Decathlon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:15.9040000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:55.3000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:07:18.3410000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:12:37.3300000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:55.3000000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-PewDiePie: LotB</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:58.6360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:42.7320000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:59:34.5800000</RealTime>
+        </Time>
+        <Time id="8" />
+        <Time id="0" />
+        <Time id="10">
+          <RealTime>00:05:42.7320000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-AntiChamber</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:52:08.6390000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:10.0030000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:05:15.7750000</RealTime>
+        </Time>
+        <Time id="8" />
+        <Time id="0" />
+        <Time id="10">
+          <RealTime>00:04:10.0030000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Grand Theft Auto: SA</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:33.7330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:25.0940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="10">
+          <RealTime>00:04:25.0940000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8" />
+        <Time id="9" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Doom 2016</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:01:30.9960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:57.2630000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="10">
+          <RealTime>00:04:57.2630000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="8" />
+        <Time id="9" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Speedrun Recap}Paper Mario:TTYD</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:49.1540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:18.1580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="9">
+          <RealTime>00:07:18.7140000</RealTime>
+        </Time>
+        <Time id="8" />
+        <Time id="0">
+          <RealTime>01:05:26.4520000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:05:18.1580000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>In the Spotlight: ASM</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:45:52.6270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:33:22.9800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>01:38:49.4410000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:57:11.3670000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:33:22.9890000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:39:03.4730000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chat Q&amp;A</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:08:38.7300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:26.8140000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:18:53.9920000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:13:26.8140000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:22:46.1030000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:19:58.9920000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:19.1030000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:05:19.1030000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:06:23.8190000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:11:20.2620000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

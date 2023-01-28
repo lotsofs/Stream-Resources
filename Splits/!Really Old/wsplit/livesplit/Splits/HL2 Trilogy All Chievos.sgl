@@ -1,0 +1,548 @@
+<?xml version="1.0"?>
+<PersonenListe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Trainstation</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Plaza</Name>
+      <Note>Hit Cop
+Hit Trashcan
+</Note>
+    </Split>
+    <Split>
+      <Name>-Apartments</Name>
+      <Note>Escape Raid</Note>
+    </Split>
+    <Split>
+      <Name>{Point Insertion}Roof</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Cutscene</Name>
+      <Note>Break Teleporter
+Lambda #1 vending machine</Note>
+    </Split>
+    <Split>
+      <Name>{A Red Letter Day}Parked trains</Name>
+      <Note>Get Crowbar</Note>
+    </Split>
+    <Split>
+      <Name>-Moving trains</Name>
+      <Note>Lambda #2 Left side of house intended route
+Lambda #3 Vents intended</Note>
+    </Split>
+    <Split>
+      <Name>-Barrels in water</Name>
+      <Note>1 barrel 5 barnacles
+Lambda #4 Behind Car before barnacles</Note>
+    </Split>
+    <Split>
+      <Name>-Helicopter</Name>
+      <Note>1 barrel 5 barnacles
+Lambda #5 Intended route down ladder</Note>
+    </Split>
+    <Split>
+      <Name>-Sewers</Name>
+      <Note>Lambda #6 Under Pipes</Note>
+    </Split>
+    <Split>
+      <Name>{Route Kanal}Airboat</Name>
+      <Note>Get boat
+Lambda #7 Circular upstrairs bit
+Lambda #8 On top of pipes before dude
+</Note>
+    </Split>
+    <Split>
+      <Name>-Dam jump</Name>
+      <Note>Lambda #9 At the start
+Lambda #10 Barn puzzle
+Lambda #11 Intended route at dropship behind grate</Note>
+    </Split>
+    <Split>
+      <Name>-Pistol shot</Name>
+      <Note>Lambda #12 Underneath first? APC</Note>
+    </Split>
+    <Split>
+      <Name>-Triggerskip</Name>
+      <Note>Lambda #13 Weights puzzle at start
+Lambda #14 When heli starts chasing you under bridge</Note>
+    </Split>
+    <Split>
+      <Name>-Music</Name>
+      <Note>Lambda #15 Before balancing pipes puzzle</Note>
+    </Split>
+    <Split>
+      <Name>-Chimneys</Name>
+      <Note>Lambda #16 in V shaped canal to left
+Lambda #17 Before a bridge to the left at some point</Note>
+    </Split>
+    <Split>
+      <Name>-Gun</Name>
+      <Note>Get gun</Note>
+    </Split>
+    <Split>
+      <Name>-APCs</Name>
+      <Note>Lambda #18 Y intersection to right</Note>
+    </Split>
+    <Split>
+      <Name>{Water Hazard}Gates</Name>
+      <Note>Kill Heli
+Find Secret Vortigaunt</Note>
+    </Split>
+    <Split>
+      <Name>-Dialogue</Name>
+      <Note>Lambda #19 Intended route</Note>
+    </Split>
+    <Split>
+      <Name>{Black Mesa East}Fetch</Name>
+      <Note>Get Zero Point Energy Field Manipulator
+Find HEV suit
+Basket
+GGun Only</Note>
+    </Split>
+    <Split>
+      <Name>-Streets</Name>
+      <Note>GGun Only
+Lambda #20 Next to fire behind vent first gregory meetup
+Lambda #21 Car puzzle behind thing</Note>
+    </Split>
+    <Split>
+      <Name>-Ledge</Name>
+      <Note>GGun Only
+Lambda #22 Gotten through wall in OE</Note>
+    </Split>
+    <Split>
+      <Name>-Rooftops</Name>
+      <Note>GGun Only</Note>
+    </Split>
+    <Split>
+      <Name>-Alley</Name>
+      <Note>GGun Only</Note>
+    </Split>
+    <Split>
+      <Name>-Gregory Meetup</Name>
+      <Note>GGun Only</Note>
+    </Split>
+    <Split>
+      <Name>-Graveyard</Name>
+      <Note>GGun Only
+Escort Gregory</Note>
+    </Split>
+    <Split>
+      <Name>-Caverns</Name>
+      <Note>GGun Only</Note>
+    </Split>
+    <Split>
+      <Name>{We Don't Go To Ravenholm}Winston</Name>
+      <Note>GGun Only
+Kill Snipers
+Lambda #23 On top of exit</Note>
+    </Split>
+    <Split>
+      <Name>-Pier</Name>
+      <Note>Lambda #24 House at exit on left</Note>
+    </Split>
+    <Split>
+      <Name>-Beach</Name>
+      <Note>Gunship 1
+Save Cubbage
+Lambda #25 House with thumper</Note>
+    </Split>
+    <Split>
+      <Name>-Crane</Name>
+      <Note>Kill 3 with crane
+Gunship 2
+Lambda #26 Car on left after gunship</Note>
+    </Split>
+    <Split>
+      <Name>-Rollermines</Name>
+      <Note>Pin Soldier to Billboard
+Lambda #27 Silo thing on left</Note>
+    </Split>
+    <Split>
+      <Name>-Bridge Point</Name>
+      <Note>Lambda #28 In corner</Note>
+    </Split>
+    <Split>
+      <Name>-Under The Bridge</Name>
+      <Note>Gunship 3</Note>
+    </Split>
+    <Split>
+      <Name>{Highway 17}The Bridge</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Some Roads</Name>
+      <Note>Lambda #29 Battery puzzle on toilet</Note>
+    </Split>
+    <Split>
+      <Name>-Lighthouse</Name>
+      <Note>Gunship 4</Note>
+    </Split>
+    <Split>
+      <Name>-Antlion Guard</Name>
+      <Note>Keep off the sand
+Lambda #30 On top of some cliff house</Note>
+    </Split>
+    <Split>
+      <Name>-Cliffs</Name>
+      <Note>50 bugbait kills</Note>
+    </Split>
+    <Split>
+      <Name>{Sandtraps}Gunships!!!</Name>
+      <Note>50 bugbait kills
+Gunship 5 &amp; 6</Note>
+    </Split>
+    <Split>
+      <Name>-Deserted Prison</Name>
+      <Note>50 bugbait kills
+Lambda #31 at end behind window</Note>
+    </Split>
+    <Split>
+      <Name>-Enemies</Name>
+      <Note>50 bugbait kills
+Toilet Kill
+Lambda #32 At crossbow in HL2DM in cell</Note>
+    </Split>
+    <Split>
+      <Name>-More Prison</Name>
+      <Note>50 bugbait kills
+Lambda #33 laundromat</Note>
+    </Split>
+    <Split>
+      <Name>{Nova Prospekt}Prison</Name>
+      <Note>50 bugbait kills</Note>
+    </Split>
+    <Split>
+      <Name>-Attacking</Name>
+      <Note>Lambda #34 On vending machine</Note>
+    </Split>
+    <Split>
+      <Name>-Drawing</Name>
+      <Note>Standoff second fight</Note>
+    </Split>
+    <Split>
+      <Name>-Defending</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Entanglement}Waiting</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Dog Fight</Name>
+      <Note>Lambda #35 At Electricyt Thing</Note>
+    </Split>
+    <Split>
+      <Name>-Plaza Again</Name>
+      <Note>Gain Squad</Note>
+    </Split>
+    <Split>
+      <Name>-Hoppers</Name>
+      <Note>Lambda #36 Behind some panel at first? fight</Note>
+    </Split>
+    <Split>
+      <Name>-Staircases</Name>
+      <Note>Lambda #37 Stairs before transition</Note>
+    </Split>
+    <Split>
+      <Name>-Car Tunnel</Name>
+      <Note>Get through Toxic Tunnel
+Lambda #38 Start of car tunnel</Note>
+    </Split>
+    <Split>
+      <Name>-Window</Name>
+      <Note>Lambda #39 Intended route
+Lambda #40 Stairs before transition</Note>
+    </Split>
+    <Split>
+      <Name>-Ignore Alyx</Name>
+      <Note>Defend Alyx</Note>
+    </Split>
+    <Split>
+      <Name>{Anticitizen 1}Sewers</Name>
+      <Note>Lambda #41 Lower levels of infinite pit
+Lambda #42 Hole in wall
+Lambda #43 Off the beat track in sewers
+Lambda #44 In big hall by red shack</Note>
+    </Split>
+    <Split>
+      <Name>-Snipers</Name>
+      <Note>Kill Snipers</Note>
+    </Split>
+    <Split>
+      <Name>-Orbital Laser</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Nexus</Name>
+      <Note>Destroy generators</Note>
+    </Split>
+    <Split>
+      <Name>-Rooftop</Name>
+      <Note>Gunship 7</Note>
+    </Split>
+    <Split>
+      <Name>-Striders</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Long Tunnel</Name>
+      <Note>Lambda #45 End of level</Note>
+    </Split>
+    <Split>
+      <Name>{Follow Freeman}Horse Statue</Name>
+      <Note>Kill Striders</Note>
+    </Split>
+    <Split>
+      <Name>-Entrance</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Podride</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Weaponstripper</Name>
+      <Note>Disintegrate 15 enemies</Note>
+    </Split>
+    <Split>
+      <Name>-Elevator</Name>
+      <Note>Disintegrate 15 enemies</Note>
+    </Split>
+    <Split>
+      <Name>{Our Benefactors}Podride Again</Name>
+      <Note>Disintegrate 15 enemies</Note>
+    </Split>
+    <Split>
+      <Name>{Dark Energy}The Reactor</Name>
+      <Note>Disintegrate 15 enemies
+Win</Note>
+    </Split>
+    <Split>
+      <Name>SWITCH</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Rollercoaster</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Shu'ulathoi</Name>
+      <Note>Kill 5 enemies with same energy ball
+Kill elite soldier with his own orb</Note>
+    </Split>
+    <Split>
+      <Name>-Orbs</Name>
+      <Note>Kill 5 enemies with same energy ball
+Kill elite soldier with his own orb</Note>
+    </Split>
+    <Split>
+      <Name>{Undue Alarm}Elevator</Name>
+      <Note>Survive Elevator
+Kill 5 enemies with same energy ball
+Kill elite soldier with his own orb</Note>
+    </Split>
+    <Split>
+      <Name>-The Core</Name>
+      <Note>Contain Core
+Kill 5 enemies with same energy ball
+No killing stalkers
+Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>{DIrect Intervention}Trainride</Name>
+      <Note>Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>-Dark Tunnels</Name>
+      <Note>Squish antlions with cars
+Kill elite soldier with his own orb
+No Bullets
+Light zombies on fire</Note>
+    </Split>
+    <Split>
+      <Name>{Lowlife}Defending</Name>
+      <Note>Get on elevator
+Squish antlions with cars
+Kill elite soldier with his own orb
+No Bullets
+Light zombies on fire</Note>
+    </Split>
+    <Split>
+      <Name>-Streets</Name>
+      <Note>Squish antlions with cars
+Alyx Snipe 30 enemies
+Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>-Antlion Guard</Name>
+      <Note>Squish antlions with cars
+Alyx Snipe 30 enemies
+Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>-Plug</Name>
+      <Note>Squish antlions with cars
+Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>{Urban Flight}Hospital</Name>
+      <Note>Destroy gnuship
+Squish antlions with cars
+Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>-Escort Mission</Name>
+      <Note>No casualties
+Kill elite soldier with his own orb
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>{Exit 17}Strider</Name>
+      <Note>Get on train
+No Bullets</Note>
+    </Split>
+    <Split>
+      <Name>SWITCH</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Intro</Name>
+      <Note>Steal grenade
+GGun Kills
+Get Gnome</Note>
+    </Split>
+    <Split>
+      <Name>{To The White Forest}Stalactites</Name>
+      <Note>Kill Antlion Worker
+GGun Kills
+Grubs
+Bring Gnome
+Cache #1: In rockjump lake</Note>
+    </Split>
+    <Split>
+      <Name>-Vortigaunt</Name>
+      <Note>Kill with Hopper
+Big Standoff
+GGun Kills
+Grubs
+Stash Gnome
+Cache #2 - #5
+</Note>
+    </Split>
+    <Split>
+      <Name>-Cave</Name>
+      <Note>GGun Kills
+Grubs
+Cache #6 - #9</Note>
+    </Split>
+    <Split>
+      <Name>-Extract</Name>
+      <Note>GGun Kills
+Grubs</Note>
+    </Split>
+    <Split>
+      <Name>{This Vortal Coil}GMan</Name>
+      <Note>GGun Kills
+Grubs
+Get Gnome</Note>
+    </Split>
+    <Split>
+      <Name>-Myrmidonts</Name>
+      <Note>GGun Kills
+Kill Myrmidonts
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>{Freeman Pontifex}Tetralogue</Name>
+      <Note>GGun Kills
+Runover
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>-SPD?</Name>
+      <Note>GGun Kills
+Runover
+Survive Hunter Ambush
+Kill Hunter Own Flechettes
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>-Stuck Under Trains</Name>
+      <Note>Kill Soldier with Own Grenade
+GGun Kills
+Runover
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>{Riding Shotgun}Helicopter</Name>
+      <Note>GGun Kills
+Runover
+No Misses on Heli
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>-Autoturret</Name>
+      <Note>GGun Kills
+Runover
+Destroy Turret
+Find Cache 2
+Find caches
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>-White Forest Inn</Name>
+      <Note>GGun Kills
+Runover
+Find caches
+Survive Ambush
+Bring Gnome</Note>
+    </Split>
+    <Split>
+      <Name>{Under The Radar}Doggy Doggy Ass</Name>
+      <Note>GGun Kills
+Runover
+Bring Gnome
+Win race</Note>
+    </Split>
+    <Split>
+      <Name>-Primary Silo</Name>
+      <Note>GGun Kills
+Put Gnome</Note>
+    </Split>
+    <Split>
+      <Name>-Secondary Silo</Name>
+      <Note>GGun Kills
+Close Silo</Note>
+    </Split>
+    <Split>
+      <Name>-Magnusson Rule</Name>
+      <Note>GGun Kills</Note>
+    </Split>
+    <Split>
+      <Name>{Our Mutual Fiend}Hunters</Name>
+      <Note>GGun Kills
+Runover
+No Buildings Lost</Note>
+    </Split>
+    <Split>
+      <Name>{T-Minus One}Teleports</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Half-Life 2 Trilogy All Chievos</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name />
+  <Category>HL2 (2007) Scriptless</Category>
+</PersonenListe>

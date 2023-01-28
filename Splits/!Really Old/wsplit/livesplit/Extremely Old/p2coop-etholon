@@ -1,0 +1,50 @@
+Title=Portal 2 Coop
+Attempts=118
+Offset=0
+Size=124,25
+Calibration,0,0,0
+Lobby 0>1,0,173.76,0
+doors,0,207.26,33.5
+ race_2,0,255.72,48.46
+laser_2,0,329.48,73.76
+rat_maze,0,400.7,71.22
+laser_crusher,0,454.02,53.32
+teambts,0,531.92,77.9
+Lobby 1>2,0,564.28,32.36
+fling_3,0,0,0
+infinifling_train,0,0,0
+come_along,0,771.07,0
+fling_1,0,0,0
+catapult_1,0,0,0
+multifling_1,0,973.33,0
+fling_crushers,0,1020.99,47.66
+fan,0,1103.74,82.75
+Lobby 2>3,0,1141.49,37.75
+wall_intro,0,1218.54,77.05
+wall_2,0,1268.73,50.1900000000001
+catapult_wall_intro,0,1323.82,55.0899999999999
+wall_block,0,1384,60.1800000000001
+catapult_2,0,1453.05,69.05
+turret_walls,0,1533.58,80.53
+turret_ball,0,1696.63,163.05
+wall_5,0,1852.96,156.33
+Lobby 3>4,0,1891.8,38.8399999999999
+tbeam_redirect,0,0,0
+tbeam_drill,0,2026.21,0
+tbeam_catch_grind_1,0,2074.49,48.2799999999997
+tbeam_laser_1,0,2194.67,120.18
+tbeam_polarity,0,0,0
+tbeam_polarity2,0,2358.3,0
+tbeam_polarity3,0,2439.82,81.52
+tbeam_maze,0,2539.49,99.6699999999996
+tbeam_end,0,2623.17,83.6800000000003
+Lobby 4>5,0,0,0
+paint_come_along,0,0,0
+paint_redirect,0,2819.78,0
+paint_bridge,0,2885.86,66.0799999999999
+paint_walljumps,0,2945.52,59.6599999999999
+paint_speed_fling,0,3017.08,71.5599999999999
+paint_red_racer,0,3109.49,92.4099999999999
+paint_speed_catch,0,0,0
+paint_longjump_intro,0,3430.13,0
+Icons="D:\Dropbox\wsplit\Portal 2 images\0.png","D:\Dropbox\wsplit\Portal 2 images\0to1.png","D:\Dropbox\wsplit\Portal 2 images\11.png","D:\Dropbox\wsplit\Portal 2 images\12.png","D:\Dropbox\wsplit\Portal 2 images\13.png","D:\Dropbox\wsplit\Portal 2 images\14.png","D:\Dropbox\wsplit\Portal 2 images\15.png","D:\Dropbox\wsplit\Portal 2 images\16.png","D:\Dropbox\wsplit\Portal 2 images\1to2.png","D:\Dropbox\wsplit\Portal 2 images\21.png","D:\Dropbox\wsplit\Portal 2 images\22.png","D:\Dropbox\wsplit\Portal 2 images\23.png","D:\Dropbox\wsplit\Portal 2 images\24.png","D:\Dropbox\wsplit\Portal 2 images\25.png","D:\Dropbox\wsplit\Portal 2 images\26.png","D:\Dropbox\wsplit\Portal 2 images\27.png","D:\Dropbox\wsplit\Portal 2 images\28.png","D:\Dropbox\wsplit\Portal 2 images\2to3.png","D:\Dropbox\wsplit\Portal 2 images\31.png","D:\Dropbox\wsplit\Portal 2 images\32.png","D:\Dropbox\wsplit\Portal 2 images\33.png","D:\Dropbox\wsplit\Portal 2 images\34.png","D:\Dropbox\wsplit\Portal 2 images\35.png","D:\Dropbox\wsplit\Portal 2 images\36.png","D:\Dropbox\wsplit\Portal 2 images\37.png","D:\Dropbox\wsplit\Portal 2 images\38.png","D:\Dropbox\wsplit\Portal 2 images\3to4.png","D:\Dropbox\wsplit\Portal 2 images\41.png","D:\Dropbox\wsplit\Portal 2 images\42.png","D:\Dropbox\wsplit\Portal 2 images\43.png","D:\Dropbox\wsplit\Portal 2 images\44.png","D:\Dropbox\wsplit\Portal 2 images\45.png","D:\Dropbox\wsplit\Portal 2 images\46.png","D:\Dropbox\wsplit\Portal 2 images\47.png","D:\Dropbox\wsplit\Portal 2 images\48.png","D:\Dropbox\wsplit\Portal 2 images\49.png","D:\Dropbox\wsplit\Portal 2 images\4to5.png","D:\Dropbox\wsplit\Portal 2 images\51.png","D:\Dropbox\wsplit\Portal 2 images\52.png","D:\Dropbox\wsplit\Portal 2 images\53.png","D:\Dropbox\wsplit\Portal 2 images\54.png","D:\Dropbox\wsplit\Portal 2 images\55.png","D:\Dropbox\wsplit\Portal 2 images\56.png","D:\Dropbox\wsplit\Portal 2 images\57.png","D:\Dropbox\wsplit\Portal 2 images\58.png"
