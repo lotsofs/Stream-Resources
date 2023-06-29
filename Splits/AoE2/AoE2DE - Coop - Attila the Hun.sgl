@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>The Scourge of God</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>The Great Ride</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>The Walls of Constantinople</Name>
+      <Note>Train 5 knights &amp; 3 rams</Note>
+    </Split>
+    <Split>
+      <Name>A Barbarian Betrothal</Name>
+      <Note>Scout 1 -&gt; Archery Range
+Scout 2 -&gt; Scout the base, set to stand ground
+Villager 3 -&gt; Build a siege workshop
+Villagers 4 -&gt; Go north, build TC next to market
+</Note>
+    </Split>
+    <Split>
+      <Name>The Catalaunian Fields</Name>
+      <Note>9 Stables</Note>
+    </Split>
+    <Split>
+      <Name>The Fall of Rome</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Attila the Hun</Name>
+      <Note>Extra split for resets etc</Note>
+    </Split>
+  </Splits>
+  <Name>Age of Empires 2: Definitive Edition</Name>
+  <Category>Coop Campaign: Attila the Hun</Category>
+</Guide>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto: Vice City</GameName>
+  <CategoryName>SSSA</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>4</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="06/23/2023 11:05:14" isStartedSynced="True" ended="06/23/2023 11:08:31" isEndedSynced="True" />
+    <Attempt id="2" started="06/23/2023 11:12:39" isStartedSynced="True" ended="06/23/2023 11:14:47" isEndedSynced="True" />
+    <Attempt id="3" started="06/23/2023 11:14:51" isStartedSynced="True" ended="06/23/2023 11:45:26" isEndedSynced="True" />
+    <Attempt id="4" started="06/23/2023 11:46:51" isStartedSynced="True" ended="06/23/2023 17:24:47" isEndedSynced="True">
+      <RealTime>05:37:55.8594463</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Phnom Penh</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:12:47.5655784</RealTime>
+        </SplitTime>
+        <SplitTime name="Seaplane Hangar">
+          <RealTime>01:12:47.5600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:12:47.5655784</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>01:12:47.5655784</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>25</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:47.3584357</RealTime>
+        </SplitTime>
+        <SplitTime name="Seaplane Hangar">
+          <RealTime>01:16:47.3500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:59.7928573</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:59.7928573</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>50</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:22:11.4538292</RealTime>
+        </SplitTime>
+        <SplitTime name="Seaplane Hangar">
+          <RealTime>03:22:11.4500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:05:24.0953935</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>02:05:24.0953935</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>75</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:43:37.1498957</RealTime>
+        </SplitTime>
+        <SplitTime name="Seaplane Hangar">
+          <RealTime>04:43:37.1400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:21:25.6960665</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>01:21:25.6960665</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>98</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:37:55.8594463</RealTime>
+        </SplitTime>
+        <SplitTime name="Seaplane Hangar">
+          <RealTime>05:37:55.8500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:54:18.7095506</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:54:18.7095506</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
