@@ -4,19 +4,34 @@
 			"Default": "Nomad",
 			"Colors": {
 				"Nomad": {
-					"Inner": "#caac8d",
 					"Outer": "#744427",
+					"Inner": "#caac8d",
 					"Text": "#dcc09a"
 				}
 			}
 		},
-		"GTA5": {
-			"Default": "Power",
+		"GTA3": {
+			"Default": "Radar",
 			"Colors": {
-				"Power": {
-					"Inner": "#bfa036",
-					"Outer": "#332f2a",
-					"Text": "#bfa036"
+				"Radar": {
+					"Outer": "#a9783b",
+					"Inner": "#cc9147",
+					"Text": "#0191c5"
+				}
+			}
+		},
+		"GTAVC": {
+			"Default": "Hud",
+			"Colors": {
+				"Weapon": {
+					"Outer": "#2bf4e7",
+					"Inner": "#cd49c2",
+					"Text": "#f5d4f1"
+				},
+				"Hud": {
+					"Outer": "#1b5982",
+					"Inner": "#61c2f7",
+					"Text": "#ff96e1"
 				}
 			}
 		},
@@ -24,19 +39,49 @@
 			"Default": "Health",
 			"Colors": {
 				"Health": {
-					"Inner": "#3d6035",
 					"Outer": "#000200",
+					"Inner": "#3d6035",
 					"Text": "#bebebc"
 				}
 			}
 		},
-		"MELE": {
-			"Default": "Weapon",
+		"GTA5": {
+			"Default": "Power",
 			"Colors": {
-				"Weapon": {
-					"Inner": "#2d5759",
-					"Outer": "#619799",
-					"Text": "#8dd7cc"
+				"Power": {
+					"Outer": "#332f2a",
+					"Inner": "#bfa036",
+					"Text": "#bfa036"
+				}
+			}
+		},
+		"GUN": {
+			"Default": "StreamBG",
+			"Colors": {
+				"StreamBG": {
+					"Outer": "#694C33",
+					"Inner": "#A16E49",
+					"Text": "#DBBF89"
+				}
+			}
+		},
+		"HITMAN": {
+			"Default": "Minimap",
+			"Colors": {
+				"Minimap": {
+					"Outer": "#EBEEE7",
+					"Inner": "#656764",
+					"Text": "#919390"
+				}
+			}
+		},
+		"HL2Ep2": {
+			"Default": "HUD",
+			"Colors": {
+				"HUD": {
+					"Outer": "#bf8f30",
+					"Inner": "#bfac30",
+					"Text": "#bfac30"
 				}
 			}
 		},
@@ -44,40 +89,133 @@
 			"Default": "Unsolved",
 			"Colors": {
 				"Unsolved": {
-					"Inner": "#161513",
-					"Outer": "#87786c",
+					"Outer": "#161513",
+					"Inner": "#87786c",
 					"Text": "#a19888"
 				},
 				"Strike": {
-					"Inner": "#d20433",
-					"Outer": "#ff6a29",
+					"Outer": "#d20433",
+					"Inner": "#ff6a29",
 					"Text": "#ff4556"
 				},
 				"Solve": {
-					"Inner": "#089723",
-					"Outer": "#10e33c",
+					"Outer": "#089723",
+					"Inner": "#10e33c",
 					"Text": "#1eec55"
 				},
 				"ModuleBackground": {
-					"Inner": "#98a2af",
-					"Outer": "#b6e2f2",
+					"Outer": "#98a2af",
+					"Inner": "#b6e2f2",
 					"Text": "#a3bbb0"
 				},
 				"Desk": {
-					"Inner": "#5f4536",
-					"Outer": "#feba8d",
+					"Outer": "#5f4536",
+					"Inner": "#feba8d",
 					"Text": "#87786c"
 				}
 			}
 		},
-		"None": {
+		"MELE": {
+			"Default": "Weapon",
+			"Colors": {
+				"Weapon": {
+					"Outer": "#2d5759",
+					"Inner": "#619799",
+					"Text": "#8dd7cc"
+				}
+			}
+		},
+		"SS2": {
+			"Default": "Logo",
+			"Colors": {
+				"Logo": {
+					"Outer": "#EB122B",
+					"Inner": "#FCDD2B",
+					"Text": "#FCDD2B"
+				}
+			},
+			"SplitColors": {
+				"None": "#FCF7FD",
+				"ListGainedAhead": "#39D45C",
+				"ListLostAhead": "#1CA742",
+				"ListGainedBehind": "#CC080A",
+				"ListLostBehind": "#F70400",
+				"ListGold": "#F2FF35",
+				"LabelPositive": "#39D45C",
+				"LabelNegative": "#F70400",
+				"LabelGold": "#F2FF35"
+			}
+		},
+		"SWAT4": {
+			"Default": "Menu",
+			"Colors": {
+				"Menu": {
+					"Outer": "#000000",
+					"Text": "#fffbff",
+					"Inner": "#666466"
+				},
+				"MenuHighlight": {
+					"Inner": "#000000",
+					"Text": "#fffbff",
+					"Outer": "#ffc200"
+				},
+				"RedTeam": {
+					"Outer": "#800000",
+					"Inner": "#af0000",
+					"Text": "#fffbff"
+				},
+				"BlueTeam": {
+					"Outer": "#000062",
+					"Inner": "#000086",
+					"Text": "#fffbff"
+				},
+				"Element": {
+					"Outer": "#bb9200",
+					"Inner": "#ffc800",
+					"Text": "#fffbff"
+				}
+			},
+			"SplitColors": {
+				"None": "#fffbff",
+				"ListGainedAhead": "#000086",
+				"ListLostAhead": "#4e5fa5",
+				"ListGainedBehind": "#bd4142",
+				"ListLostBehind": "#af0000",
+				"ListGold": "#ffc800",
+				"LabelPositive": "#4e5fa5",
+				"LabelNegative": "#bd4142",
+				"LabelGold": "#ceac35"
+			}
+		},
+		"WA": {
+			"Default": "Menu",
+			"Colors": {
+				"Menu": {
+					"Outer": "#000000",
+					"Inner": "#00008c",
+					"Text": "#9c9d9c"
+				}
+			}
+		},
+		"none": {
 			"Default": "BnW",
 			"Colors": {
 				"BnW": {
-					"Inner": "#000000",
-					"Outer": "#ffffff",
+					"Outer": "#000000",
+					"Inner": "#ffffff",
 					"Text": "#ffffff"
 				}
+			},
+			"SplitColors": {
+				"None": "#ffffff",
+				"ListGainedAhead": "#ffffff",
+				"ListLostAhead": "#ffffff",
+				"ListGainedBehind": "#ffffff",
+				"ListLostBehind": "#ffffff",
+				"ListGold": "#ffffff",
+				"LabelPositive": "#ffffff",
+				"LabelNegative": "#ffffff",
+				"LabelGold": "#ffffff"
 			}
 		}
 	}
