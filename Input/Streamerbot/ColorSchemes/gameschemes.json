@@ -16,19 +16,19 @@
 				"Radar": {
 					"Outer": "#a9783b",
 					"Inner": "#cc9147",
-					"Text": "#0191c5"
+					"Text": "#e0c3c5"
 				}
 			}
 		},
 		"GTAVC": {
-			"Default": "Hud",
+			"Default": "HUD",
 			"Colors": {
 				"Weapon": {
 					"Outer": "#2bf4e7",
 					"Inner": "#cd49c2",
 					"Text": "#f5d4f1"
 				},
-				"Hud": {
+				"HUD": {
 					"Outer": "#1b5982",
 					"Inner": "#61c2f7",
 					"Text": "#ff96e1"
@@ -59,9 +59,9 @@
 			"Default": "StreamBG",
 			"Colors": {
 				"StreamBG": {
-					"Outer": "#694C33",
-					"Inner": "#A16E49",
-					"Text": "#DBBF89"
+					"Outer": "#694c33",
+					"Inner": "#a16e49",
+					"Text": "#dbbf89"
 				}
 			}
 		},
@@ -69,7 +69,7 @@
 			"Default": "Minimap",
 			"Colors": {
 				"Minimap": {
-					"Outer": "#EBEEE7",
+					"Outer": "#ebeee7",
 					"Inner": "#656764",
 					"Text": "#919390"
 				}
@@ -129,21 +129,21 @@
 			"Default": "Logo",
 			"Colors": {
 				"Logo": {
-					"Outer": "#EB122B",
-					"Inner": "#FCDD2B",
-					"Text": "#FCDD2B"
+					"Outer": "#eb122b",
+					"Inner": "#fcdd2b",
+					"Text": "#fcdd2b"
 				}
 			},
 			"SplitColors": {
-				"None": "#FCF7FD",
-				"ListGainedAhead": "#39D45C",
-				"ListLostAhead": "#1CA742",
-				"ListGainedBehind": "#CC080A",
-				"ListLostBehind": "#F70400",
-				"ListGold": "#F2FF35",
-				"LabelPositive": "#39D45C",
-				"LabelNegative": "#F70400",
-				"LabelGold": "#F2FF35"
+				"None": "#fcf7fd",
+				"ListGainedAhead": "#39d45c",
+				"ListLostAhead": "#1ca742",
+				"ListGainedBehind": "#cc080a",
+				"ListLostBehind": "#f70400",
+				"ListGold": "#f2ff35",
+				"LabelPositive": "#39d45c",
+				"LabelNegative": "#f70400",
+				"LabelGold": "#f2ff35"
 			}
 		},
 		"SWAT4": {
