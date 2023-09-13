@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Half-Life 2</GameName>
+  <CategoryName>Destroy Twelve Gunships</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>3</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="08/11/2023 17:50:52" isStartedSynced="True" ended="08/11/2023 17:54:09" isEndedSynced="True" />
+    <Attempt id="2" started="08/11/2023 18:13:56" isStartedSynced="True" ended="08/11/2023 18:14:11" isEndedSynced="True" />
+    <Attempt id="3" started="08/11/2023 18:24:15" isStartedSynced="True" ended="08/11/2023 21:10:38" isEndedSynced="True">
+      <RealTime>02:46:22.6817205</RealTime>
+      <GameTime>02:44:10.0500000</GameTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>N.L.O</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:07:54.0627212</RealTime>
+          <GameTime>01:07:17.3550000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>01:07:54.0627212</RealTime>
+        <GameTime>01:07:17.3550000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>01:07:54.0627212</RealTime>
+          <GameTime>01:07:17.3550000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dock 137</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:11:45.8232862</RealTime>
+          <GameTime>01:11:08.1300000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.7605650</RealTime>
+        <GameTime>00:03:50.7750000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:51.7605650</RealTime>
+          <GameTime>00:03:50.7750000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bridge Point</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:09.9610739</RealTime>
+          <GameTime>01:15:27.5850000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:24.1377877</RealTime>
+        <GameTime>00:04:19.4550000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:24.1377877</RealTime>
+          <GameTime>00:04:19.4550000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lighthouse Point</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:22:02.2224055</RealTime>
+          <GameTime>01:21:14.3100000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:52.2613316</RealTime>
+        <GameTime>00:05:46.7250000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:05:52.2613316</RealTime>
+          <GameTime>00:05:46.7250000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Nova Prospekt (P)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:26:56.0890223</RealTime>
+          <GameTime>01:26:03.1950000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:53.8666168</RealTime>
+        <GameTime>00:04:48.8850000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:04:53.8666168</RealTime>
+          <GameTime>00:04:48.8850000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Nova Prospekt (T)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:27:20.5058927</RealTime>
+          <GameTime>01:26:27.6000000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:24.4168704</RealTime>
+        <GameTime>00:00:24.4050000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:24.4168704</RealTime>
+          <GameTime>00:00:24.4050000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Nexus Approach</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:14:51.1557387</RealTime>
+          <GameTime>02:13:14.9250000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:47:30.6498460</RealTime>
+        <GameTime>00:46:47.3250000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:47:30.6498460</RealTime>
+          <GameTime>00:46:47.3250000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Nexus Briefing</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:15:24.1327890</RealTime>
+          <GameTime>02:13:47.8950000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:32.9770503</RealTime>
+        <GameTime>00:00:32.9700000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:32.9770503</RealTime>
+          <GameTime>00:00:32.9700000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Actual Nexus</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:22:31.9026082</RealTime>
+          <GameTime>02:20:49.3500000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:07.7698192</RealTime>
+        <GameTime>00:07:01.4550000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:07:07.7698192</RealTime>
+          <GameTime>00:07:01.4550000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Rooftop Strider Battle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:26:21.1079154</RealTime>
+          <GameTime>02:24:34.1090000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:49.2053072</RealTime>
+        <GameTime>00:03:44.7590000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:03:49.2053072</RealTime>
+          <GameTime>00:03:44.7590000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Breen One</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:46:21.2578175</RealTime>
+          <GameTime>02:44:08.6250000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:00.1499021</RealTime>
+        <GameTime>00:19:34.5160000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:20:00.1499021</RealTime>
+          <GameTime>00:19:34.5160000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Breen Two</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:46:22.6817205</RealTime>
+          <GameTime>02:44:10.0500000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:01.4239030</RealTime>
+        <GameTime>00:00:01.4250000</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="3">
+          <RealTime>00:00:01.4239030</RealTime>
+          <GameTime>00:00:01.4250000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>2.2.1</Version>
+    <AutoSplitEnabled>False</AutoSplitEnabled>
+    <SplitInterval>1</SplitInterval>
+    <MapWhitelist>
+    </MapWhitelist>
+    <MapBlacklist>
+    </MapBlacklist>
+    <GameProcesses>hl2.exe|portal2.exe|dearesther.exe|mm.exe|EYE.exe|bms.exe</GameProcesses>
+    <AutoSplitType>Whitelist</AutoSplitType>
+    <ShowGameTime>True</ShowGameTime>
+    <GameTimingMethod>Automatic</GameTimingMethod>
+    <AutoStartEndResetEnabled>False</AutoStartEndResetEnabled>
+  </AutoSplitterSettings>
+</Run>

@@ -2,284 +2,236 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>Arrival - Go</Name>
+      <Name>{Arrival}A - Go</Name>
       <Note>Go</Note>
     </Split>
     <Split>
-      <Name>Guided Training - Bumrush</Name>
-      <Note>Ignore instructions and bumrush the dude</Note>
+      <Name>{Guided Training}GT - Pistol Snipe</Name>
+      <Note>Three shots to make Ritter take cover. Two more shots to ensure he takes cover somewhere useful.</Note>
     </Split>
     <Split>
-      <Name>-Freeform Training - Poison to Toilet</Name>
-      <Note>Follow the tutorial route but:
-* Grab rat poison + hidden crew disguise, then poison the drink
-* While waiting: Throw a coin, turn on the generator, place a weapon.
-* If this counts: Get a guard outfit &amp; exit and board the ship
-Drown and stash ritter
-Helicopter
-</Note>
+      <Name>-FT - Poison to Toilet</Name>
+      <Note>We're going to poison and drown Ritter. While waiting for him to drink, we will do a bunch of simple challenges.</Note>
     </Split>
     <Split>
-      <Name>-Freeform Training - Mr Norfolk Fiber Wire</Name>
-      <Note>Dress as Norfolk and meet the target
-Fiber wire
-Heli exit
-</Note>
+      <Name>-FT - Mr Norfolk Fiber Wire</Name>
+      <Note>Three shots to make Ritter run to his office. Two coins to get Norfolk's outfit. Careful going up to not startle the guards and aggro them. Hide the body for a challenge.</Note>
     </Split>
     <Split>
-      <Name>-Freeform Training - Life Raft Accident</Name>
-      <Note>Start
-Get a guard disguise and board the ship, otherwise just lockpick the back entrance
-While waiting for Kalvin to get into position:
-* Generator, coin, weapon
-Take the helipad guard outfit
-Life raft accident</Note>
+      <Name>-FT - Life Raft Accident</Name>
+      <Note>Need to trigger Ritter's cycle asap. From there it is waiting and positioning. Shoot when the red blip leaves your floor area on the minimap.</Note>
     </Split>
     <Split>
-      <Name>Freeform Training - Mine Rush</Name>
+      <Name>{Freeform Training}FT - Mine Rush</Name>
       <Note>Bumrush him with a mine</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - Spotlight SASO</Name>
-      <Note>Go around and shoot the spotlight from afar</Note>
+      <Name>-TFT - Vodka SASO</Name>
+      <Note>Right for vodka route</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - Hammer Time</Name>
-      <Note>Grab hammer, left guard outfit, do it!</Note>
+      <Name>-TFT - Eject Seat</Name>
+      <Note>Right for mechanic outfit &amp; eject seat route</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - Eject Seat</Name>
-      <Note>Locker Room route. Do all the steps, should be enough
-On the way out mind an enforcer
-</Note>
+      <Name>-TFT - Spotlight</Name>
+      <Note>Right for mechanic outfit &amp; for spotlight route w/ lure</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - Netzke Guidance</Name>
-      <Note>Get the cop outfit from the parking lot booth, using a coin to distract the other and entering through the window
-Shoot bullets into Netzke's office to distract him. Disguise yourself as him. Follow the steps.
-Switch back into guard before you pistol Jasper.</Note>
+      <Name>-TFT - Netzke Guidance</Name>
+      <Note>Cop outfit -&gt; Lamp bait -&gt; Netzke lure -&gt; cop pop</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - Netzke Electrocution</Name>
-      <Note>Soldier outfit from the left.
-Slides &gt; Plugin.
-Unplug power when Netzke is bent over a desk and Jasper is walking behind the screen.</Note>
+      <Name>-TFT - Netzke Electrocution</Name>
+      <Note>Right for soldier outfit and Netzke electrocution</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - 47 Electrocution</Name>
-      <Note>Same, but you electrocute him</Note>
+      <Name>-TFT - 47 Electrocution</Name>
+      <Note>Right for soldier outfit and 47 electrocution</Note>
     </Split>
     <Split>
-      <Name>-The Final Test - Vodka, Poison, Toilet</Name>
-      <Note>Same outfit, but vodka route
-LEFT glass
-Drowning
-</Note>
+      <Name>-TFT - Hammer Time</Name>
+      <Note>Left for hammer and guard outfit. Rush the target.</Note>
     </Split>
     <Split>
-      <Name>The Final Test - Soldier Assault Rifle</Name>
-      <Note>Right around, crowbar. Get right soldier outfit and head through the window.
-Rooflight assault rifle kill
-</Note>
+      <Name>{The Final Test}TFT - Soldier Assault Rifle</Name>
+      <Note>Left for hammer and guard outfit. Kill via the rooflight</Note>
     </Split>
     <Split>
-      <Name>-The Einarsson Inception - Level 1</Name>
-      <Note>Enter as mechanic
-Fire extiniguisher -&gt; Knife from kitchen
-Is there a fixed cop outfit?
-Boat exit</Note>
+      <Name>-CoCo - Level 1</Name>
+      <Note>Start from FEATURED. Sneak around the back towards Helmut.</Note>
     </Split>
     <Split>
-      <Name>-The Einarsson Inception - Level 2</Name>
-      <Note>Same, but cameras</Note>
+      <Name>-CoCo - Level 2</Name>
+      <Note>Balloon on starting statue. Balloon left in tree. Balloon in kitchen. Balloon in big room with Helmut. Balloon behind helicopter.</Note>
     </Split>
     <Split>
-      <Name>-The Einarsson Inception - Level 3</Name>
-      <Note>Pop the gas tank on the way in first.
-Is it better to detonate straight away???</Note>
+      <Name>{The Corky Commotion}CoCo - Level 3</Name>
+      <Note>Starting guard. Three guards by shed. Guard leaning. Helmut. Hallway guard. Two door guards. One more guard. Helicopter guard.</Note>
     </Split>
     <Split>
-      <Name>-The Einarsson Inception - Level 4</Name>
+      <Name>-ChCa - Level 1</Name>
+      <Note>Start from FEATURED. BRING BOMB! This is just a quick snipe with no concern. Just don't get spotted.</Note>
+    </Split>
+    <Split>
+      <Name>-ChCa - Level 2</Name>
+      <Note>Same as level 1.</Note>
+    </Split>
+    <Split>
+      <Name>{The Cheveyo Calibration}ChCa - Level 3</Name>
+      <Note>Finish by 1:14'ish or so or you won't have enough score.</Note>
+    </Split>
+    <Split>
+      <Name>-DeDi - Level 1</Name>
+      <Note>Start from FEATURED. Mind the nearby housestaff</Note>
+    </Split>
+    <Split>
+      <Name>-DeDi - Level 2</Name>
+      <Note>Shoot from balcony</Note>
+    </Split>
+    <Split>
+      <Name>{The Dexter Discordance}DeDi - Level 3</Name>
+      <Note>Mind the 2 for 1 goal.</Note>
+    </Split>
+    <Split>
+      <Name>-ViCa - Level 1</Name>
+      <Note>KITCHEN ENTRY. Kill the piano investigator. Use the downstairs security agent's outfit. Destroy evidence.</Note>
+    </Split>
+    <Split>
+      <Name>-ViCa - Level 2</Name>
+      <Note>Same deal, just switch to your target's outfit after.</Note>
+    </Split>
+    <Split>
+      <Name>-ViCa - Level 3</Name>
+      <Note>Destroy evidence. Use the outfit of the guard in the dining room now. Use a fire extinguisher on the new target.</Note>
+    </Split>
+    <Split>
+      <Name>-ViCa - Level 4</Name>
+      <Note>Destroy evidence. Just gotta knock the three people first before doing your kill.</Note>
+    </Split>
+    <Split>
+      <Name>{The Videl Cataclysm}ViCa - Level 5</Name>
+      <Note>Destroy evidence. Lure the new auction guy in the room, knock him, outfit, kill. Then pop the other target and run for the exit in your hot outfit.</Note>
+    </Split>
+    <Split>
+      <Name>-EzPa - Level 1</Name>
+      <Note>KITCHEN ENTRY. No evidence destruction needed. Lone auction guy</Note>
+    </Split>
+    <Split>
+      <Name>-EzPa - Level 2</Name>
+      <Note>No evidence destruction needed. More cameras, take avoiding route.</Note>
+    </Split>
+    <Split>
+      <Name>-EzPa - Level 3</Name>
+      <Note>Blow up guy in garden shed</Note>
+    </Split>
+    <Split>
+      <Name>-EzPa - Level 4</Name>
+      <Note>More enforcers</Note>
+    </Split>
+    <Split>
+      <Name>{The Ezekiel Paradox}EzPa - Level 5</Name>
+      <Note>No pacifications</Note>
+    </Split>
+    <Split>
+      <Name>-OsMo - Level 1</Name>
+      <Note>KITCHEN ENTRANCE. Kill him</Note>
+    </Split>
+    <Split>
+      <Name>-OsMo - Level 2</Name>
+      <Note>Kill and hide</Note>
+    </Split>
+    <Split>
+      <Name>-OsMo - Level 3</Name>
+      <Note>Kill them</Note>
+    </Split>
+    <Split>
+      <Name>-OsMo - Level 4</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>The Einarsson Inception - Level 5</Name>
+      <Name>{The Osterman Mosaic}OsMo - Level 5</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>-The Snorrason Ascension - Level 1</Name>
-      <Note>Get him in his room</Note>
+      <Name>-SzDa - Level 1</Name>
+      <Note>SNIPER IN HOUSE. BRING LOCKPICK. Snipe him asap and exit by car.</Note>
     </Split>
     <Split>
-      <Name>-The Snorrason Ascension - Level 2</Name>
-      <Note>Fixed mechanic outfit</Note>
+      <Name>-SzDa - Level 2</Name>
+      <Note>Get kitchen assistant outfit from your neighbor. Then do the water drop strat for XP. </Note>
     </Split>
     <Split>
-      <Name>-The Snorrason Ascension - Level 3</Name>
+      <Name>-SzDa - Level 3</Name>
+      <Note>CHANGE TO APARTMENT START</Note>
+    </Split>
+    <Split>
+      <Name>-SzDa - Level 4</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>-The Snorrason Ascension - Level 4</Name>
+      <Name>{The Szilassi Darkness}SzDa - Level 5</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>The Snorrason Ascension - Level 5</Name>
+      <Name>-HaCo - Level 1</Name>
+      <Note>HOUSE ENTRY + SNIPER STASH</Note>
+    </Split>
+    <Split>
+      <Name>-HaCo - Level 2</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>-The Corky Commotion - Level 1</Name>
-      <Note>I haven't routed this yet</Note>
-    </Split>
-    <Split>
-      <Name>-The Corky Commotion - Level 2</Name>
-      <Note>Have fun</Note>
-    </Split>
-    <Split>
-      <Name>The Corky Commotion - Level 3</Name>
-      <Note>Enjoy</Note>
-    </Split>
-    <Split>
-      <Name>-The Videl Cataclysm - Level 1</Name>
-      <Note>KITCHEN ENTRY
-Security outfit from downstairs
-Main exit</Note>
-    </Split>
-    <Split>
-      <Name>-The Videl Cataclysm - Level 2</Name>
-      <Note>Same
-Main exit</Note>
-    </Split>
-    <Split>
-      <Name>-The Videl Cataclysm - Level 3</Name>
-      <Note>Use security guard in big dining room's outfit.
-Use fire extinguisher on guy 2
-Main entrance exit</Note>
-    </Split>
-    <Split>
-      <Name>-The Videl Cataclysm - Level 4</Name>
-      <Note>Should just be able to knock all relevant people</Note>
-    </Split>
-    <Split>
-      <Name>The Videl Cataclysm - Level 5</Name>
-      <Note>Lure auction guy
-Knock him, outfit, snap
-Finish the mission</Note>
-    </Split>
-    <Split>
-      <Name>-The Ezekiel Paradox - Level 1</Name>
-      <Note>KITCHEN ENTRY
-Go up, tech crew disguise</Note>
-    </Split>
-    <Split>
-      <Name>-The Ezekiel Paradox - Level 2</Name>
+      <Name>-HaCo - Level 3</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>-The Ezekiel Paradox - Level 3</Name>
-      <Note>Use fire extinguisher for new target</Note>
+      <Name>-HaCo - Level 4</Name>
+      <Note>Get outfit from kitchen rec room first.</Note>
     </Split>
     <Split>
-      <Name>-The Ezekiel Paradox - Level 4</Name>
+      <Name>{The Hamartia Compulsion}HaCo - Level 5</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>The Ezekiel Paradox - Level 5</Name>
-      <Note>More sneaky, or use NT kill on crewman</Note>
+      <Name>-EiIn - Level 1</Name>
+      <Note>Pop guard</Note>
     </Split>
     <Split>
-      <Name>-The Osterman Mosaic - Level 1</Name>
-      <Note>KITCHEN ENTRANCE
-Kill him</Note>
+      <Name>-EiIn - Level 2</Name>
+      <Note>Cameras</Note>
     </Split>
     <Split>
-      <Name>-The Osterman Mosaic - Level 2</Name>
-      <Note>Again, but hide him</Note>
+      <Name>-EiIn - Level 3</Name>
+      <Note>Pop hat guy</Note>
     </Split>
     <Split>
-      <Name>-The Osterman Mosaic - Level 3</Name>
-      <Note>Lure chef and kill him
-Maybe lure the initial target if he's unfavourable with the saber position</Note>
-    </Split>
-    <Split>
-      <Name>-The Osterman Mosaic - Level 4</Name>
+      <Name>-EiIn - Level 4</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>The Osterman Mosaic - Level 5</Name>
+      <Name>{The Einarsson Inception}EiIn - Level 5</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>-The Cheveyo Calibration - Level 1</Name>
-      <Note>Grab sniper
-Knockout guard so he doesn't see you
-Grab key, open shop
-Snipe
-Exit same way you came</Note>
+      <Name>-SnAs - Level 1</Name>
+      <Note>Right for guard, rush his room</Note>
     </Split>
     <Split>
-      <Name>-The Cheveyo Calibration - Level 2</Name>
+      <Name>-SnAs - Level 2</Name>
+      <Note>Right for guard, use coin on other guard, rush his room. Crowbar safe.</Note>
+    </Split>
+    <Split>
+      <Name>-SnAs - Level 3</Name>
+      <Note>Right for guard, use crowbar on other guard, rush his room. Key safe. Kill</Note>
+    </Split>
+    <Split>
+      <Name>-SnAs - Level 4</Name>
       <Note>Same</Note>
     </Split>
     <Split>
-      <Name>The Cheveyo Calibration - Level 3</Name>
-      <Note>Same, but exit the other way now</Note>
-    </Split>
-    <Split>
-      <Name>-The Szilassi Darkness - Level 1</Name>
-      <Note>SNIPER IN YOUR HOUSE
-Shoot the observatory panel
-Headshot the guy
-Leave by car</Note>
-    </Split>
-    <Split>
-      <Name>-The Szilassi Darkness - Level 2</Name>
-      <Note>Do the mission</Note>
-    </Split>
-    <Split>
-      <Name>-The Szilassi Darkness - Level 3</Name>
-      <Note>CHANGE TO HOUSE ENTRY
-Same</Note>
-    </Split>
-    <Split>
-      <Name>-The Szilassi Darkness - Level 4</Name>
-      <Note>Same</Note>
-    </Split>
-    <Split>
-      <Name>The Szilassi Darkness - Level 5</Name>
-      <Note>Same</Note>
-    </Split>
-    <Split>
-      <Name>-The Hamartia Compulsion - Level 1</Name>
-      <Note>HOUSE ENTRY
-Snipe him from your back roof</Note>
-    </Split>
-    <Split>
-      <Name>-The Hamartia Compulsion - Level 2</Name>
-      <Note>Same</Note>
-    </Split>
-    <Split>
-      <Name>-The Hamartia Compulsion - Level 3</Name>
-      <Note>Same</Note>
-    </Split>
-    <Split>
-      <Name>-The Hamartia Compulsion - Level 4</Name>
-      <Note>Get outfit from kitchen rec room, pop people from cliff</Note>
-    </Split>
-    <Split>
-      <Name>The Hamartia Compulsion - Level 5</Name>
-      <Note>Same</Note>
-    </Split>
-    <Split>
-      <Name>-The Dexter Discordance - Level 1</Name>
-      <Note>Grab pistol and pop him. Mind the housestaff</Note>
-    </Split>
-    <Split>
-      <Name>-The Dexter Discordance - Level 2</Name>
-      <Note>Shoot from your balcony</Note>
-    </Split>
-    <Split>
-      <Name>The Dexter Discordance - Level 3</Name>
-      <Note>Mind the 2for1</Note>
+      <Name>{The Snorrason Ascension}SnAs - Level 5</Name>
+      <Note>Fixed outfit now.</Note>
     </Split>
   </Splits>
   <Name>Hitman (2016)</Name>

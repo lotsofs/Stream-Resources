@@ -125,6 +125,22 @@
 				}
 			}
 		},
+		"Portal2": {
+			"Default": "Orange",
+			"Colors": {
+				"Orange": {
+					"Outer": "#020508",
+					"Inner": "#390303",
+					"Text": "#ffb420"
+				},
+				"Blue": {
+					"Outer": "#020508",
+					"Inner": "#1300d2",
+					"Text": "#2080d2"
+				}
+			}
+		},
+		
 		"SS2": {
 			"Default": "Logo",
 			"Colors": {
@@ -198,6 +214,27 @@
 			}
 		},
 		"none": {
+			"Default": "BnW",
+			"Colors": {
+				"BnW": {
+					"Outer": "#000000",
+					"Inner": "#ffffff",
+					"Text": "#ffffff"
+				}
+			},
+			"SplitColors": {
+				"None": "#ffffff",
+				"ListGainedAhead": "#ffffff",
+				"ListLostAhead": "#ffffff",
+				"ListGainedBehind": "#ffffff",
+				"ListLostBehind": "#ffffff",
+				"ListGold": "#ffffff",
+				"LabelPositive": "#ffffff",
+				"LabelNegative": "#ffffff",
+				"LabelGold": "#ffffff"
+			}
+		},
+		"disabled": {
 			"Default": "BnW",
 			"Colors": {
 				"BnW": {

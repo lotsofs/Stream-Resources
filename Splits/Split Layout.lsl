@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2213</X>
-  <Y>132</Y>
+  <X>3157</X>
+  <Y>69</Y>
   <VerticalWidth>528</VerticalWidth>
   <VerticalHeight>930</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -29,8 +29,8 @@
     <TextFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABVCYXJsb3cgU2VtaSBDb25kZW5zZWQAAIBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TextFont>
     <AlwaysOnTop>False</AlwaysOnTop>
     <ShowBestSegments>True</ShowBestSegments>
-    <AntiAliasing>True</AntiAliasing>
-    <DropShadows>True</DropShadows>
+    <AntiAliasing>False</AntiAliasing>
+    <DropShadows>False</DropShadows>
     <BackgroundType>SolidColor</BackgroundType>
     <BackgroundImage />
     <ImageOpacity>1</ImageOpacity>
@@ -351,14 +351,14 @@
         <Height>150</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>38</SegmentTimerSizeRatio>
-        <TimerShowGradient>True</TimerShowGradient>
+        <TimerShowGradient>False</TimerShowGradient>
         <OverrideTimerColors>True</OverrideTimerColors>
-        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
+        <SegmentTimerShowGradient>False</SegmentTimerShowGradient>
         <TimerFormat>1.23</TimerFormat>
         <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
-        <TimerColor>FF969696</TimerColor>
-        <SegmentTimerColor>FF7B7B7B</SegmentTimerColor>
+        <TimerColor>FFFFFFFF</TimerColor>
+        <SegmentTimerColor>FFFFFFFF</SegmentTimerColor>
         <SegmentLabelsColor>FF000000</SegmentLabelsColor>
         <SegmentTimesColor>FF000000</SegmentTimesColor>
         <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
@@ -374,7 +374,7 @@
         <Comparison>Current Comparison</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>True</HideComparison>
-        <TimingMethod>Current Timing Method</TimingMethod>
+        <TimingMethod>Real Time</TimingMethod>
         <DecimalsSize>29</DecimalsSize>
         <SegmentTimerDecimalsSize>29</SegmentTimerDecimalsSize>
       </Settings>
@@ -417,14 +417,14 @@
         <Height>150</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>38</SegmentTimerSizeRatio>
-        <TimerShowGradient>True</TimerShowGradient>
+        <TimerShowGradient>False</TimerShowGradient>
         <OverrideTimerColors>True</OverrideTimerColors>
-        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
+        <SegmentTimerShowGradient>False</SegmentTimerShowGradient>
         <TimerFormat>1.23</TimerFormat>
         <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
-        <TimerColor>FF969696</TimerColor>
-        <SegmentTimerColor>FF7B7B7B</SegmentTimerColor>
+        <TimerColor>FFFFFFFF</TimerColor>
+        <SegmentTimerColor>FFFFFFFF</SegmentTimerColor>
         <SegmentLabelsColor>FF000000</SegmentLabelsColor>
         <SegmentTimesColor>FF000000</SegmentTimesColor>
         <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
@@ -530,8 +530,9 @@
       <Settings>
         <Version>0.1</Version>
         <FolderPath>D:\Repositories\Stream-Resources\Text\Livesplit Generated</FolderPath>
-        <SplitsBefore>5</SplitsBefore>
+        <SplitsBefore>9</SplitsBefore>
         <SplitsAfter>6</SplitsAfter>
+        <OutputTimer>True</OutputTimer>
       </Settings>
     </Component>
     <Component>
@@ -547,24 +548,10 @@
         <TXTColor.G>255</TXTColor.G>
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>D:\Repositories\Stream-Resources\Text\SpeedGuidesLive.txt</ActiveSplitTxtPath>
-        <WindowPos.X>3377</WindowPos.X>
-        <WindowPos.Y>369</WindowPos.Y>
+        <WindowPos.X>2055</WindowPos.X>
+        <WindowPos.Y>815</WindowPos.Y>
         <WindowSize.Width>371</WindowSize.Width>
         <WindowSize.Height>229</WindowSize.Height>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
-      <Settings>
-        <Version>1.5</Version>
-        <ScriptPath>C:\Users\w10-upgrade\Desktop\aoedelsl.asl</ScriptPath>
-        <Start>True</Start>
-        <Split>True</Split>
-        <CustomSettings>
-          <Setting id="splitOnMapStartAfterWin" type="bool">False</Setting>
-          <Setting id="splitOnMapWin" type="bool">True</Setting>
-          <Setting id="addLostTimeToLast" type="bool">True</Setting>
-        </CustomSettings>
       </Settings>
     </Component>
   </Components>
