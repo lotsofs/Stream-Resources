@@ -184,31 +184,7 @@
       }
     ]
   },
-  "GTASAOLD": {
-    "GenericSceneList": [
-      {
-        "Duration": 0,
-        "ChangeFileOf": "_Left Panel: Livesplit: SL - Names 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Names_Raw.txt"
-      },
-      {
-        "Name": "_Left Panel: Splits Basics",
-        "Duration": 0,
-        "Enabled": true
-      },
-      {
-        "Name": "_Left Panel: Splits Key Count",
-        "Duration": 60000000,
-        "Enabled": true
-      },
-      {
-        "Name": "_Left Panel: Splits Key Count",
-        "Duration": 0,
-        "Enabled": false
-      }
-    ]
-  },
-  "GTASA": {
+  "GTA5": {
     "GenericSceneList": [
       {
         "Name": "_Left Panel: Splits Basics",
@@ -221,11 +197,120 @@
         "Comment3": "==================================All Splits Finished At===============================================================================================================================",
         "Comment4": "================================================================================================================================================================================="
       },
+      {
+        "ChangeFileOf": "Livesplit: SL - Names 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Names.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Highlight 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Highlight_CurrentSplit.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Current.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 1",
+        "ChangeTextTo": "Finished at"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Left 1",
+        "ChangeTextTo": "Splits"
+      },
 
       {
-        "Name": "_Left Panel: Splits Main List Labels",
-        "Enabled": true,
-        "Duration": 50000
+        "Name": "_Left Panel: Splits List Labels 1",
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Duration": 50000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "===============================All Splits Run Delta=======================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Run.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 2",
+        "ChangeTextTo": "Run Delta"
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Duration": 50000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================All Splits Segment Delta=====================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Segment.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Segment_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 1",
+        "ChangeTextTo": "Seg. Delta"
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Duration": 50000,
+        "Enabled": true
+      },
+
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "========================================All Splits Gold Delta==============================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Gold.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Gold_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 2",
+        "ChangeTextTo": "Golds Delta"
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Duration": 50000,
+        "Enabled": true
       },
 
       { 
@@ -235,9 +320,397 @@
         "Comment4": "================================================================================================================================================================================="
       },
       {
-        "Name": "_Left Panel: Splits Main List Labels",
+        "Name": "_Left Panel: Splits List Labels 1",
         "Enabled": false
       },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+      
+      {
+        "Name": "_Left Panel: Splits List Labels 2",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+
+      {
+        "Name": "_Left Panel: Splits Key Count",
+        "Duration": 50000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================Sellout Goals==================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+
+      {
+        "Name": "_Left Panel: Splits Key Count",
+        "Duration": 1000,
+        "Enabled": false
+      },
+
+      {
+        "Name": "_Left Panel: Splits Sellout Goals",
+        "Duration": 50000,
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits Sellout Goals",
+        "Enabled": false
+      }   
+    ]
+  },
+  "GTASA": {
+    "GenericSceneList": [
+      {
+        "Name": "_Left Panel: Splits Basics",
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "==================================Current Split (??)===============================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeTextOf": "Livesplit: Header Current Split 1",
+        "ChangeTextTo": "Current Mission"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Total Splits 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\TotalSplits_SansSubsplits_Level2.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Index 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\SansSubsplits_Level2\\\\Index.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Name 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\SansSubsplits_Level2\\\\Name.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Gold 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\NA.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Run 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\SansSubsplits_Level2\\\\RealTime\\\\RunTime.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Segment 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\SansSubsplits_Level2\\\\RealTime\\\\SegmentTime.txt"
+      },
+      {
+        "Name": "_Left Panel: Splits Current",
+        "Duration": 30000,
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits Current",
+        "Enabled": false
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "==================================Current Split (?????)===============================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeTextOf": "Livesplit: Header Current Split 1",
+        "ChangeTextTo": "Current Split"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Total Splits 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\TotalSplits_AllSplits.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Index 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\AllSplits\\\\Index.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Name 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\AllSplits\\\\Name.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Gold 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\NA.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Run 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\AllSplits\\\\RealTime\\\\RunTime.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: Current Segment 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\CurrentSplit\\\\AllSplits\\\\RealTime\\\\SegmentTime.txt"
+      },
+      {
+        "Name": "_Left Panel: Splits Current",
+        "Duration": 20000,
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits Current",
+        "Enabled": false
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "==================================All Splits Finished At===============================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Names 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Names.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Highlight 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Highlight_CurrentSplit.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Current.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 1",
+        "ChangeTextTo": "Finished at"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Left 1",
+        "ChangeTextTo": "Splits (All):"
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 1",
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Duration": 30000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "===============================All Splits Run Delta=======================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Run.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 2",
+        "ChangeTextTo": "Run Delta"
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Duration": 30000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================All Splits Segment Delta=====================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Segment.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Segment_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 1",
+        "ChangeTextTo": "Seg. Delta"
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Duration": 30000,
+        "Enabled": true
+      },
+
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "========================================All Splits Gold Delta==============================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Gold.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Gold_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 2",
+        "ChangeTextTo": "Golds Delta"
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Duration": 30000,
+        "Enabled": true
+      },
+
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================SansSubsplits Run Delta==================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Names 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\Names.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Highlight 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\Highlight_CurrentSplit.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\RealTime\\\\Delta_Run.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\RealTime\\\\Time_Run_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 3",
+        "ChangeTextTo": "Run Delta"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Left 3",
+        "ChangeTextTo": "Splits (per City):"
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 1",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 3",
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 3",
+        "Duration": 30000,
+        "Enabled": true
+      },
+
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================??????? Run Delta==================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Names 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level2\\\\Names.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Highlight 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level2\\\\Highlight_CurrentSplit.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level2\\\\RealTime\\\\Delta_Run.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level2\\\\RealTime\\\\Time_Run_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 2",
+        "ChangeTextTo": "Run Delta"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Left 2",
+        "ChangeTextTo": "Splits (per Mission):"
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 3",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 3",
+        "Enabled": false
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 2",
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Duration": 30000,
+        "Enabled": true
+      },
+
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================Key Count==================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "Name": "_Left Panel: Splits List Labels 3",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 3",
+        "Enabled": false
+      },
+      
+      {
+        "Name": "_Left Panel: Splits List Labels 2",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+
       {
         "Name": "_Left Panel: Splits Key Count",
         "Duration": 50000,
@@ -455,30 +928,31 @@
     "GenericSceneList": [
       {
         "Name": "_Left Panel: Splits Basics",
+        "Duration": 0,
         "Enabled": true
       },
 
       { 
         "Comment1": "=================================================================================================================================================================================",
         "Comment2": "=================================================================================================================================================================================",
-        "Comment3": "==================================All Splits Finished At===============================================================================================================================",
+        "Comment3": "==================================Map Splits Finished At===============================================================================================================================",
         "Comment4": "================================================================================================================================================================================="
       },
       {
         "ChangeFileOf": "Livesplit: SL - Names 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Names.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\Names.txt"
       },
       {
         "ChangeFileOf": "Livesplit: SL - Highlight 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Highlight_CurrentSplit.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\Highlight_CurrentSplit.txt"
       },
       {
         "ChangeFileOf": "Livesplit: SL - Current 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Current.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Time_Run_Current.txt"
       },
       {
         "ChangeFileOf": "Livesplit: SL - Upcoming 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Upcoming.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Time_Run_Upcoming.txt"
       },
       {
         "ChangeTextOf": "Livesplit: SL - Header Right 1",
@@ -486,11 +960,12 @@
       },
       {
         "ChangeTextOf": "Livesplit: SL - Header Left 1",
-        "ChangeTextTo": "Splits"
+        "ChangeTextTo": "Splits (Per Map)"
       },
 
       {
         "Name": "_Left Panel: Splits List Labels 1",
+        "Duration": 0,
         "Enabled": true
       },
       {
@@ -502,12 +977,16 @@
       { 
         "Comment1": "=================================================================================================================================================================================",
         "Comment2": "=================================================================================================================================================================================",
-        "Comment3": "===============================All Splits Run Delta=======================================================================================================================",
+        "Comment3": "===============================Map Splits Run Delta=======================================================================================================================",
         "Comment4": "================================================================================================================================================================================="
       },
       {
         "ChangeFileOf": "Livesplit: SL - Current 2",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Run.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Delta_Run.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 2",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Time_Run_Upcoming.txt"
       },
       {
         "ChangeTextOf": "Livesplit: SL - Header Right 2",
@@ -526,16 +1005,16 @@
       { 
         "Comment1": "=================================================================================================================================================================================",
         "Comment2": "=================================================================================================================================================================================",
-        "Comment3": "=======================================All Splits Segment Delta=====================================================================================================================",
+        "Comment3": "=======================================Map Splits Segment Delta=====================================================================================================================",
         "Comment4": "================================================================================================================================================================================="
       },
       {
         "ChangeFileOf": "Livesplit: SL - Current 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Segment.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Delta_Segment.txt"
       },
       {
         "ChangeFileOf": "Livesplit: SL - Upcoming 1",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Segment_Upcoming.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Time_Segment_Upcoming.txt"
       },
       {
         "ChangeTextOf": "Livesplit: SL - Header Right 1",
@@ -555,16 +1034,16 @@
       { 
         "Comment1": "=================================================================================================================================================================================",
         "Comment2": "=================================================================================================================================================================================",
-        "Comment3": "========================================All Splits Gold Delta==============================================================================================================",
+        "Comment3": "========================================Map Splits Gold Delta==============================================================================================================",
         "Comment4": "================================================================================================================================================================================="
       },
       {
         "ChangeFileOf": "Livesplit: SL - Current 2",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Delta_Gold.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Delta_Gold.txt"
       },
       {
         "ChangeFileOf": "Livesplit: SL - Upcoming 2",
-        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Gold_Upcoming.txt"
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits_Level1\\\\RealTime\\\\Time_Gold_Upcoming.txt"
       },
       {
         "ChangeTextOf": "Livesplit: SL - Header Right 2",
@@ -583,9 +1062,34 @@
       { 
         "Comment1": "=================================================================================================================================================================================",
         "Comment2": "=================================================================================================================================================================================",
-        "Comment3": "=======================================Key Count==================================================================================================================",
+        "Comment3": "==================================All Splits Finished At===============================================================================================================================",
         "Comment4": "================================================================================================================================================================================="
       },
+      {
+        "ChangeFileOf": "Livesplit: SL - Names 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Names.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Highlight 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\Highlight_CurrentSplit.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Current.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 3",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\AllSplits\\\\RealTime\\\\Time_Run_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 3",
+        "ChangeTextTo": "Finished at"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Left 3",
+        "ChangeTextTo": "Splits (All)"
+      },
+
       {
         "Name": "_Left Panel: Splits List Labels 1",
         "Enabled": false
@@ -594,13 +1098,97 @@
         "Name": "_Left Panel: Splits List Values 2",
         "Enabled": false
       },
-      
+
+      {
+        "Name": "_Left Panel: Splits List Labels 3",
+        "Duration": 0,
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 3",
+        "Duration": 50000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "==================================Chapter Splits Finished At===============================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Names 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\Names.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Highlight 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\Highlight_CurrentSplit.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Current 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\RealTime\\\\Time_Run_Current.txt"
+      },
+      {
+        "ChangeFileOf": "Livesplit: SL - Upcoming 1",
+        "ChangeFileTo": "D:\\\\Repositories\\\\Stream-Resources\\\\Text\\\\Livesplit Generated\\\\SplitList\\\\SansSubsplits\\\\RealTime\\\\Time_Run_Upcoming.txt"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Right 1",
+        "ChangeTextTo": "Finished at"
+      },
+      {
+        "ChangeTextOf": "Livesplit: SL - Header Left 1",
+        "ChangeTextTo": "Splits (Chapters)"
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 3",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 3",
+        "Enabled": false
+      },
+
+      {
+        "Name": "_Left Panel: Splits List Labels 1",
+        "Duration": 0,
+        "Enabled": true
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Duration": 50000,
+        "Enabled": true
+      },
+
+      { 
+        "Comment1": "=================================================================================================================================================================================",
+        "Comment2": "=================================================================================================================================================================================",
+        "Comment3": "=======================================Key Count==================================================================================================================",
+        "Comment4": "================================================================================================================================================================================="
+      },
+      {
+        "Name": "_Left Panel: Splits List Labels 1",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 1",
+        "Enabled": false
+      },
       {
         "Name": "_Left Panel: Splits List Labels 2",
         "Enabled": false
       },
       {
         "Name": "_Left Panel: Splits List Values 2",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Labels 3",
+        "Enabled": false
+      },
+      {
+        "Name": "_Left Panel: Splits List Values 3",
         "Enabled": false
       },
 

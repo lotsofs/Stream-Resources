@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2193</X>
-  <Y>11</Y>
+  <X>3211</X>
+  <Y>36</Y>
   <VerticalWidth>528</VerticalWidth>
   <VerticalHeight>1033</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -538,8 +538,8 @@
         <TXTColor.G>255</TXTColor.G>
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>D:\Repositories\Stream-Resources\Text\SpeedGuidesLive.txt</ActiveSplitTxtPath>
-        <WindowPos.X>77</WindowPos.X>
-        <WindowPos.Y>15</WindowPos.Y>
+        <WindowPos.X>2172</WindowPos.X>
+        <WindowPos.Y>835</WindowPos.Y>
         <WindowSize.Width>371</WindowSize.Width>
         <WindowSize.Height>229</WindowSize.Height>
       </Settings>
@@ -548,7 +548,6 @@
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
         <Version>1.0.0</Version>
-        <Path>26150fc3-bfc3-4520-9c41-05d431b6fe62</Path>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
@@ -559,7 +558,7 @@
         <Version>1.5</Version>
         <ScriptPath>C:\Users\2023-64ram\Desktop\gtasa_custom.asl</ScriptPath>
         <Start>True</Start>
-        <Reset>True</Reset>
+        <Reset>False</Reset>
         <Split>True</Split>
         <CustomSettings>
           <Setting id="Missions" type="bool">True</Setting>
@@ -616,37 +615,59 @@
           <Setting id="Catalyst" type="bool">True</Setting>
           <Setting id="Robbing Uncle Sam" type="bool">True</Setting>
           <Setting id="Reuniting the Families" type="bool">True</Setting>
-          <Setting id="The Green Sabre" type="bool">True</Setting>
           <Setting id="Burning Desire" type="bool">True</Setting>
           <Setting id="Gray Imports" type="bool">True</Setting>
           <Setting id="itb" type="bool">True</Setting>
           <Setting id="itb_cutsceneskipped" type="bool">True</Setting>
           <Setting id="bs" type="bool">True</Setting>
           <Setting id="Big Smoke Started" type="bool">True</Setting>
-          <Setting id="bs_parkinglotcutscenestart" type="bool">True</Setting>
-          <Setting id="bs_parkinglotcutsceneend" type="bool">True</Setting>
-          <Setting id="bs_grovestreet" type="bool">True</Setting>
+          <Setting id="Big Smoke: Parking Lot Cutscene Start" type="bool">True</Setting>
+          <Setting id="Big Smoke: Parking Lot Cutscene End" type="bool">True</Setting>
+          <Setting id="Big Smoke: Grove Street Reached" type="bool">True</Setting>
           <Setting id="Big Smoke" type="bool">True</Setting>
           <Setting id="r" type="bool">True</Setting>
           <Setting id="Ryder Started" type="bool">True</Setting>
           <Setting id="r_failed" type="bool">True</Setting>
+          <Setting id="r_restarted" type="bool">True</Setting>
+          <Setting id="r_arrivingatbarber" type="bool">True</Setting>
           <Setting id="r_barbershopleft" type="bool">True</Setting>
+          <Setting id="r_pizzabought" type="bool">True</Setting>
           <Setting id="r_pizzashopleft" type="bool">True</Setting>
           <Setting id="r_arrivingathishouse" type="bool">True</Setting>
           <Setting id="Ryder" type="bool">True</Setting>
           <Setting id="hslr" type="bool">True</Setting>
           <Setting id="High Stakes Lowrider Started" type="bool">True</Setting>
           <Setting id="High Stakes Lowrider" type="bool">True</Setting>
+          <Setting id="tgs" type="bool">True</Setting>
+          <Setting id="The Green Sabre Started" type="bool">True</Setting>
+          <Setting id="The Green Sabre: End of initial cutscene" type="bool">True</Setting>
+          <Setting id="The Green Sabre: Entered the Bravura" type="bool">True</Setting>
+          <Setting id="The Green Sabre: Exiting the Bravura" type="bool">True</Setting>
+          <Setting id="The Green Sabre: Arriving at the parking lot" type="bool">True</Setting>
+          <Setting id="The Green Sabre: Parking lot shootout start" type="bool">True</Setting>
+          <Setting id="The Green Sabre: Parking lot shootout end" type="bool">True</Setting>
+          <Setting id="The Green Sabre: Start of cutscene with Tenpenny" type="bool">True</Setting>
+          <Setting id="The Green Sabre" type="bool">True</Setting>
           <Setting id="Badlands" type="bool">True</Setting>
           <Setting id="King in Exile" type="bool">True</Setting>
           <Setting id="Tanker Commander" type="bool">True</Setting>
           <Setting id="Small Town Bank" type="bool">True</Setting>
           <Setting id="Local Liquor Store" type="bool">True</Setting>
           <Setting id="Against All Odds" type="bool">True</Setting>
-          <Setting id="Wu Zi Mu" type="bool">True</Setting>
-          <Setting id="Farewell, My Love" type="bool">True</Setting>
           <Setting id="Body Harvest" type="bool">True</Setting>
           <Setting id="Are You Going To San Fierro?" type="bool">True</Setting>
+          <Setting id="wzm" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Started" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Starting Cutscene Ended" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Race Finished" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Ending Cutscene Started" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu" type="bool">True</Setting>
+          <Setting id="fml" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Started" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Starting Cutscene Ended" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Race Finished" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Ending Cutscene Started" type="bool">True</Setting>
+          <Setting id="Farewell, My Love" type="bool">True</Setting>
           <Setting id="Mountain Cloud Boys" type="bool">True</Setting>
           <Setting id="Ran Fa Li" type="bool">True</Setting>
           <Setting id="Lure" type="bool">True</Setting>
@@ -728,7 +749,7 @@
           <Setting id="Courier" type="bool">True</Setting>
           <Setting id="Courier 1" type="bool">True</Setting>
           <Setting id="Courier 2" type="bool">True</Setting>
-          <Setting id="Courier 3" type="bool">False</Setting>
+          <Setting id="Courier 3" type="bool">True</Setting>
           <Setting id="courier_1_started" type="bool">True</Setting>
           <Setting id="Los Santos Courier" type="bool">True</Setting>
           <Setting id="courier_2_started" type="bool">False</Setting>
@@ -808,31 +829,31 @@
           <Setting id="courier_3_level_4_delivery_5" type="bool">True</Setting>
           <Setting id="courier_3_level_4_delivery_6" type="bool">True</Setting>
           <Setting id="TruckingMissions" type="bool">True</Setting>
-          <Setting id="trucking_start" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound" type="bool">True</Setting>
-          <Setting id="trucking_start1" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound1" type="bool">True</Setting>
+          <Setting id="Trucking Start Header" type="bool">True</Setting>
+          <Setting id="Trucking Left Compound Header" type="bool">True</Setting>
+          <Setting id="Trucking 1 Started" type="bool">True</Setting>
+          <Setting id="Trucking 1: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 1" type="bool">True</Setting>
-          <Setting id="trucking_start2" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound2" type="bool">True</Setting>
+          <Setting id="Trucking 2 Started" type="bool">True</Setting>
+          <Setting id="Trucking 2: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 2" type="bool">True</Setting>
-          <Setting id="trucking_start3" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound3" type="bool">True</Setting>
+          <Setting id="Trucking 3 Started" type="bool">True</Setting>
+          <Setting id="Trucking 3: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 3" type="bool">True</Setting>
-          <Setting id="trucking_start4" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound4" type="bool">True</Setting>
+          <Setting id="Trucking 4 Started" type="bool">True</Setting>
+          <Setting id="Trucking 4: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 4" type="bool">True</Setting>
-          <Setting id="trucking_start5" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound5" type="bool">True</Setting>
+          <Setting id="Trucking 5 Started" type="bool">True</Setting>
+          <Setting id="Trucking 5: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 5" type="bool">True</Setting>
-          <Setting id="trucking_start6" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound6" type="bool">True</Setting>
+          <Setting id="Trucking 6 Started" type="bool">True</Setting>
+          <Setting id="Trucking 6: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 6" type="bool">True</Setting>
-          <Setting id="trucking_start7" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound7" type="bool">True</Setting>
+          <Setting id="Trucking 7 Started" type="bool">True</Setting>
+          <Setting id="Trucking 7: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 7" type="bool">True</Setting>
-          <Setting id="trucking_start8" type="bool">True</Setting>
-          <Setting id="trucking_leftcompound8" type="bool">True</Setting>
+          <Setting id="Trucking 8 Started" type="bool">True</Setting>
+          <Setting id="Trucking 8: Left Compound" type="bool">True</Setting>
           <Setting id="Trucking 8" type="bool">True</Setting>
           <Setting id="Quarry Missions" type="bool">True</Setting>
           <Setting id="Quarry 1" type="bool">True</Setting>
@@ -864,7 +885,6 @@
           <Setting id="valet_level4_car3" type="bool">True</Setting>
           <Setting id="valet_level4_car2" type="bool">True</Setting>
           <Setting id="valet_level4_car1" type="bool">True</Setting>
-          <Setting id="valet_level5" type="bool">True</Setting>
           <Setting id="valet_level5_car6" type="bool">True</Setting>
           <Setting id="valet_level5_car5" type="bool">True</Setting>
           <Setting id="valet_level5_car4" type="bool">True</Setting>
@@ -887,17 +907,17 @@
           <Setting id="Firefighter level 10" type="bool">True</Setting>
           <Setting id="Firefighter level 11" type="bool">True</Setting>
           <Setting id="Firefighter" type="bool">True</Setting>
-          <Setting id="freight_level" type="bool">True</Setting>
-          <Setting id="freight_started" type="bool">True</Setting>
-          <Setting id="freight_station 1 1" type="bool">True</Setting>
-          <Setting id="freight_station 1 2" type="bool">True</Setting>
-          <Setting id="freight_station 1 3" type="bool">True</Setting>
-          <Setting id="freight_station 1 4" type="bool">True</Setting>
+          <Setting id="Freight Level" type="bool">True</Setting>
+          <Setting id="Freight Started" type="bool">True</Setting>
+          <Setting id="Freight Station 1 1" type="bool">True</Setting>
+          <Setting id="Freight Station 1 2" type="bool">True</Setting>
+          <Setting id="Freight Station 1 3" type="bool">True</Setting>
+          <Setting id="Freight Station 1 4" type="bool">True</Setting>
           <Setting id="Freight Level 1" type="bool">True</Setting>
-          <Setting id="freight_station 2 1" type="bool">True</Setting>
-          <Setting id="freight_station 2 2" type="bool">True</Setting>
-          <Setting id="freight_station 2 3" type="bool">True</Setting>
-          <Setting id="freight_station 2 4" type="bool">True</Setting>
+          <Setting id="Freight Station 2 1" type="bool">True</Setting>
+          <Setting id="Freight Station 2 2" type="bool">True</Setting>
+          <Setting id="Freight Station 2 3" type="bool">True</Setting>
+          <Setting id="Freight Station 2 4" type="bool">True</Setting>
           <Setting id="Freight Level 2" type="bool">True</Setting>
           <Setting id="paramedic_level" type="bool">True</Setting>
           <Setting id="Paramedic started for the first time" type="bool">True</Setting>
@@ -992,7 +1012,7 @@
           <Setting id="Vigilante level 11" type="bool">False</Setting>
           <Setting id="Vigilante" type="bool">True</Setting>
           <Setting id="Races" type="bool">True</Setting>
-          <Setting id="All Races Won" type="bool">False</Setting>
+          <Setting id="All Races Won" type="bool">True</Setting>
           <Setting id="LS Races" type="bool">True</Setting>
           <Setting id="SF Races" type="bool">True</Setting>
           <Setting id="LV Races" type="bool">True</Setting>
@@ -1011,7 +1031,7 @@
           <Setting id="Race 0 Checkpoint 10" type="bool">True</Setting>
           <Setting id="Race 0 Checkpoint 11" type="bool">True</Setting>
           <Setting id="Lowrider Race" type="bool">True</Setting>
-          <Setting id="Race 1" type="bool">False</Setting>
+          <Setting id="Race 1" type="bool">True</Setting>
           <Setting id="Race 1 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Race 1 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Race 1 Checkpoint 2" type="bool">False</Setting>
@@ -1024,7 +1044,7 @@
           <Setting id="Race 1 Checkpoint 9" type="bool">False</Setting>
           <Setting id="Race 1 Checkpoint 10" type="bool">False</Setting>
           <Setting id="Little Loop" type="bool">True</Setting>
-          <Setting id="Race 2" type="bool">False</Setting>
+          <Setting id="Race 2" type="bool">True</Setting>
           <Setting id="Race 2 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Race 2 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Race 2 Checkpoint 2" type="bool">False</Setting>
@@ -1045,7 +1065,7 @@
           <Setting id="Race 2 Checkpoint 17" type="bool">False</Setting>
           <Setting id="Race 2 Checkpoint 18" type="bool">False</Setting>
           <Setting id="Backroad Wanderer" type="bool">True</Setting>
-          <Setting id="Race 3" type="bool">False</Setting>
+          <Setting id="Race 3" type="bool">True</Setting>
           <Setting id="Race 3 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Race 3 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Race 3 Checkpoint 2" type="bool">False</Setting>
@@ -1066,7 +1086,7 @@
           <Setting id="Race 3 Checkpoint 17" type="bool">False</Setting>
           <Setting id="Race 3 Checkpoint 18" type="bool">False</Setting>
           <Setting id="City Circuit" type="bool">True</Setting>
-          <Setting id="Race 4" type="bool">False</Setting>
+          <Setting id="Race 4" type="bool">True</Setting>
           <Setting id="Race 4 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Race 4 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Race 4 Checkpoint 2" type="bool">False</Setting>
@@ -1089,7 +1109,7 @@
           <Setting id="Race 4 Checkpoint 19" type="bool">False</Setting>
           <Setting id="Race 4 Checkpoint 20" type="bool">False</Setting>
           <Setting id="Vinewood" type="bool">True</Setting>
-          <Setting id="Race 5" type="bool">False</Setting>
+          <Setting id="Race 5" type="bool">True</Setting>
           <Setting id="Race 5 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Race 5 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Race 5 Checkpoint 2" type="bool">False</Setting>
@@ -1114,7 +1134,7 @@
           <Setting id="Race 5 Checkpoint 21" type="bool">False</Setting>
           <Setting id="Race 5 Checkpoint 22" type="bool">False</Setting>
           <Setting id="Freeway (Race)" type="bool">True</Setting>
-          <Setting id="Race 6" type="bool">False</Setting>
+          <Setting id="Race 6" type="bool">True</Setting>
           <Setting id="Race 6 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Race 6 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Race 6 Checkpoint 2" type="bool">False</Setting>
@@ -1434,56 +1454,56 @@
           <Setting id="Race 16 Checkpoint 24" type="bool">True</Setting>
           <Setting id="Dam Rider" type="bool">True</Setting>
           <Setting id="Race 17" type="bool">True</Setting>
-          <Setting id="Race 17 Checkpoint 0" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 1" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 2" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 3" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 4" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 5" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 6" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 7" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 8" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 9" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 10" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 11" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 12" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 13" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 14" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 15" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 16" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 17" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 18" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 19" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 20" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 21" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 22" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 23" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 24" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 25" type="bool">False</Setting>
-          <Setting id="Race 17 Checkpoint 26" type="bool">False</Setting>
+          <Setting id="Race 17 Checkpoint 0" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 1" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 2" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 3" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 4" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 5" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 6" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 7" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 8" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 9" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 10" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 11" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 12" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 13" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 14" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 15" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 16" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 17" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 18" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 19" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 20" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 21" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 22" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 23" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 24" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 25" type="bool">True</Setting>
+          <Setting id="Race 17 Checkpoint 26" type="bool">True</Setting>
           <Setting id="Desert Tricks" type="bool">True</Setting>
           <Setting id="Race 18" type="bool">True</Setting>
-          <Setting id="Race 18 Checkpoint 0" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 1" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 2" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 3" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 4" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 5" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 6" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 7" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 8" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 9" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 10" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 11" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 12" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 13" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 14" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 15" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 16" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 17" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 18" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 19" type="bool">False</Setting>
-          <Setting id="Race 18 Checkpoint 20" type="bool">False</Setting>
+          <Setting id="Race 18 Checkpoint 0" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 1" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 2" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 3" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 4" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 5" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 6" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 7" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 8" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 9" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 10" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 11" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 12" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 13" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 14" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 15" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 16" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 17" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 18" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 19" type="bool">True</Setting>
+          <Setting id="Race 18 Checkpoint 20" type="bool">True</Setting>
           <Setting id="LV Ringroad" type="bool">True</Setting>
           <Setting id="Race 19" type="bool">True</Setting>
           <Setting id="Race 19 Checkpoint 0" type="bool">False</Setting>
@@ -1922,39 +1942,39 @@
           <Setting id="Kickstart Started" type="bool">False</Setting>
           <Setting id="Kickstart Points 26" type="bool">False</Setting>
           <Setting id="Kickstart Checkpoints" type="bool">False</Setting>
-          <Setting id="Kickstart Checkpoint 1" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 2" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 3" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 4" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 5" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 6" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 7" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 8" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 9" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 10" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 11" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 12" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 13" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 14" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 15" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 16" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 17" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 18" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 19" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 20" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 21" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 22" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 23" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 24" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 25" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 26" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 27" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 28" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 29" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 30" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 31" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 32" type="bool">True</Setting>
-          <Setting id="Kickstart Checkpoint 33" type="bool">True</Setting>
+          <Setting id="Kickstart Checkpoint 1" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 2" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 3" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 4" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 5" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 6" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 7" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 8" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 9" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 10" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 11" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 12" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 13" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 14" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 15" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 16" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 17" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 18" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 19" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 20" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 21" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 22" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 23" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 24" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 25" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 26" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 27" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 28" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 29" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 30" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 31" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 32" type="bool">False</Setting>
+          <Setting id="Kickstart Checkpoint 33" type="bool">False</Setting>
           <Setting id="Kickstart" type="bool">True</Setting>
           <Setting id="Vehicle Challenges" type="bool">True</Setting>
           <Setting id="BMX Stunt Challenge (Header)" type="bool">True</Setting>
@@ -1983,26 +2003,28 @@
           <Setting id="Chiliad Challenge #1" type="bool">True</Setting>
           <Setting id="Chiliad Challenge #2" type="bool">True</Setting>
           <Setting id="Chiliad Challenge #3" type="bool">True</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 0" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 1" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 2" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 3" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 4" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 5" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 6" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 7" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 8" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 9" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 10" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 11" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 12" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 13" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 14" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 15" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 16" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 17" type="bool">False</Setting>
-          <Setting id="Chiliad Challenge #1 Checkpoint 18" type="bool">False</Setting>
+          <Setting id="Chiliad Challenge #1 Started" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 0" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 1" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 2" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 3" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 4" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 5" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 6" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 7" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 8" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 9" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 10" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 11" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 12" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 13" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 14" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 15" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 16" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 17" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #1 Checkpoint 18" type="bool">True</Setting>
           <Setting id="Chiliad Challenge #1 Complete" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #2 Started" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #2 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #2 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #2 Checkpoint 2" type="bool">False</Setting>
@@ -2036,6 +2058,7 @@
           <Setting id="Chiliad Challenge #2 Checkpoint 30" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #2 Checkpoint 31" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #2 Complete" type="bool">True</Setting>
+          <Setting id="Chiliad Challenge #3 Started" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #3 Checkpoint 0" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #3 Checkpoint 1" type="bool">False</Setting>
           <Setting id="Chiliad Challenge #3 Checkpoint 2" type="bool">False</Setting>
@@ -2125,6 +2148,76 @@
           <Setting id="Fresh Slalom" type="bool">True</Setting>
           <Setting id="Flying Fish" type="bool">True</Setting>
           <Setting id="Boat School" type="bool">True</Setting>
+          <Setting id="Properties" type="bool">True</Setting>
+          <Setting id="Verdant Meadows (Airstrip Bought)" type="bool">True</Setting>
+          <Setting id="Wang Cars (Showroom Bought)" type="bool">True</Setting>
+          <Setting id="Zero (RC Shop Bought)" type="bool">True</Setting>
+          <Setting id="Angel Pine (Safehouse)" type="bool">True</Setting>
+          <Setting id="Blueberry (Safehouse)" type="bool">True</Setting>
+          <Setting id="Calton Heights (Safehouse)" type="bool">True</Setting>
+          <Setting id="Chinatown (Safehouse)" type="bool">True</Setting>
+          <Setting id="Creek (Safehouse)" type="bool">True</Setting>
+          <Setting id="Dillimore (Safehouse)" type="bool">True</Setting>
+          <Setting id="Doherty (Safehouse)" type="bool">True</Setting>
+          <Setting id="El Quebrados (Safehouse)" type="bool">True</Setting>
+          <Setting id="Fort Carson (Safehouse)" type="bool">True</Setting>
+          <Setting id="Hashbury (Safehouse)" type="bool">True</Setting>
+          <Setting id="Jefferson (Safehouse)" type="bool">True</Setting>
+          <Setting id="Mulholland (Safehouse)" type="bool">True</Setting>
+          <Setting id="Old Venturas Strip (Hotel Suite)" type="bool">True</Setting>
+          <Setting id="Palomino Creek (Safehouse)" type="bool">True</Setting>
+          <Setting id="Paradiso (Safehouse)" type="bool">True</Setting>
+          <Setting id="Pirates In Men's Pants (Hotel Suite)" type="bool">True</Setting>
+          <Setting id="Prickle Pine (Safehouse)" type="bool">True</Setting>
+          <Setting id="Queens (Hotel Suite)" type="bool">True</Setting>
+          <Setting id="Redsands West (Safehouse)" type="bool">True</Setting>
+          <Setting id="Rockshore West (Safehouse)" type="bool">True</Setting>
+          <Setting id="Santa Maria Beach (Safehouse)" type="bool">True</Setting>
+          <Setting id="The Camel's Toe (Hotel Suite)" type="bool">True</Setting>
+          <Setting id="The Clown's Pocket (Hotel Suite)" type="bool">True</Setting>
+          <Setting id="Tierra Robada (Safehouse)" type="bool">True</Setting>
+          <Setting id="Verdant Bluffs (Safehouse)" type="bool">True</Setting>
+          <Setting id="Verona Beach (Safehouse)" type="bool">True</Setting>
+          <Setting id="Whetstone (Safehouse)" type="bool">True</Setting>
+          <Setting id="Whitewood Estate (Safehouse)" type="bool">True</Setting>
+          <Setting id="Willowfield (Safehouse)" type="bool">True</Setting>
+          <Setting id="Export Lists" type="bool">True</Setting>
+          <Setting id="ExportList1" type="bool">True</Setting>
+          <Setting id="Export Buffalo" type="bool">True</Setting>
+          <Setting id="Export Sentinel" type="bool">True</Setting>
+          <Setting id="Export Infernus" type="bool">True</Setting>
+          <Setting id="Export Camper" type="bool">True</Setting>
+          <Setting id="Export Admiral" type="bool">True</Setting>
+          <Setting id="Export Patriot" type="bool">True</Setting>
+          <Setting id="Export Sanchez" type="bool">True</Setting>
+          <Setting id="Export Stretch" type="bool">True</Setting>
+          <Setting id="Export Feltzer" type="bool">True</Setting>
+          <Setting id="Export Remington" type="bool">True</Setting>
+          <Setting id="Export List 1" type="bool">True</Setting>
+          <Setting id="ExportList2" type="bool">True</Setting>
+          <Setting id="Export Cheetah" type="bool">True</Setting>
+          <Setting id="Export Rancher" type="bool">True</Setting>
+          <Setting id="Export Stallion" type="bool">False</Setting>
+          <Setting id="Export Tanker" type="bool">True</Setting>
+          <Setting id="Export Comet" type="bool">True</Setting>
+          <Setting id="Export Slamvan" type="bool">True</Setting>
+          <Setting id="Export Blista Compact" type="bool">False</Setting>
+          <Setting id="Export Stafford" type="bool">True</Setting>
+          <Setting id="Export Sabre" type="bool">False</Setting>
+          <Setting id="Export FCR-900" type="bool">True</Setting>
+          <Setting id="Export List 2" type="bool">True</Setting>
+          <Setting id="ExportList3" type="bool">True</Setting>
+          <Setting id="Export Banshee" type="bool">True</Setting>
+          <Setting id="Export Super GT" type="bool">True</Setting>
+          <Setting id="Export Journey" type="bool">True</Setting>
+          <Setting id="Export Huntley" type="bool">True</Setting>
+          <Setting id="Export BF Injection" type="bool">True</Setting>
+          <Setting id="Export Blade" type="bool">False</Setting>
+          <Setting id="Export Freeway" type="bool">True</Setting>
+          <Setting id="Export Mesa" type="bool">True</Setting>
+          <Setting id="Export ZR-350" type="bool">False</Setting>
+          <Setting id="Export Euros" type="bool">True</Setting>
+          <Setting id="Export List 3" type="bool">True</Setting>
           <Setting id="Shooting RangeMissions" type="bool">True</Setting>
           <Setting id="Pistol Round 1" type="bool">True</Setting>
           <Setting id="Pistol Round 2" type="bool">True</Setting>
@@ -2272,7 +2365,7 @@
           <Setting id="TagEach61" type="bool">False</Setting>
           <Setting id="TagSpecific62" type="bool">True</Setting>
           <Setting id="TagEach62" type="bool">False</Setting>
-          <Setting id="TagSpecific63" type="bool">False</Setting>
+          <Setting id="TagSpecific63" type="bool">True</Setting>
           <Setting id="TagEach63" type="bool">False</Setting>
           <Setting id="TagSpecific64" type="bool">True</Setting>
           <Setting id="TagEach64" type="bool">False</Setting>
@@ -2614,7 +2707,7 @@
           <Setting id="Warps" type="bool">True</Setting>
           <Setting id="BustedWarps" type="bool">True</Setting>
           <Setting id="DeathWarps" type="bool">True</Setting>
-          <Setting id="BW 'Badlands' to 'Tanker Commander'" type="bool">False</Setting>
+          <Setting id="BW 'Badlands' to 'Tanker Commander'" type="bool">True</Setting>
           <Setting id="BW 'King in Exile' to 'Small Town Bank'" type="bool">True</Setting>
           <Setting id="DW 'Tanker Commander' to 'Body Harvest'" type="bool">False</Setting>
           <Setting id="DW 'Body Harvest' to 'King in Exile'" type="bool">True</Setting>
@@ -2622,7 +2715,8 @@
           <Setting id="DW 'Jizzy' to 'Mountain Cloud Boys'" type="bool">True</Setting>
           <Setting id="DW 'Mike Toreno' to 'Lure'" type="bool">True</Setting>
           <Setting id="DW 'Lure' to 'Paramedic'" type="bool">True</Setting>
-          <Setting id="DW 'The Da Nang Thang' to 'Yay Ka-Boom-Boom'" type="bool">True</Setting>
+          <Setting id="DW 'The Da Nang Thang' to 'Yay Ka-Boom-Boom'" type="bool">False</Setting>
+          <Setting id="DW 'Boat School' to 'Yay Ka-Boom-Boom'" type="bool">True</Setting>
           <Setting id="DW 'Stretch' to 'Infernus'" type="bool">True</Setting>
           <Setting id="DW 'Export List 1' to 'Rancher'" type="bool">True</Setting>
           <Setting id="DW 'Comet' to 'Stafford'" type="bool">True</Setting>
@@ -2636,76 +2730,6 @@
           <Setting id="100% Achieved" type="bool">False</Setting>
           <Setting id="Plane Flight" type="bool">False</Setting>
           <Setting id="itb_grovestreethome" type="bool">True</Setting>
-          <Setting id="Properties" type="bool">True</Setting>
-          <Setting id="Verdant Meadows (Airstrip Bought)" type="bool">True</Setting>
-          <Setting id="Wang Cars (Showroom Bought)" type="bool">True</Setting>
-          <Setting id="Zero (RC Shop Bought)" type="bool">True</Setting>
-          <Setting id="Angel Pine (Safehouse)" type="bool">True</Setting>
-          <Setting id="Blueberry (Safehouse)" type="bool">True</Setting>
-          <Setting id="Calton Heights (Safehouse)" type="bool">True</Setting>
-          <Setting id="Chinatown (Safehouse)" type="bool">True</Setting>
-          <Setting id="Creek (Safehouse)" type="bool">True</Setting>
-          <Setting id="Dillimore (Safehouse)" type="bool">True</Setting>
-          <Setting id="Doherty (Safehouse)" type="bool">True</Setting>
-          <Setting id="El Quebrados (Safehouse)" type="bool">True</Setting>
-          <Setting id="Fort Carson (Safehouse)" type="bool">True</Setting>
-          <Setting id="Hashbury (Safehouse)" type="bool">True</Setting>
-          <Setting id="Jefferson (Safehouse)" type="bool">True</Setting>
-          <Setting id="Mulholland (Safehouse)" type="bool">True</Setting>
-          <Setting id="Old Venturas Strip (Hotel Suite)" type="bool">True</Setting>
-          <Setting id="Palomino Creek (Safehouse)" type="bool">True</Setting>
-          <Setting id="Paradiso (Safehouse)" type="bool">True</Setting>
-          <Setting id="Pirates In Men's Pants (Hotel Suite)" type="bool">True</Setting>
-          <Setting id="Prickle Pine (Safehouse)" type="bool">True</Setting>
-          <Setting id="Queens (Hotel Suite)" type="bool">True</Setting>
-          <Setting id="Redsands West (Safehouse)" type="bool">True</Setting>
-          <Setting id="Rockshore West (Safehouse)" type="bool">True</Setting>
-          <Setting id="Santa Maria Beach (Safehouse)" type="bool">True</Setting>
-          <Setting id="The Camel's Toe (Hotel Suite)" type="bool">True</Setting>
-          <Setting id="The Clown's Pocket (Hotel Suite)" type="bool">True</Setting>
-          <Setting id="Tierra Robada (Safehouse)" type="bool">True</Setting>
-          <Setting id="Verdant Bluffs (Safehouse)" type="bool">True</Setting>
-          <Setting id="Verona Beach (Safehouse)" type="bool">True</Setting>
-          <Setting id="Whetstone (Safehouse)" type="bool">True</Setting>
-          <Setting id="Whitewood Estate (Safehouse)" type="bool">True</Setting>
-          <Setting id="Willowfield (Safehouse)" type="bool">True</Setting>
-          <Setting id="Export Lists" type="bool">True</Setting>
-          <Setting id="ExportList1" type="bool">True</Setting>
-          <Setting id="Export Buffalo" type="bool">True</Setting>
-          <Setting id="Export Sentinel" type="bool">True</Setting>
-          <Setting id="Export Infernus" type="bool">True</Setting>
-          <Setting id="Export Camper" type="bool">True</Setting>
-          <Setting id="Export Admiral" type="bool">True</Setting>
-          <Setting id="Export Patriot" type="bool">True</Setting>
-          <Setting id="Export Sanchez" type="bool">True</Setting>
-          <Setting id="Export Stretch" type="bool">True</Setting>
-          <Setting id="Export Feltzer" type="bool">True</Setting>
-          <Setting id="Export Remington" type="bool">True</Setting>
-          <Setting id="Export List 1" type="bool">True</Setting>
-          <Setting id="ExportList2" type="bool">True</Setting>
-          <Setting id="Export Cheetah" type="bool">True</Setting>
-          <Setting id="Export Rancher" type="bool">True</Setting>
-          <Setting id="Export Stallion" type="bool">False</Setting>
-          <Setting id="Export Tanker" type="bool">True</Setting>
-          <Setting id="Export Comet" type="bool">True</Setting>
-          <Setting id="Export Slamvan" type="bool">True</Setting>
-          <Setting id="Export Blista Compact" type="bool">False</Setting>
-          <Setting id="Export Stafford" type="bool">True</Setting>
-          <Setting id="Export Sabre" type="bool">False</Setting>
-          <Setting id="Export FCR-900" type="bool">True</Setting>
-          <Setting id="Export List 2" type="bool">True</Setting>
-          <Setting id="ExportList3" type="bool">True</Setting>
-          <Setting id="Export Banshee" type="bool">True</Setting>
-          <Setting id="Export Super GT" type="bool">True</Setting>
-          <Setting id="Export Journey" type="bool">True</Setting>
-          <Setting id="Export Huntley" type="bool">True</Setting>
-          <Setting id="Export BF Injection" type="bool">True</Setting>
-          <Setting id="Export Blade" type="bool">False</Setting>
-          <Setting id="Export Freeway" type="bool">True</Setting>
-          <Setting id="Export Mesa" type="bool">True</Setting>
-          <Setting id="Export ZR-350" type="bool">False</Setting>
-          <Setting id="Export Euros" type="bool">True</Setting>
-          <Setting id="Export List 3" type="bool">True</Setting>
           <Setting id="Gang Territories" type="bool">True</Setting>
           <Setting id="Gang Territories LS" type="bool">True</Setting>
           <Setting id="Gang Territories RTLS" type="bool">True</Setting>
