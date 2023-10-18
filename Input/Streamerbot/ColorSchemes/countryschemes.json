@@ -1,0 +1,79 @@
+{
+	"Sources": [
+		"https://en.wikipedia.org/wiki/National_colours#"
+	],
+	"Categories": {
+		"Afghanistan": {
+			"Default": "AF",
+			"Colors": {
+				"AF": {
+					"Outer": "#000000",
+					"Inner": "#007A36",
+					"Text": "#BE0000"
+				}
+			}
+		},
+		"Albania": {
+			"Default": "AL",
+			"Colors": {
+				"AL": {
+					"Outer": "#FF0000",
+					"Inner": "#000000",
+					"Text": "#FF0000"
+				}
+			}
+		},
+		"Algeria": {
+			"Default": "DZ",
+			"Colors": {
+				"DZ": {
+					"Outer": "#006633",
+					"Inner": "#FFFFFF",
+					"Text": "#006633"
+				}
+			}
+		},
+		"none": {
+			"Default": "BnW",
+			"Colors": {
+				"BnW": {
+					"Outer": "#000000",
+					"Inner": "#ffffff",
+					"Text": "#ffffff"
+				}
+			},
+			"SplitColors": {
+				"None": "#ffffff",
+				"ListGainedAhead": "#ffffff",
+				"ListLostAhead": "#ffffff",
+				"ListGainedBehind": "#ffffff",
+				"ListLostBehind": "#ffffff",
+				"ListGold": "#ffffff",
+				"LabelPositive": "#ffffff",
+				"LabelNegative": "#ffffff",
+				"LabelGold": "#ffffff"
+			}
+		},
+		"disabled": {
+			"Default": "BnW",
+			"Colors": {
+				"BnW": {
+					"Outer": "#000000",
+					"Inner": "#ffffff",
+					"Text": "#ffffff"
+				}
+			},
+			"SplitColors": {
+				"None": "#ffffff",
+				"ListGainedAhead": "#ffffff",
+				"ListLostAhead": "#ffffff",
+				"ListGainedBehind": "#ffffff",
+				"ListLostBehind": "#ffffff",
+				"ListGold": "#ffffff",
+				"LabelPositive": "#ffffff",
+				"LabelNegative": "#ffffff",
+				"LabelGold": "#ffffff"
+			}
+		}
+	}
+}
