@@ -45,6 +45,16 @@
 				}
 			}
 		},
+		"GTA4": {
+			"Default": "Health",
+			"Colors": {
+				"Health": {
+					"Outer": "#000000",
+					"Inner": "#577C58",
+					"Text": "#577C58"
+				}
+			}
+		},
 		"GTA5": {
 			"Default": "Power",
 			"Colors": {
@@ -112,6 +122,36 @@
 					"Outer": "#5f4536",
 					"Inner": "#feba8d",
 					"Text": "#87786c"
+				}
+			}
+		},
+		"L4D2": {
+			"Default": "Healthy",
+			"Colors": {
+				"Healthy": {
+					"Inner": "#8FF008",
+					"Outer": "#294D00",
+					"Text": "#C1C1C1"
+				},
+				"Wounded": {
+					"Inner": "#EFBE42",
+					"Outer": "#785102",
+					"Text": "#C1C1C1"
+				},
+				"Critical": {
+					"Inner": "#D20000",
+					"Outer": "#5F0000",
+					"Text": "#C1C1C1"
+				},
+				"Down": {
+					"Inner": "#862B00",
+					"Outer": "#87080C",
+					"Text": "#C1C1C1"
+				},
+				"Dead": {
+					"Inner": "#9F0F13",
+					"Outer": "#0F0000",
+					"Text": "#929292"
 				}
 			}
 		},
