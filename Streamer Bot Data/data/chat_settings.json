@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "t": "2023-12-20T23:05:42.8049206+01:00",
+  "left": 928,
+  "top": 219,
+  "right": 1744,
+  "bottom": 708,
+  "settings": {
+    "sendChatPlatform": "twitch",
+    "useTwitchBot": false,
+    "useYouTubeBot": false,
+    "showTimeStamps": false,
+    "flipChat": false,
+    "highlightMentioned": true,
+    "highlightAnnouncements": true,
+    "highlightHighlighted": true,
+    "highlightFirstMessage": true,
+    "quickActions": {
+      "custom1": {
+        "icon": "i-mdi-numeric-1",
+        "title": "Custom Action 1",
+        "actionId": ""
+      },
+      "custom2": {
+        "icon": "i-mdi-numeric-2",
+        "title": "Custom Action 2",
+        "actionId": ""
+      },
+      "custom3": {
+        "icon": "i-mdi-numeric-3",
+        "title": "Custom Action 3",
+        "actionId": ""
+      },
+      "custom4": {
+        "icon": "i-mdi-numeric-4",
+        "title": "Custom Action 4",
+        "actionId": ""
+      },
+      "custom5": {
+        "icon": "i-mdi-numeric-5",
+        "title": "Custom Action 5",
+        "actionId": ""
+      }
+    }
+  }
+}

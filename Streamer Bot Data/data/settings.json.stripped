@@ -1,0 +1,349 @@
+{
+  "windowSettings": {
+    "hiddenTabs": [
+      "tpViewers",
+      "tpMidi",
+      "tpSpeechToText"
+    ],
+    "hiddenSettingsTabs": [],
+    "hiddenPlatformsTabs": [
+      "tpServiceYouTube"
+    ],
+    "hiddenBroadcastersTabs": [
+      "tpSlobs",
+      "tpPolyPop"
+    ],
+    "hiddenIntegrationsTabs": [
+      "tpStreamlabs",
+      "tpVoiceMod",
+      "tpDonorDrive",
+      "tpPulsoid",
+      "tpHypeRate",
+      "tpTipeeeStream",
+      "tpTreatStream",
+      "tpLumiaStream",
+      "tpVTubeStudio",
+      "tpElgato"
+    ],
+    "tabOrder": [
+      "tpActions",
+      "tpActionQueues",
+      "tpCommands",
+      "tpPlatforms",
+      "tpBroadcasters",
+      "tpIntegrations",
+      "tpHotKeys",
+      "tpServersClients",
+      "tpSettings",
+      "tpAbout"
+    ],
+    "tabSettingsOrder": [
+      "tpUserInterface",
+      "tpGeneral",
+      "tpGroups",
+      "tpFileWatcher",
+      "tpTimedActions",
+      "tpCredits",
+      "tpQuotes",
+      "tpCompilerSettings",
+      "tpSettingsLabs"
+    ],
+    "tabPlatformsOrder": [
+      "tpServiceTwitch"
+    ],
+    "tabBroadcastersOrder": [
+      "tpObs"
+    ],
+    "tabIntegrationsOrder": [
+      "tpStreamElements",
+      "tpStreamerBotWebsite",
+      "tpCrowdControl"
+    ],
+    "actionQueueConfig": {
+      "sort": 5,
+      "sortOrder": 1,
+      "columnWidths": "242,85,60,55,145,145,145"
+    },
+    "actionQueueHistoryConfig": {
+      "sort": 5,
+      "sortOrder": 2,
+      "columnWidths": "183,85,60,60,145,145,145,145"
+    },
+    "favoriteSubActions": [
+      "Actions|Run Action"
+    ],
+    "favoriteTriggers": [],
+    "defaultCommentColor": "#229977",
+    "subActionDisabledColor": "#DB7093",
+    "width": 1057,
+    "height": 856,
+    "actionDeleteNoConfirm": false,
+    "subActionDeleteNoConfirm": false,
+    "subActionGroupDeleteAllNoConfirm": false,
+    "subActionDeleteAllNoConfirm": false,
+    "quoteDeleteNoConfirm": false,
+    "commandDeleteNoConfirm": false,
+    "triggerDeleteNoConfirm": false,
+    "triggerDeleteAllNoConfirm": false,
+    "minimizeToTray": false,
+    "closeConfirmation": false,
+    "executeCodeDialogWidth": 1429,
+    "executeCodeDialogHeight": 918,
+    "actionsSplitter": 620,
+    "variableWindowWidth": 985,
+    "variableWindowHeight": 980,
+    "variableNameWidth": 250,
+    "variableValueWidth": 350,
+    "triggerSplitter": 260,
+    "globalWindowLeft": 319,
+    "globalWindowTop": 316,
+    "globalWindowRight": 1553,
+    "globalWindowBottom": 805,
+    "globalDeleteNoConfirm": false
+  },
+  "labs": {
+    "oldQueue": false
+  },
+  "pyramid": {
+    "enabled": false,
+    "minPyramidWidth": 2
+  },
+  "quotes": {
+    "enabled": false,
+    "allowSubscribers": false,
+    "addPermission": 3
+  },
+  "subCounter": {
+    "enabled": false,
+    "rollover": 0,
+    "outputFile": "C:\\Users\\w10-upgrade\\Desktop\\New folder (15)\\data\\subcounter.txt",
+    "outputText": "%subCounter% of %rollover% (%rolloverCount%)",
+    "subCount": 0,
+    "rolloverCount": 0
+  },
+  "hotKeySettings": {
+    "collapsedGroups": [],
+    "hotKeys": []
+  },
+  "eventSettings": {
+    "presentViewersEnabled": false,
+    "presentViewersInterval": 5,
+    "giftSubIgnoreFromGiftBomb": false
+  },
+  "timedActions": {
+    "timers": [
+      {
+        "id": "82838e4d-1d9c-4fcc-b6f1-bec774743ff3",
+        "name": "Update Counters",
+        "enabled": true,
+        "repeat": true,
+        "interval": 600,
+        "randomInterval": false,
+        "upperInterval": 0,
+        "lines": 0,
+        "counter": 36830
+      },
+      {
+        "id": "72065d52-23f5-4c50-ba44-f3023bf0a4e5",
+        "name": "Clock",
+        "enabled": true,
+        "repeat": true,
+        "interval": 60,
+        "randomInterval": false,
+        "upperInterval": 0,
+        "lines": 0,
+        "counter": 362761
+      },
+      {
+        "id": "95eade1b-27cc-44f1-8b91-61e9a8de38e3",
+        "name": "Update Left Panel",
+        "enabled": false,
+        "repeat": true,
+        "interval": 1,
+        "randomInterval": false,
+        "upperInterval": 0,
+        "lines": 0,
+        "counter": 11178435
+      },
+      {
+        "id": "8e323444-ad07-464b-be42-dae7565f1c44",
+        "name": "Countdown Countdown",
+        "enabled": true,
+        "repeat": true,
+        "interval": 1,
+        "randomInterval": false,
+        "upperInterval": 0,
+        "lines": 0,
+        "counter": 198851
+      }
+    ]
+  },
+  "fileWatcherSettings": {
+    "watchers": [
+      {
+        "id": "18f37402-ee55-4391-90f9-5d081c3be3de",
+        "enabled": false,
+        "asJson": false,
+        "folderPath": "D:\\Repositories\\Stream-Resources\\Text\\Livesplit Generated\\PreviousSplit\\RealTime",
+        "filter": "Sign.txt",
+        "includeSubdirectories": false
+      },
+      {
+        "id": "01448de6-09b3-40e6-90d4-30627fdf570d",
+        "enabled": true,
+        "asJson": false,
+        "folderPath": "D:\\Repositories\\Stream-Resources\\Text\\Livesplit Generated\\CurrentSplit",
+        "filter": "Index.txt",
+        "includeSubdirectories": false
+      },
+      {
+        "id": "47828753-6c97-48ae-bacd-dc4efbc81a95",
+        "enabled": true,
+        "asJson": false,
+        "folderPath": "C:\\Users\\2023-64ram\\AppData\\LocalLow\\Steel Crate Games\\Keep Talking and Nobody Explodes\\StreamInfo",
+        "filter": "lastevent.txt",
+        "includeSubdirectories": false
+      }
+    ]
+  },
+  "speechToText": {
+    "commands": [],
+    "autoStart": false,
+    "audioDevice": "f7a0bf0c-877e-4d97-bb43-9cc65b000976",
+    "confidenceThreshold": 0.0,
+    "locale": "en-US",
+    "logSpokenText": false
+  },
+  "websockets": {
+    "autoStart": false,
+    "address": "127.0.0.1",
+    "port": 8080,
+    "endpoint": "/",
+    "connections": [],
+    "servers": []
+  },
+  "udp": {
+    "autoStart": false,
+    "port": 4242
+  },
+  "http": {
+    "autoStart": false,
+    "address": "127.0.0.1",
+    "port": 7474
+  },
+  "credits": {
+    "creditEvents": [
+      2
+    ],
+    "rolesPresent": [],
+    "groupPresent": [],
+    "topEvents": [],
+    "autoReset": 12
+  },
+  "youTube": {
+    "presentViewersInterval": 5,
+    "botAutoConnect": false,
+    "acceptedTerms": true,
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "streamlabs": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "streamElements": {
+    "autoConnect": true,
+    "autoReconnect": true,
+    "retryInterval": 0
+  },
+  "donorDrives": {
+    "settings": []
+  },
+  "pulsoid": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "hypeRate": {
+    "hypeRateId": null,
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "tipeeeStream": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "treatStream": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "lumiaStream": {
+    "socketToken": null,
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "crowdcontrol": {
+    "autoConnect": false,
+    "autoReconnect": false
+  },
+  "website": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "compilerSettings": {
+    "commonReferences": [],
+    "autoCompleteClosing": false
+  },
+  "version": 26,
+  "instanceId": "3fface30-bc9f-44d9-930c-e7d53a78c62f",
+  "instanceName": "Streamer.bot",
+  "logLevel": 1,
+  "streamUpdateOnConnect": true,
+  "updateChannel": "stable",
+  "lastVersion": "0.2.2",
+  "obsSettings": {
+    "connections": [
+
+    ]
+  },
+  "slobsSettings": {
+    "connections": []
+  },
+  "polyPopServerSettings": {
+    "autoStart": false,
+    "address": "127.0.0.1",
+    "port": 9652,
+    "endpoint": "/"
+  },
+  "voiceModSettings": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "retryInterval": 0
+  },
+  "streamDeckSettings": {
+    "autoStart": false,
+    "address": "127.0.0.1",
+    "port": 8059
+  },
+  "vTubeStudioSettings": {
+    "autoConnect": false,
+    "autoReconnect": false,
+    "address": "localhost",
+    "port": 8001
+  },
+  "elgatoSettings": {
+    "waveLinkAutoConnect": false,
+    "waveLinkAutoReconnect": false
+  },
+  "defaultAudioDevice": "643c1f57-7810-4eaf-9dec-5fcaa99dce8c",
+  "volume": 1.0,
+  "audioUseSystemDefault": true,
+  "firstWordsAutoReset": 1
+}

@@ -1,0 +1,9 @@
+settings.json
+*.bak
+auth.db
+twitch_data.db
+users.dat
+games.dat
+firstwords.cache
+twitch_rewards.json
+credits.cache
