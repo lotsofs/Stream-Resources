@@ -243,6 +243,26 @@
 				"LabelGold": "#ceac35"
 			}
 		},
+		"TR3": {
+			"Default": "Menu",
+			"Colors": {
+				"Menu": {
+					"Inner": "#B85423",
+					"Outer": "#090908",
+					"Text": "#B6B6B6"
+				}
+			}
+		},
+		"VCD": {
+			"Default": "PersonalLog",
+			"Colors": {
+				"PersonalLog": {
+					"Inner": "#C5BA09",
+					"Outer": "#FEFCF1",
+					"Text": "#EAE2ED"
+				}
+			}
+		},
 		"WA": {
 			"Default": "Menu",
 			"Colors": {

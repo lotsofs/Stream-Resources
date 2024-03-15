@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2704</X>
-  <Y>24</Y>
+  <X>3120</X>
+  <Y>19</Y>
   <VerticalWidth>528</VerticalWidth>
   <VerticalHeight>1033</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -103,7 +103,6 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>FF333333</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF000000</CurrentSplitBottomColor>
         <VisualSplitCount>23</VisualSplitCount>
@@ -241,7 +240,6 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>FF333333</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>11</VisualSplitCount>
@@ -540,8 +538,8 @@
         <TXTColor.G>255</TXTColor.G>
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>D:\Repositories\Stream-Resources\Text\SpeedGuidesLive.txt</ActiveSplitTxtPath>
-        <WindowPos.X>2208</WindowPos.X>
-        <WindowPos.Y>776</WindowPos.Y>
+        <WindowPos.X>2150</WindowPos.X>
+        <WindowPos.Y>930</WindowPos.Y>
         <WindowSize.Width>371</WindowSize.Width>
         <WindowSize.Height>229</WindowSize.Height>
       </Settings>
@@ -818,9 +816,9 @@
           <Setting id="Courier 3" type="bool">True</Setting>
           <Setting id="courier_1_started" type="bool">True</Setting>
           <Setting id="Los Santos Courier" type="bool">True</Setting>
-          <Setting id="courier_2_started" type="bool">True</Setting>
+          <Setting id="courier_2_started" type="bool">False</Setting>
           <Setting id="San Fierro Courier" type="bool">True</Setting>
-          <Setting id="courier_3_started" type="bool">True</Setting>
+          <Setting id="courier_3_started" type="bool">False</Setting>
           <Setting id="Las Venturas Courier" type="bool">True</Setting>
           <Setting id="Courier 1 Levels" type="bool">True</Setting>
           <Setting id="Courier 1 Deliveries" type="bool">True</Setting>
@@ -846,8 +844,8 @@
           <Setting id="courier_1_level_4_delivery_4" type="bool">True</Setting>
           <Setting id="courier_1_level_4_delivery_5" type="bool">True</Setting>
           <Setting id="courier_1_level_4_delivery_6" type="bool">True</Setting>
-          <Setting id="Courier 2 Levels" type="bool">True</Setting>
-          <Setting id="Courier 2 Deliveries" type="bool">True</Setting>
+          <Setting id="Courier 2 Levels" type="bool">False</Setting>
+          <Setting id="Courier 2 Deliveries" type="bool">False</Setting>
           <Setting id="courier_2_level_1" type="bool">True</Setting>
           <Setting id="courier_2_level_1_delivery_1" type="bool">True</Setting>
           <Setting id="courier_2_level_1_delivery_2" type="bool">True</Setting>
@@ -870,8 +868,8 @@
           <Setting id="courier_2_level_4_delivery_4" type="bool">True</Setting>
           <Setting id="courier_2_level_4_delivery_5" type="bool">True</Setting>
           <Setting id="courier_2_level_4_delivery_6" type="bool">True</Setting>
-          <Setting id="Courier 3 Levels" type="bool">True</Setting>
-          <Setting id="Courier 3 Deliveries" type="bool">True</Setting>
+          <Setting id="Courier 3 Levels" type="bool">False</Setting>
+          <Setting id="Courier 3 Deliveries" type="bool">False</Setting>
           <Setting id="courier_3_level_1" type="bool">True</Setting>
           <Setting id="courier_3_level_1_delivery_1" type="bool">True</Setting>
           <Setting id="courier_3_level_1_delivery_2" type="bool">True</Setting>
@@ -1070,19 +1068,18 @@
           <Setting id="49 Taxi Fares dropped off" type="bool">True</Setting>
           <Setting id="Taxi Driver" type="bool">True</Setting>
           <Setting id="vigilante_level" type="bool">True</Setting>
-          <Setting id="Vigilante Started" type="bool">False</Setting>
-          <Setting id="Vigilante Started after Learning to Fly" type="bool">True</Setting>
-          <Setting id="Vigilante level 1" type="bool">True</Setting>
-          <Setting id="Vigilante level 2" type="bool">True</Setting>
-          <Setting id="Vigilante level 3" type="bool">True</Setting>
-          <Setting id="Vigilante level 4" type="bool">True</Setting>
-          <Setting id="Vigilante level 5" type="bool">True</Setting>
-          <Setting id="Vigilante level 6" type="bool">True</Setting>
-          <Setting id="Vigilante level 7" type="bool">True</Setting>
-          <Setting id="Vigilante level 8" type="bool">True</Setting>
-          <Setting id="Vigilante level 9" type="bool">True</Setting>
-          <Setting id="Vigilante level 10" type="bool">True</Setting>
-          <Setting id="Vigilante level 11" type="bool">True</Setting>
+          <Setting id="Vigilante started for the first time" type="bool">False</Setting>
+          <Setting id="Vigilante level 1" type="bool">False</Setting>
+          <Setting id="Vigilante level 2" type="bool">False</Setting>
+          <Setting id="Vigilante level 3" type="bool">False</Setting>
+          <Setting id="Vigilante level 4" type="bool">False</Setting>
+          <Setting id="Vigilante level 5" type="bool">False</Setting>
+          <Setting id="Vigilante level 6" type="bool">False</Setting>
+          <Setting id="Vigilante level 7" type="bool">False</Setting>
+          <Setting id="Vigilante level 8" type="bool">False</Setting>
+          <Setting id="Vigilante level 9" type="bool">False</Setting>
+          <Setting id="Vigilante level 10" type="bool">False</Setting>
+          <Setting id="Vigilante level 11" type="bool">False</Setting>
           <Setting id="Vigilante" type="bool">True</Setting>
           <Setting id="Races" type="bool">True</Setting>
           <Setting id="All Races Won" type="bool">True</Setting>
@@ -1105,17 +1102,17 @@
           <Setting id="Race 0 Checkpoint 11" type="bool">True</Setting>
           <Setting id="Lowrider Race" type="bool">True</Setting>
           <Setting id="Race 1" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 0" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 1" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 2" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 3" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 4" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 5" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 6" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 7" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 8" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 9" type="bool">True</Setting>
-          <Setting id="Race 1 Checkpoint 10" type="bool">True</Setting>
+          <Setting id="Race 1 Checkpoint 0" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 1" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 2" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 3" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 4" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 5" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 6" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 7" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 8" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 9" type="bool">False</Setting>
+          <Setting id="Race 1 Checkpoint 10" type="bool">False</Setting>
           <Setting id="Little Loop" type="bool">True</Setting>
           <Setting id="Race 2" type="bool">True</Setting>
           <Setting id="Race 2 Checkpoint 0" type="bool">False</Setting>
@@ -2205,12 +2202,12 @@
           <Setting id="Loop-the-Loop" type="bool">True</Setting>
           <Setting id="Barrel Roll" type="bool">True</Setting>
           <Setting id="Pilot School" type="bool">True</Setting>
-          <Setting id="Bike School Started" type="bool">True</Setting>
-          <Setting id="The 360 (Bike School)" type="bool">True</Setting>
-          <Setting id="The 180 (Bike School)" type="bool">True</Setting>
-          <Setting id="The Wheelie" type="bool">True</Setting>
-          <Setting id="Jump &amp; Stop" type="bool">True</Setting>
-          <Setting id="The Stoppie" type="bool">True</Setting>
+          <Setting id="Bike School Started" type="bool">False</Setting>
+          <Setting id="The 360 (Bike School)" type="bool">False</Setting>
+          <Setting id="The 180 (Bike School)" type="bool">False</Setting>
+          <Setting id="The Wheelie" type="bool">False</Setting>
+          <Setting id="Jump &amp; Stop" type="bool">False</Setting>
+          <Setting id="The Stoppie" type="bool">False</Setting>
           <Setting id="Bike School" type="bool">True</Setting>
           <Setting id="Boat School Started" type="bool">True</Setting>
           <Setting id="Basic Seamanship" type="bool">True</Setting>
@@ -2334,15 +2331,6 @@
           <Setting id="AK47 Round 3" type="bool">True</Setting>
           <Setting id="Shooting Range Complete" type="bool">True</Setting>
           <Setting id="Gym Moves" type="bool">True</Setting>
-          <Setting id="LS Gym" type="bool">True</Setting>
-          <Setting id="SF Gym" type="bool">True</Setting>
-          <Setting id="LV Gym" type="bool">True</Setting>
-          <Setting id="Los Santos Gym Entered" type="bool">True</Setting>
-          <Setting id="San Fierro Gym Entered" type="bool">True</Setting>
-          <Setting id="Las Venturas Gym Entered" type="bool">True</Setting>
-          <Setting id="Talk to gym leader gymls" type="bool">True</Setting>
-          <Setting id="Talk to gym leader gymsf" type="bool">True</Setting>
-          <Setting id="Talk to gym leader gymlv" type="bool">True</Setting>
           <Setting id="Los Santos Gym Moves" type="bool">True</Setting>
           <Setting id="San Fierro Gym Moves" type="bool">True</Setting>
           <Setting id="Las Venturas Gym Moves" type="bool">True</Setting>
@@ -2658,499 +2646,162 @@
           <Setting id="Horseshoe" type="bool">True</Setting>
           <Setting id="HorseshoeAll" type="bool">True</Setting>
           <Setting id="HorseshoeEach" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific" type="bool">False</Setting>
-          <Setting id="HorseshoeSpecific1" type="bool">False</Setting>
           <Setting id="HorseshoeEach1" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific2" type="bool">False</Setting>
           <Setting id="HorseshoeEach2" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific3" type="bool">False</Setting>
           <Setting id="HorseshoeEach3" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific4" type="bool">False</Setting>
           <Setting id="HorseshoeEach4" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific5" type="bool">False</Setting>
           <Setting id="HorseshoeEach5" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific6" type="bool">False</Setting>
           <Setting id="HorseshoeEach6" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific7" type="bool">False</Setting>
           <Setting id="HorseshoeEach7" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific8" type="bool">False</Setting>
           <Setting id="HorseshoeEach8" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific9" type="bool">False</Setting>
           <Setting id="HorseshoeEach9" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific10" type="bool">False</Setting>
           <Setting id="HorseshoeEach10" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific11" type="bool">False</Setting>
           <Setting id="HorseshoeEach11" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific12" type="bool">False</Setting>
           <Setting id="HorseshoeEach12" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific13" type="bool">False</Setting>
           <Setting id="HorseshoeEach13" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific14" type="bool">False</Setting>
           <Setting id="HorseshoeEach14" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific15" type="bool">False</Setting>
           <Setting id="HorseshoeEach15" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific16" type="bool">False</Setting>
           <Setting id="HorseshoeEach16" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific17" type="bool">False</Setting>
           <Setting id="HorseshoeEach17" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific18" type="bool">False</Setting>
           <Setting id="HorseshoeEach18" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific19" type="bool">False</Setting>
           <Setting id="HorseshoeEach19" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific20" type="bool">False</Setting>
           <Setting id="HorseshoeEach20" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific21" type="bool">False</Setting>
           <Setting id="HorseshoeEach21" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific22" type="bool">False</Setting>
           <Setting id="HorseshoeEach22" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific23" type="bool">False</Setting>
           <Setting id="HorseshoeEach23" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific24" type="bool">False</Setting>
           <Setting id="HorseshoeEach24" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific25" type="bool">False</Setting>
           <Setting id="HorseshoeEach25" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific26" type="bool">False</Setting>
           <Setting id="HorseshoeEach26" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific27" type="bool">False</Setting>
           <Setting id="HorseshoeEach27" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific28" type="bool">False</Setting>
           <Setting id="HorseshoeEach28" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific29" type="bool">False</Setting>
           <Setting id="HorseshoeEach29" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific30" type="bool">False</Setting>
           <Setting id="HorseshoeEach30" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific31" type="bool">False</Setting>
           <Setting id="HorseshoeEach31" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific32" type="bool">False</Setting>
           <Setting id="HorseshoeEach32" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific33" type="bool">False</Setting>
           <Setting id="HorseshoeEach33" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific34" type="bool">False</Setting>
           <Setting id="HorseshoeEach34" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific35" type="bool">False</Setting>
           <Setting id="HorseshoeEach35" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific36" type="bool">False</Setting>
           <Setting id="HorseshoeEach36" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific37" type="bool">False</Setting>
           <Setting id="HorseshoeEach37" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific38" type="bool">False</Setting>
           <Setting id="HorseshoeEach38" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific39" type="bool">False</Setting>
           <Setting id="HorseshoeEach39" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific40" type="bool">False</Setting>
           <Setting id="HorseshoeEach40" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific41" type="bool">False</Setting>
           <Setting id="HorseshoeEach41" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific42" type="bool">False</Setting>
           <Setting id="HorseshoeEach42" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific43" type="bool">False</Setting>
           <Setting id="HorseshoeEach43" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific44" type="bool">False</Setting>
           <Setting id="HorseshoeEach44" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific45" type="bool">False</Setting>
           <Setting id="HorseshoeEach45" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific46" type="bool">False</Setting>
           <Setting id="HorseshoeEach46" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific47" type="bool">False</Setting>
           <Setting id="HorseshoeEach47" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific48" type="bool">False</Setting>
           <Setting id="HorseshoeEach48" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific49" type="bool">False</Setting>
           <Setting id="HorseshoeEach49" type="bool">True</Setting>
-          <Setting id="HorseshoeSpecific50" type="bool">False</Setting>
           <Setting id="HorseshoeEach50" type="bool">True</Setting>
           <Setting id="Oyster" type="bool">True</Setting>
           <Setting id="OysterAll" type="bool">True</Setting>
           <Setting id="OysterEach" type="bool">True</Setting>
-          <Setting id="OysterSpecific" type="bool">False</Setting>
-          <Setting id="OysterSpecific1" type="bool">False</Setting>
           <Setting id="OysterEach1" type="bool">True</Setting>
-          <Setting id="OysterSpecific2" type="bool">False</Setting>
           <Setting id="OysterEach2" type="bool">True</Setting>
-          <Setting id="OysterSpecific3" type="bool">False</Setting>
           <Setting id="OysterEach3" type="bool">True</Setting>
-          <Setting id="OysterSpecific4" type="bool">False</Setting>
           <Setting id="OysterEach4" type="bool">True</Setting>
-          <Setting id="OysterSpecific5" type="bool">False</Setting>
           <Setting id="OysterEach5" type="bool">True</Setting>
-          <Setting id="OysterSpecific6" type="bool">False</Setting>
           <Setting id="OysterEach6" type="bool">True</Setting>
-          <Setting id="OysterSpecific7" type="bool">False</Setting>
           <Setting id="OysterEach7" type="bool">True</Setting>
-          <Setting id="OysterSpecific8" type="bool">False</Setting>
           <Setting id="OysterEach8" type="bool">True</Setting>
-          <Setting id="OysterSpecific9" type="bool">False</Setting>
           <Setting id="OysterEach9" type="bool">True</Setting>
-          <Setting id="OysterSpecific10" type="bool">False</Setting>
           <Setting id="OysterEach10" type="bool">True</Setting>
-          <Setting id="OysterSpecific11" type="bool">False</Setting>
           <Setting id="OysterEach11" type="bool">True</Setting>
-          <Setting id="OysterSpecific12" type="bool">False</Setting>
           <Setting id="OysterEach12" type="bool">True</Setting>
-          <Setting id="OysterSpecific13" type="bool">False</Setting>
           <Setting id="OysterEach13" type="bool">True</Setting>
-          <Setting id="OysterSpecific14" type="bool">False</Setting>
           <Setting id="OysterEach14" type="bool">True</Setting>
-          <Setting id="OysterSpecific15" type="bool">False</Setting>
           <Setting id="OysterEach15" type="bool">True</Setting>
-          <Setting id="OysterSpecific16" type="bool">False</Setting>
           <Setting id="OysterEach16" type="bool">True</Setting>
-          <Setting id="OysterSpecific17" type="bool">False</Setting>
           <Setting id="OysterEach17" type="bool">True</Setting>
-          <Setting id="OysterSpecific18" type="bool">False</Setting>
           <Setting id="OysterEach18" type="bool">True</Setting>
-          <Setting id="OysterSpecific19" type="bool">False</Setting>
           <Setting id="OysterEach19" type="bool">True</Setting>
-          <Setting id="OysterSpecific20" type="bool">False</Setting>
           <Setting id="OysterEach20" type="bool">True</Setting>
-          <Setting id="OysterSpecific21" type="bool">False</Setting>
           <Setting id="OysterEach21" type="bool">True</Setting>
-          <Setting id="OysterSpecific22" type="bool">False</Setting>
           <Setting id="OysterEach22" type="bool">True</Setting>
-          <Setting id="OysterSpecific23" type="bool">False</Setting>
           <Setting id="OysterEach23" type="bool">True</Setting>
-          <Setting id="OysterSpecific24" type="bool">False</Setting>
           <Setting id="OysterEach24" type="bool">True</Setting>
-          <Setting id="OysterSpecific25" type="bool">False</Setting>
           <Setting id="OysterEach25" type="bool">True</Setting>
-          <Setting id="OysterSpecific26" type="bool">False</Setting>
           <Setting id="OysterEach26" type="bool">True</Setting>
-          <Setting id="OysterSpecific27" type="bool">False</Setting>
           <Setting id="OysterEach27" type="bool">True</Setting>
-          <Setting id="OysterSpecific28" type="bool">False</Setting>
           <Setting id="OysterEach28" type="bool">True</Setting>
-          <Setting id="OysterSpecific29" type="bool">False</Setting>
           <Setting id="OysterEach29" type="bool">True</Setting>
-          <Setting id="OysterSpecific30" type="bool">False</Setting>
           <Setting id="OysterEach30" type="bool">True</Setting>
-          <Setting id="OysterSpecific31" type="bool">False</Setting>
           <Setting id="OysterEach31" type="bool">True</Setting>
-          <Setting id="OysterSpecific32" type="bool">False</Setting>
           <Setting id="OysterEach32" type="bool">True</Setting>
-          <Setting id="OysterSpecific33" type="bool">False</Setting>
           <Setting id="OysterEach33" type="bool">True</Setting>
-          <Setting id="OysterSpecific34" type="bool">False</Setting>
           <Setting id="OysterEach34" type="bool">True</Setting>
-          <Setting id="OysterSpecific35" type="bool">False</Setting>
           <Setting id="OysterEach35" type="bool">True</Setting>
-          <Setting id="OysterSpecific36" type="bool">False</Setting>
           <Setting id="OysterEach36" type="bool">True</Setting>
-          <Setting id="OysterSpecific37" type="bool">False</Setting>
           <Setting id="OysterEach37" type="bool">True</Setting>
-          <Setting id="OysterSpecific38" type="bool">False</Setting>
           <Setting id="OysterEach38" type="bool">True</Setting>
-          <Setting id="OysterSpecific39" type="bool">False</Setting>
           <Setting id="OysterEach39" type="bool">True</Setting>
-          <Setting id="OysterSpecific40" type="bool">False</Setting>
           <Setting id="OysterEach40" type="bool">True</Setting>
-          <Setting id="OysterSpecific41" type="bool">False</Setting>
           <Setting id="OysterEach41" type="bool">True</Setting>
-          <Setting id="OysterSpecific42" type="bool">False</Setting>
           <Setting id="OysterEach42" type="bool">True</Setting>
-          <Setting id="OysterSpecific43" type="bool">False</Setting>
           <Setting id="OysterEach43" type="bool">True</Setting>
-          <Setting id="OysterSpecific44" type="bool">False</Setting>
           <Setting id="OysterEach44" type="bool">True</Setting>
-          <Setting id="OysterSpecific45" type="bool">False</Setting>
           <Setting id="OysterEach45" type="bool">True</Setting>
-          <Setting id="OysterSpecific46" type="bool">False</Setting>
           <Setting id="OysterEach46" type="bool">True</Setting>
-          <Setting id="OysterSpecific47" type="bool">False</Setting>
           <Setting id="OysterEach47" type="bool">True</Setting>
-          <Setting id="OysterSpecific48" type="bool">False</Setting>
           <Setting id="OysterEach48" type="bool">True</Setting>
-          <Setting id="OysterSpecific49" type="bool">False</Setting>
           <Setting id="OysterEach49" type="bool">True</Setting>
-          <Setting id="OysterSpecific50" type="bool">False</Setting>
           <Setting id="OysterEach50" type="bool">True</Setting>
           <Setting id="Completed Stunt Jump" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpAll" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific1" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach1" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific2" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach2" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific3" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach3" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific4" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach4" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific5" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach5" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific6" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach6" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific7" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach7" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific8" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach8" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific9" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach9" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific10" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach10" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific11" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach11" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific12" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach12" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific13" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach13" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific14" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach14" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific15" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach15" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific16" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach16" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific17" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach17" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific18" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach18" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific19" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach19" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific20" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach20" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific21" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach21" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific22" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach22" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific23" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach23" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific24" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach24" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific25" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach25" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific26" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach26" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific27" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach27" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific28" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach28" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific29" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach29" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific30" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach30" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific31" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach31" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific32" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach32" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific33" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach33" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific34" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach34" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific35" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach35" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific36" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach36" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific37" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach37" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific38" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach38" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific39" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach39" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific40" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach40" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific41" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach41" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific42" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach42" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific43" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach43" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific44" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach44" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific45" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach45" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific46" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach46" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific47" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach47" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific48" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach48" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific49" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach49" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific50" type="bool">False</Setting>
           <Setting id="Completed Stunt JumpEach50" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific51" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach51" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific52" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach52" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific53" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach53" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific54" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach54" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific55" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach55" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific56" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach56" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific57" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach57" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific58" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach58" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific59" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach59" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific60" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach60" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific61" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach61" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific62" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach62" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific63" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach63" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific64" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach64" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific65" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach65" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific66" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach66" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific67" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach67" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific68" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach68" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific69" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach69" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpSpecific70" type="bool">False</Setting>
-          <Setting id="Completed Stunt JumpEach70" type="bool">True</Setting>
-          <Setting id="Found Stunt Jump" type="bool">True</Setting>
-          <Setting id="Found Stunt JumpAll" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific1" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach1" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific2" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach2" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific3" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach3" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific4" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach4" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific5" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach5" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific6" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach6" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific7" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach7" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific8" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach8" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific9" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach9" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific10" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach10" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific11" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach11" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific12" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach12" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific13" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach13" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific14" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach14" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific15" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach15" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific16" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach16" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific17" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach17" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific18" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach18" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific19" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach19" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific20" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach20" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific21" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach21" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific22" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach22" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific23" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach23" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific24" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach24" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific25" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach25" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific26" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach26" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific27" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach27" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific28" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach28" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific29" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach29" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific30" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach30" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific31" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach31" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific32" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach32" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific33" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach33" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific34" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach34" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific35" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach35" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific36" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach36" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific37" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach37" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific38" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach38" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific39" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach39" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific40" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach40" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific41" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach41" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific42" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach42" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific43" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach43" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific44" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach44" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific45" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach45" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific46" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach46" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific47" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach47" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific48" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach48" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific49" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach49" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific50" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach50" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific51" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach51" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific52" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach52" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific53" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach53" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific54" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach54" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific55" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach55" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific56" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach56" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific57" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach57" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific58" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach58" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific59" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach59" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific60" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach60" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific61" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach61" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific62" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach62" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific63" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach63" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific64" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach64" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific65" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach65" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific66" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach66" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific67" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach67" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific68" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach68" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific69" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach69" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpSpecific70" type="bool">False</Setting>
-          <Setting id="Found Stunt JumpEach70" type="bool">True</Setting>
           <Setting id="Warps" type="bool">True</Setting>
           <Setting id="BustedWarps" type="bool">True</Setting>
           <Setting id="DeathWarps" type="bool">True</Setting>
@@ -3162,11 +2813,11 @@
           <Setting id="DW 'Jizzy' to 'Mountain Cloud Boys'" type="bool">True</Setting>
           <Setting id="DW 'Mike Toreno' to 'Lure'" type="bool">True</Setting>
           <Setting id="DW 'Lure' to 'Paramedic'" type="bool">True</Setting>
-          <Setting id="DW 'The Da Nang Thang' to 'Yay Ka-Boom-Boom'" type="bool">True</Setting>
+          <Setting id="DW 'The Da Nang Thang' to 'Yay Ka-Boom-Boom'" type="bool">False</Setting>
           <Setting id="DW 'Boat School' to 'Yay Ka-Boom-Boom'" type="bool">False</Setting>
           <Setting id="DW 'Boat School' to 'Taxi Driver'" type="bool">True</Setting>
-          <Setting id="DW 'Stretch' to 'Infernus'" type="bool">True</Setting>
-          <Setting id="DW 'Patriot' to 'Infernus'" type="bool">False</Setting>
+          <Setting id="DW 'Stretch' to 'Infernus'" type="bool">False</Setting>
+          <Setting id="DW 'Patriot' to 'Infernus'" type="bool">True</Setting>
           <Setting id="DW 'Export List 1' to 'Rancher'" type="bool">False</Setting>
           <Setting id="DW 'Comet' to 'Stafford'" type="bool">False</Setting>
           <Setting id="DW 'BF Injection' to 'Shooting Range Complete'" type="bool">False</Setting>

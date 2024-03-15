@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Grand Theft Auto: Vice City</GameName>
+  <CategoryName>100% w/ SSSA</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>381</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" />
+    <Attempt id="2" />
+    <Attempt id="3" />
+    <Attempt id="4" />
+    <Attempt id="5" />
+    <Attempt id="6" />
+    <Attempt id="7" />
+    <Attempt id="8" />
+    <Attempt id="9" />
+    <Attempt id="10">
+      <RealTime>09:34:05.1190000</RealTime>
+      <GameTime>09:34:05.1190000</GameTime>
+    </Attempt>
+    <Attempt id="11" />
+    <Attempt id="12" />
+    <Attempt id="13" />
+    <Attempt id="14">
+      <RealTime>08:18:53.3230000</RealTime>
+      <GameTime>08:18:53.3230000</GameTime>
+    </Attempt>
+    <Attempt id="15" />
+    <Attempt id="16" />
+    <Attempt id="17" />
+    <Attempt id="18" />
+    <Attempt id="19" />
+    <Attempt id="20" />
+    <Attempt id="21" />
+    <Attempt id="22" />
+    <Attempt id="23" />
+    <Attempt id="24">
+      <RealTime>08:10:12.5880000</RealTime>
+      <GameTime>08:10:12.5880000</GameTime>
+    </Attempt>
+    <Attempt id="25" />
+    <Attempt id="26">
+      <RealTime>07:59:56.7090000</RealTime>
+      <GameTime>07:59:56.7090000</GameTime>
+    </Attempt>
+    <Attempt id="27" />
+    <Attempt id="28" />
+    <Attempt id="29">
+      <RealTime>07:46:53.9550000</RealTime>
+      <GameTime>07:46:53.9550000</GameTime>
+    </Attempt>
+    <Attempt id="30" />
+    <Attempt id="31" />
+    <Attempt id="32" />
+    <Attempt id="33" />
+    <Attempt id="34" />
+    <Attempt id="35" />
+    <Attempt id="36" />
+    <Attempt id="37" />
+    <Attempt id="38" />
+    <Attempt id="39" />
+    <Attempt id="40" />
+    <Attempt id="41" />
+    <Attempt id="42">
+      <RealTime>07:46:07.1950000</RealTime>
+      <GameTime>07:46:07.1950000</GameTime>
+    </Attempt>
+    <Attempt id="43" />
+    <Attempt id="44" />
+    <Attempt id="45" />
+    <Attempt id="46" />
+    <Attempt id="47" />
+    <Attempt id="48" />
+    <Attempt id="49" />
+    <Attempt id="50" />
+    <Attempt id="51" />
+    <Attempt id="52" />
+    <Attempt id="53" />
+    <Attempt id="54" />
+    <Attempt id="55" />
+    <Attempt id="56" />
+    <Attempt id="57" />
+    <Attempt id="58" />
+    <Attempt id="59" />
+    <Attempt id="60" />
+    <Attempt id="61" />
+    <Attempt id="62" />
+    <Attempt id="63" />
+    <Attempt id="64" />
+    <Attempt id="65" />
+    <Attempt id="66" />
+    <Attempt id="67" />
+    <Attempt id="68" />
+    <Attempt id="69" />
+    <Attempt id="70" />
+    <Attempt id="71" />
+    <Attempt id="72" />
+    <Attempt id="73" />
+    <Attempt id="74" />
+    <Attempt id="75" />
+    <Attempt id="76" />
+    <Attempt id="77">
+      <RealTime>07:44:04.1330000</RealTime>
+      <GameTime>07:44:04.1330000</GameTime>
+    </Attempt>
+    <Attempt id="78" />
+    <Attempt id="79" />
+    <Attempt id="80" />
+    <Attempt id="81" />
+    <Attempt id="82" />
+    <Attempt id="83" />
+    <Attempt id="84" />
+    <Attempt id="85" />
+    <Attempt id="86" />
+    <Attempt id="87" />
+    <Attempt id="88" />
+    <Attempt id="89" />
+    <Attempt id="90" />
+    <Attempt id="91" />
+    <Attempt id="92" />
+    <Attempt id="93" />
+    <Attempt id="94" />
+    <Attempt id="95" />
+    <Attempt id="96" />
+    <Attempt id="97" />
+    <Attempt id="98" />
+    <Attempt id="99" />
+    <Attempt id="100" />
+    <Attempt id="101" />
+    <Attempt id="102" />
+    <Attempt id="103" />
+    <Attempt id="104" />
+    <Attempt id="105" />
+    <Attempt id="106" />
+    <Attempt id="107">
+      <RealTime>07:18:19.2930000</RealTime>
+      <GameTime>07:18:19.2930000</GameTime>
+    </Attempt>
+    <Attempt id="108" />
+    <Attempt id="109" />
+    <Attempt id="110" />
+    <Attempt id="111" />
+    <Attempt id="112" />
+    <Attempt id="113" />
+    <Attempt id="114" />
+    <Attempt id="115" />
+    <Attempt id="116" />
+    <Attempt id="117" />
+    <Attempt id="118" />
+    <Attempt id="119" />
+    <Attempt id="120">
+      <RealTime>07:05:06.1070000</RealTime>
+      <GameTime>07:05:06.1070000</GameTime>
+    </Attempt>
+    <Attempt id="121" />
+    <Attempt id="122" />
+    <Attempt id="123" />
+    <Attempt id="124" />
+    <Attempt id="125" />
+    <Attempt id="126" />
+    <Attempt id="127" />
+    <Attempt id="128" />
+    <Attempt id="129" />
+    <Attempt id="130" />
+    <Attempt id="131" />
+    <Attempt id="132" />
+    <Attempt id="133" />
+    <Attempt id="134" />
+    <Attempt id="135" />
+    <Attempt id="136" />
+    <Attempt id="137" />
+    <Attempt id="138" />
+    <Attempt id="139" />
+    <Attempt id="140" />
+    <Attempt id="141" />
+    <Attempt id="142" />
+    <Attempt id="143" />
+    <Attempt id="144" />
+    <Attempt id="145" />
+    <Attempt id="146" />
+    <Attempt id="147" />
+    <Attempt id="148" />
+    <Attempt id="149" />
+    <Attempt id="150" />
+    <Attempt id="151" />
+    <Attempt id="152" />
+    <Attempt id="153" />
+    <Attempt id="154" />
+    <Attempt id="155" />
+    <Attempt id="156" />
+    <Attempt id="157" />
+    <Attempt id="158" />
+    <Attempt id="159" />
+    <Attempt id="160" />
+    <Attempt id="161" />
+    <Attempt id="162" />
+    <Attempt id="163" />
+    <Attempt id="164" />
+    <Attempt id="165" />
+    <Attempt id="166" />
+    <Attempt id="167" />
+    <Attempt id="168" />
+    <Attempt id="169" />
+    <Attempt id="170" />
+    <Attempt id="171" />
+    <Attempt id="172" />
+    <Attempt id="173" />
+    <Attempt id="174" />
+    <Attempt id="175" />
+    <Attempt id="176" />
+    <Attempt id="177" />
+    <Attempt id="178" />
+    <Attempt id="179" />
+    <Attempt id="180" />
+    <Attempt id="181" />
+    <Attempt id="182" />
+    <Attempt id="183" />
+    <Attempt id="184" />
+    <Attempt id="185" />
+    <Attempt id="186" />
+    <Attempt id="187" />
+    <Attempt id="188" />
+    <Attempt id="189" />
+    <Attempt id="190" />
+    <Attempt id="191" />
+    <Attempt id="192" />
+    <Attempt id="193" />
+    <Attempt id="194" />
+    <Attempt id="195" />
+    <Attempt id="196" />
+    <Attempt id="197" />
+    <Attempt id="198" />
+    <Attempt id="199" />
+    <Attempt id="200" />
+    <Attempt id="201" />
+    <Attempt id="202">
+      <RealTime>07:08:34.0060000</RealTime>
+      <GameTime>07:08:34.0060000</GameTime>
+    </Attempt>
+    <Attempt id="203" />
+    <Attempt id="204" />
+    <Attempt id="205" />
+    <Attempt id="206" />
+    <Attempt id="207" />
+    <Attempt id="208" />
+    <Attempt id="209" />
+    <Attempt id="210" />
+    <Attempt id="211" />
+    <Attempt id="212" />
+    <Attempt id="213" />
+    <Attempt id="214" />
+    <Attempt id="215" />
+    <Attempt id="216" />
+    <Attempt id="217" />
+    <Attempt id="218" />
+    <Attempt id="219" />
+    <Attempt id="220" />
+    <Attempt id="221" />
+    <Attempt id="222" />
+    <Attempt id="223" />
+    <Attempt id="224" />
+    <Attempt id="225" />
+    <Attempt id="226" />
+    <Attempt id="227" />
+    <Attempt id="228" />
+    <Attempt id="229" />
+    <Attempt id="230" />
+    <Attempt id="231" />
+    <Attempt id="232" />
+    <Attempt id="233" />
+    <Attempt id="234" />
+    <Attempt id="235" />
+    <Attempt id="236" />
+    <Attempt id="237" />
+    <Attempt id="238" />
+    <Attempt id="239" />
+    <Attempt id="240" />
+    <Attempt id="241" />
+    <Attempt id="242" />
+    <Attempt id="243" />
+    <Attempt id="244" />
+    <Attempt id="245" />
+    <Attempt id="246" />
+    <Attempt id="247" />
+    <Attempt id="248" />
+    <Attempt id="249" />
+    <Attempt id="250" />
+    <Attempt id="251" />
+    <Attempt id="252" />
+    <Attempt id="253" />
+    <Attempt id="254" />
+    <Attempt id="255" />
+    <Attempt id="256" />
+    <Attempt id="257" />
+    <Attempt id="258" />
+    <Attempt id="259" />
+    <Attempt id="260">
+      <RealTime>06:58:10.4840000</RealTime>
+      <GameTime>06:58:10.4840000</GameTime>
+    </Attempt>
+    <Attempt id="261" />
+    <Attempt id="262" />
+    <Attempt id="263" />
+    <Attempt id="264" />
+    <Attempt id="265" />
+    <Attempt id="266" />
+    <Attempt id="267" />
+    <Attempt id="268" />
+    <Attempt id="269" />
+    <Attempt id="270">
+      <RealTime>06:51:57.8910000</RealTime>
+      <GameTime>06:51:57.8910000</GameTime>
+    </Attempt>
+    <Attempt id="271" />
+    <Attempt id="272" />
+    <Attempt id="273" />
+    <Attempt id="274" />
+    <Attempt id="275" />
+    <Attempt id="276" />
+    <Attempt id="277" />
+    <Attempt id="278" />
+    <Attempt id="279" />
+    <Attempt id="280" />
+    <Attempt id="281" />
+    <Attempt id="282" />
+    <Attempt id="283" />
+    <Attempt id="284" started="05/02/2017 14:47:10" isStartedSynced="True" ended="05/02/2017 14:47:16" isEndedSynced="True" />
+    <Attempt id="285" started="04/08/2020 20:21:46" isStartedSynced="True" ended="04/08/2020 20:25:27" isEndedSynced="True" />
+    <Attempt id="286" started="04/08/2020 20:26:27" isStartedSynced="True" ended="04/08/2020 20:29:26" isEndedSynced="True" />
+    <Attempt id="287" started="04/09/2020 12:24:40" isStartedSynced="True" ended="04/09/2020 12:30:46" isEndedSynced="True" />
+    <Attempt id="288" started="04/09/2020 12:35:15" isStartedSynced="True" ended="04/09/2020 20:34:18" isEndedSynced="True">
+      <RealTime>07:59:03.7980000</RealTime>
+    </Attempt>
+    <Attempt id="289" started="04/12/2020 11:31:01" isStartedSynced="True" ended="04/12/2020 11:31:31" isEndedSynced="True" />
+    <Attempt id="290" started="04/12/2020 11:32:04" isStartedSynced="True" ended="04/12/2020 11:33:39" isEndedSynced="True" />
+    <Attempt id="291" started="04/12/2020 11:33:41" isStartedSynced="True" ended="04/12/2020 19:08:41" isEndedSynced="True">
+      <RealTime>07:35:00.8050000</RealTime>
+    </Attempt>
+    <Attempt id="292" started="04/18/2020 11:01:48" isStartedSynced="True" ended="04/18/2020 11:02:13" isEndedSynced="True" />
+    <Attempt id="293" started="04/18/2020 11:02:15" isStartedSynced="True" ended="04/18/2020 18:45:36" isEndedSynced="True">
+      <RealTime>07:43:22.0940000</RealTime>
+    </Attempt>
+    <Attempt id="294" started="04/24/2020 11:25:14" isStartedSynced="True" ended="04/24/2020 11:25:52" isEndedSynced="True" />
+    <Attempt id="295" started="04/24/2020 11:26:04" isStartedSynced="True" ended="04/24/2020 11:26:55" isEndedSynced="True" />
+    <Attempt id="296" started="04/24/2020 11:26:58" isStartedSynced="True" ended="04/24/2020 19:26:46" isEndedSynced="True">
+      <RealTime>07:59:48.3410000</RealTime>
+    </Attempt>
+    <Attempt id="297" started="05/24/2020 12:26:41" isStartedSynced="True" ended="05/24/2020 12:26:42" isEndedSynced="True" />
+    <Attempt id="298" started="05/24/2020 12:27:45" isStartedSynced="True" ended="05/24/2020 12:28:38" isEndedSynced="True" />
+    <Attempt id="299" started="05/24/2020 12:28:59" isStartedSynced="True" ended="05/24/2020 12:30:07" isEndedSynced="True" />
+    <Attempt id="300" started="05/24/2020 12:30:29" isStartedSynced="True" ended="05/24/2020 12:32:02" isEndedSynced="True" />
+    <Attempt id="301" started="05/24/2020 12:37:13" isStartedSynced="True" ended="05/24/2020 14:29:27" isEndedSynced="True" />
+    <Attempt id="302" started="05/30/2020 12:03:46" isStartedSynced="True" ended="05/30/2020 12:03:48" isEndedSynced="True" />
+    <Attempt id="303" started="05/30/2020 12:04:04" isStartedSynced="True" ended="05/30/2020 12:08:20" isEndedSynced="True" />
+    <Attempt id="304" started="05/30/2020 12:08:23" isStartedSynced="True" ended="05/30/2020 20:13:22" isEndedSynced="True">
+      <RealTime>08:04:58.7470000</RealTime>
+    </Attempt>
+    <Attempt id="305" started="05/31/2020 22:59:37" isStartedSynced="True" ended="05/31/2020 23:32:28" isEndedSynced="True" />
+    <Attempt id="306" started="05/31/2020 23:34:05" isStartedSynced="True" ended="05/31/2020 23:34:20" isEndedSynced="True" />
+    <Attempt id="307" started="05/31/2020 23:34:33" isStartedSynced="True" ended="05/31/2020 23:48:29" isEndedSynced="True" />
+    <Attempt id="308" started="05/31/2020 23:48:47" isStartedSynced="True" ended="05/31/2020 23:55:11" isEndedSynced="True" />
+    <Attempt id="309" started="06/05/2020 12:28:22" isStartedSynced="True" ended="06/05/2020 12:31:34" isEndedSynced="True" />
+    <Attempt id="310" started="06/05/2020 12:31:42" isStartedSynced="True" ended="06/05/2020 12:31:43" isEndedSynced="True" />
+    <Attempt id="311" started="06/05/2020 12:31:44" isStartedSynced="True" ended="06/05/2020 19:58:09" isEndedSynced="True">
+      <RealTime>07:26:25.1140000</RealTime>
+    </Attempt>
+    <Attempt id="312" started="12/23/2023 14:02:16" isStartedSynced="True" ended="12/23/2023 14:15:05" isEndedSynced="True" />
+    <Attempt id="313" started="12/23/2023 14:15:09" isStartedSynced="True" ended="12/23/2023 14:16:13" isEndedSynced="True" />
+    <Attempt id="314" started="12/23/2023 14:16:19" isStartedSynced="True" ended="12/23/2023 22:16:55" isEndedSynced="True">
+      <RealTime>08:00:33.9906243</RealTime>
+    </Attempt>
+    <Attempt id="315" started="01/27/2024 13:02:21" isStartedSynced="True" ended="01/27/2024 13:02:46" isEndedSynced="True" />
+    <Attempt id="316" started="01/27/2024 13:03:26" isStartedSynced="True" ended="01/27/2024 13:04:05" isEndedSynced="True" />
+    <Attempt id="317" started="01/27/2024 13:04:31" isStartedSynced="True" ended="01/27/2024 13:05:03" isEndedSynced="True" />
+    <Attempt id="318" started="01/27/2024 13:05:31" isStartedSynced="True" ended="01/27/2024 13:06:27" isEndedSynced="True" />
+    <Attempt id="319" started="01/27/2024 13:07:01" isStartedSynced="True" ended="01/28/2024 01:34:13" isEndedSynced="True">
+      <RealTime>12:27:10.4618716</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>100% + SSSA</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAA1UlEQVQ4T8WTLRKDMBCFIyo4QkUFx8F1OhgOEVmBqOgxkYgKbrHdt5mX2ZCAqKn4gCzvfeWnBBExYnwKGO7jKTHOBnu5HPTQuHQZlvwshAQl+ZdRXpZNlk+iKCmcI0MBOBR4iZ9VgmHUy1RCp8Ftk3VdM7wtP0MG2dzzAuDDLQFzlYCSInwgKDrF4hfBdXoLqcItga6Ljl/YYFfw7MuWrwZ/FfQY6EMq/jgOnEPuNr1KAYocDI/0NlplnGOOEvuYcEAJBS0o6KfZ9vYxYUMJBWcwl3oSvqz6SR+9CdFdAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>12:27:10.4618716</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>12:27:10.4618716</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
