@@ -5,7 +5,7 @@
 	"Categories": {
 		"Afghanistan": {
 			"Default": "AF",
-			"Colors": {
+			"ColorSchemes": {
 				"AF": {
 					"Outer": "#000000",
 					"Inner": "#007A36",
@@ -15,7 +15,7 @@
 		},
 		"Albania": {
 			"Default": "AL",
-			"Colors": {
+			"ColorSchemes": {
 				"AL": {
 					"Outer": "#FF0000",
 					"Inner": "#000000",
@@ -25,7 +25,7 @@
 		},
 		"Algeria": {
 			"Default": "DZ",
-			"Colors": {
+			"ColorSchemes": {
 				"DZ": {
 					"Outer": "#006633",
 					"Inner": "#FFFFFF",
@@ -35,7 +35,7 @@
 		},
 		"Andorra": {
 			"Default": "AD",
-			"Colors": {
+			"ColorSchemes": {
 				"AD": {
 					"Outer": "#fedd00",
 					"Inner": "#10069f",
@@ -45,7 +45,7 @@
 		},
 		"Angola": {
 			"Default": "AO",
-			"Colors": {
+			"ColorSchemes": {
 				"AO": {
 					"Outer": "#000000",
 					"Inner": "#FFCD00",
@@ -56,7 +56,7 @@
 
 		"AntiguaAndBarbuda": {
 			"Default": "AG",
-			"Colors": {
+			"ColorSchemes": {
 				"AG": {
 					"Outer": "#0072c6",
 					"Inner": "#ce1126",
@@ -66,7 +66,7 @@
 		},
 		"AntiguaBarbuda": {
 			"Default": "AG",
-			"Colors": {
+			"ColorSchemes": {
 				"AG": {
 					"Outer": "#0072c6",
 					"Inner": "#ce1126",
@@ -76,7 +76,7 @@
 		},
 		"Antigua": {
 			"Default": "AG",
-			"Colors": {
+			"ColorSchemes": {
 				"AG": {
 					"Outer": "#0072c6",
 					"Inner": "#ce1126",
@@ -86,7 +86,7 @@
 		},
 		"Barbuda": {
 			"Default": "AG",
-			"Colors": {
+			"ColorSchemes": {
 				"AG": {
 					"Outer": "#0072c6",
 					"Inner": "#ce1126",
@@ -97,7 +97,7 @@
 
 		"Argentina": {
 			"Default": "AR",
-			"Colors": {
+			"ColorSchemes": {
 				"AR": {
 					"Outer": "#FFFFFF",
 					"Inner": "#74ACDF",
@@ -107,7 +107,7 @@
 		},
 		"Armenia": {
 			"Default": "AM",
-			"Colors": {
+			"ColorSchemes": {
 				"AM": {
 					"Outer": "#0033A0",
 					"Inner": "#D90012",
@@ -117,7 +117,7 @@
 		},
 		"Australia": {
 			"Default": "AU",
-			"Colors": {
+			"ColorSchemes": {
 				"AU": {
 					"Outer": "#00843D",
 					"Inner": "#FFCD00",
@@ -127,7 +127,7 @@
 		},
 		"Austria": {
 			"Default": "AT",
-			"Colors": {
+			"ColorSchemes": {
 				"AT": {
 					"Outer": "#C8102E",
 					"Inner": "#FFFFFF",
@@ -137,7 +137,7 @@
 		},
 		"Azerbaijan": {
 			"Default": "AZ",
-			"Colors": {
+			"ColorSchemes": {
 				"AZ": {
 					"Inner": "#00B5E2",
 					"Outer": "#EF3340",
@@ -147,7 +147,7 @@
 		},
 		"Bahamas": {
 			"Default": "BS",
-			"Colors": {
+			"ColorSchemes": {
 				"BS": {
 					"Inner": "#FFC72C",
 					"Outer": "#000000",
@@ -157,7 +157,7 @@
 		},
 		"TheBahamas": {
 			"Default": "BS",
-			"Colors": {
+			"ColorSchemes": {
 				"BS": {
 					"Inner": "#FFC72C",
 					"Outer": "#000000",
@@ -167,7 +167,7 @@
 		},
 		"Bahrain": {
 			"Default": "BH",
-			"Colors": {
+			"ColorSchemes": {
 				"BH": {
 					"Inner": "#DA291C",
 					"Outer": "#FFFFFF",
@@ -177,7 +177,7 @@
 		},
 		"Bangladesh": {
 			"Default": "BD",
-			"Colors": {
+			"ColorSchemes": {
 				"BD": {
 					"Outer": "#006A4E",
 					"Inner": "#F42A41",
@@ -187,7 +187,7 @@
 		},
 		"Barbados": {
 			"Default": "BB",
-			"Colors": {
+			"ColorSchemes": {
 				"BB": {
 					"Outer": "#000000",
 					"Inner": "#00267f",
@@ -197,7 +197,7 @@
 		},
 		"Belarus": {
 			"Default": "BY",
-			"Colors": {
+			"ColorSchemes": {
 				"BY": {
 					"Outer": "#D22730",
 					"Inner": "#ffffff",
@@ -207,7 +207,7 @@
 		},
 		"Belgium": {
 			"Default": "BE",
-			"Colors": {
+			"ColorSchemes": {
 				"BE": {
 					"Outer": "#000000",
 					"Inner": "#FDDA24",
@@ -217,7 +217,7 @@
 		},
 		"Belize": {
 			"Default": "BZ",
-			"Colors": {
+			"ColorSchemes": {
 				"BZ": {
 					"Outer": "#d90f19",
 					"Inner": "#171696",
@@ -227,7 +227,7 @@
 		},
 		"Benin": {
 			"Default": "BJ",
-			"Colors": {
+			"ColorSchemes": {
 				"BJ": {
 					"Outer": "#E90929",
 					"Inner": "#FCD20F",
@@ -237,7 +237,7 @@
 		},
 		"Bhutan": {
 			"Default": "BT",
-			"Colors": {
+			"ColorSchemes": {
 				"BT": {
 					"Outer": "#FFCC33",
 					"Inner": "#ffffff",
@@ -247,7 +247,7 @@
 		},
 		"Bolivia": {
 			"Default": "BO",
-			"Colors": {
+			"ColorSchemes": {
 				"BO": {
 					"Outer": "#DA291C",
 					"Inner": "#F4E400",
@@ -258,7 +258,7 @@
 
 		"BosniaAndHerzegovina": {
 			"Default": "BA",
-			"Colors": {
+			"ColorSchemes": {
 				"BA": {
 					"Outer": "#001489",
 					"Inner": "#FFCD00",
@@ -268,7 +268,7 @@
 		},
 		"BosniaHerzegovina": {
 			"Default": "BA",
-			"Colors": {
+			"ColorSchemes": {
 				"BA": {
 					"Outer": "#001489",
 					"Inner": "#FFCD00",
@@ -278,7 +278,7 @@
 		},
 		"Bosnia": {
 			"Default": "BA",
-			"Colors": {
+			"ColorSchemes": {
 				"BA": {
 					"Outer": "#001489",
 					"Inner": "#FFCD00",
@@ -288,7 +288,7 @@
 		},
 		"Herzegovina": {
 			"Default": "BA",
-			"Colors": {
+			"ColorSchemes": {
 				"BA": {
 					"Outer": "#001489",
 					"Inner": "#FFCD00",
@@ -299,7 +299,7 @@
 
 		"Botswana": {
 			"Default": "BW",
-			"Colors": {
+			"ColorSchemes": {
 				"BW": {
 					"Outer": "#ffffff",
 					"Inner": "#000000",
@@ -309,7 +309,7 @@
 		},
 		"Brazil": {
 			"Default": "BR",
-			"Colors": {
+			"ColorSchemes": {
 				"BR": {
 					"Outer": "#009c3b",
 					"Inner": "#ffdf00",
@@ -319,7 +319,7 @@
 		},
 		"Brunei": {
 			"Default": "BN",
-			"Colors": {
+			"ColorSchemes": {
 				"BN": {
 					"Outer": "#ffffff",
 					"Inner": "#000000",
@@ -329,7 +329,7 @@
 		},
 		"Bulgaria": {
 			"Default": "BG",
-			"Colors": {
+			"ColorSchemes": {
 				"BG": {
 					"Outer": "#D01C1F",
 					"Inner": "#009B74",
@@ -339,7 +339,7 @@
 		},
 		"BurkinaFaso": {
 			"Default": "BF",
-			"Colors": {
+			"ColorSchemes": {
 				"BF": {
 					"Outer": "#EF2B2D",
 					"Inner": "#FCD116",
@@ -349,7 +349,7 @@
 		},
 		"Burundi": {
 			"Default": "BI",
-			"Colors": {
+			"ColorSchemes": {
 				"BI": {
 					"Outer": "#43B02A",
 					"Inner": "#ffffff",
@@ -358,9 +358,329 @@
 			}
 		},
 
+		"CaboVerde": {
+			"Default": "CV",
+			"ColorSchemes": {
+				"CV": {
+					"Outer": "#F7D116",
+					"Inner": "#003893",
+					"Text": "#CF2027"
+				}
+			}
+		},
+		"CapeVerde": {
+			"Default": "CV",
+			"ColorSchemes": {
+				"CV": {
+					"Outer": "#F7D116",
+					"Inner": "#003893",
+					"Text": "#CF2027"
+				}
+			}
+		},
+
+		"Cambodia": {
+			"Default": "KH",
+			"ColorSchemes": {
+				"KH": {
+					"Outer": "#032ea1",
+					"Inner": "#000000",
+					"Text": "#e00025"
+				}
+			}
+		},
+		"Cameroon": {
+			"Default": "CM",
+			"ColorSchemes": {
+				"CM": {
+					"Outer": "#CE1126",
+					"Inner": "#FCD116",
+					"Text": "#007A5E"
+				}
+			}
+		},
+		"Canada": {
+			"Default": "CA",
+			"ColorSchemes": {
+				"CA": {
+					"Outer": "#FF0000",
+					"Inner": "#FFFFFF",
+					"Text": "#FF0000"
+				}
+			}
+		},
+
+		"CentralAfricanRepublic": {
+			"Default": "CF",
+			"ColorSchemes": {
+				"CF": {
+					"Outer": "#003082",
+					"Inner": "#289728",
+					"Text": "#ffce00"
+				}
+			}
+		},
+		"CAR": {
+			"Default": "CF",
+			"ColorSchemes": {
+				"CF": {
+					"Outer": "#003082",
+					"Inner": "#289728",
+					"Text": "#ffce00"
+				}
+			}
+		},
+
+		"Chad": {
+			"Default": "TD",
+			"ColorSchemes": {
+				"TD": {
+					"Outer": "#002664",
+					"Inner": "#c60c30",
+					"Text": "#fecb00"
+				}
+			}
+		},
+		"Chile": {
+			"Default": "CL",
+			"ColorSchemes": {
+				"CL": {
+					"Outer": "#d52b1e",
+					"Inner": "#0039a6",
+					"Text": "#ffffff"
+				}
+			}
+		},
+		"China": {
+			"Default": "CH",
+			"ColorSchemes": {
+				"CH": {
+					"Outer": "#ffff00",
+					"Inner": "#DD0000",
+					"Text": "#DD0000"
+				}
+			}
+		},
+		"Colombia": {
+			"Default": "CO",
+			"ColorSchemes": {
+				"CO": {
+					"Outer": "#003893",
+					"Inner": "#CE1126",
+					"Text": "#FCD116"
+				}
+			}
+		},
+		"Comoros": {
+			"Default": "KM",
+			"ColorSchemes": {
+				"KM": {
+					"Outer": "#FFFFFF",
+					"Inner": "#FFD100",
+					"Text": "#009639"
+				}
+			}
+		},
+
+		"Congo": {
+			"Default": "CG",
+			"ColorSchemes": {
+				"CG": {
+					"Outer": "#FBDE4A",
+					"Inner": "#009543",
+					"Text": "#DC241F"
+				}
+			}
+		},
+		"TheCongo": {
+			"Default": "CG",
+			"ColorSchemes": {
+				"CG": {
+					"Outer": "#FBDE4A",
+					"Inner": "#009543",
+					"Text": "#DC241F"
+				}
+			}
+		},
+		"TheRepublicOfTheCongo": {
+			"Default": "CG",
+			"ColorSchemes": {
+				"CG": {
+					"Outer": "#FBDE4A",
+					"Inner": "#009543",
+					"Text": "#DC241F"
+				}
+			}
+		},
+		"RepublicOfTheCongo": {
+			"Default": "CG",
+			"ColorSchemes": {
+				"CG": {
+					"Outer": "#FBDE4A",
+					"Inner": "#009543",
+					"Text": "#DC241F"
+				}
+			}
+		},
+		"RepublicCongo": {
+			"Default": "CG",
+			"ColorSchemes": {
+				"CG": {
+					"Outer": "#FBDE4A",
+					"Inner": "#009543",
+					"Text": "#DC241F"
+				}
+			}
+		},
+		"CongoRepublic": {
+			"Default": "CG",
+			"ColorSchemes": {
+				"CG": {
+					"Outer": "#FBDE4A",
+					"Inner": "#009543",
+					"Text": "#DC241F"
+				}
+			}
+		},
+
+		"DrCongo": {
+			"Default": "CD",
+			"ColorSchemes": {
+				"CD": {
+					"Outer": "#f7d618",
+					"Inner": "#ce1021",
+					"Text": "#007fff"
+				}
+			}
+		},
+		"DoctorCongo": {
+			"Default": "CD",
+			"ColorSchemes": {
+				"CD": {
+					"Outer": "#f7d618",
+					"Inner": "#ce1021",
+					"Text": "#007fff"
+				}
+			}
+		},
+		"DemocraticRepublicOfTheCongo": {
+			"Default": "CD",
+			"ColorSchemes": {
+				"CD": {
+					"Outer": "#f7d618",
+					"Inner": "#ce1021",
+					"Text": "#007fff"
+				}
+			}
+		},
+		"TheDemocraticRepublicOfTheCongo": {
+			"Default": "CD",
+			"ColorSchemes": {
+				"CD": {
+					"Outer": "#f7d618",
+					"Inner": "#ce1021",
+					"Text": "#007fff"
+				}
+			}
+		},
+
+		"CostaRica": {
+			"Default": "CR",
+			"ColorSchemes": {
+				"CR": {
+					"Outer": "#ffffff",
+					"Text": "#DA291C",
+					"Inner": "#001489"
+				}
+			}
+		},
+
+		"CoatyFar": {
+			"Default": "CI",
+			"ColorSchemes": {
+				"CI": {
+					"Outer": "#ffffff",
+					"Inner": "#009A44",
+					"Text": "#FF8200"
+				}
+			}
+		},
+		"IvoryCoast": {
+			"Default": "CI",
+			"ColorSchemes": {
+				"CI": {
+					"Outer": "#ffffff",
+					"Inner": "#009A44",
+					"Text": "#FF8200"
+				}
+			}
+		},
+		"CoteDIvoire": {
+			"Default": "CI",
+			"ColorSchemes": {
+				"CI": {
+					"Outer": "#ffffff",
+					"Inner": "#009A44",
+					"Text": "#FF8200"
+				}
+			}
+		},
+
+		"Croatia": {
+			"Default": "HR",
+			"ColorSchemes": {
+				"HR": {
+					"Outer": "#FF0000",
+					"Inner": "#171796",
+					"Text": "#FFFFFF"
+				}
+			}
+		},
+		"Cuba": {
+			"Default": "CU",
+			"ColorSchemes": {
+				"CU": {
+					"Text": "#CC0D0D",
+					"Outer": "#002590",
+					"Inner": "#FFFFFF"
+				}
+			}
+		},
+		"Cyprus": {
+			"Default": "CY",
+			"ColorSchemes": {
+				"CY": {
+					"Text": "#FFFFFF",
+					"Outer": "#d57800",
+					"Inner": "#FFFFFF"
+				}
+			}
+		},
+
+		"Czechia": {
+			"Default": "CZ",
+			"ColorSchemes": {
+				"CZ": {
+					"Outer": "#FFFFFF",
+					"Text": "#D7141A",
+					"Inner": "#11457E"
+				}
+			}
+		},
+		"CzechRepublic": {
+			"Default": "CZ",
+			"ColorSchemes": {
+				"CZ": {
+					"Outer": "#FFFFFF",
+					"Text": "#D7141A",
+					"Inner": "#11457E"
+				}
+			}
+		},
+
 		"none": {
 			"Default": "BnW",
-			"Colors": {
+			"ColorSchemes": {
 				"BnW": {
 					"Outer": "#000000",
 					"Inner": "#ffffff",
@@ -381,7 +701,7 @@
 		},
 		"disabled": {
 			"Default": "BnW",
-			"Colors": {
+			"ColorSchemes": {
 				"BnW": {
 					"Outer": "#000000",
 					"Inner": "#ffffff",

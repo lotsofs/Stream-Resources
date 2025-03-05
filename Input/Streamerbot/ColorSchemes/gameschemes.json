@@ -1,8 +1,18 @@
 {
 	"Categories": {
+		"Christmas": {
+			"Default": "Christmas",
+			"ColorSchemes": {
+				"Christmas": {
+					"Outer": "#FF0000",
+					"Inner": "#FFFFFF",
+					"Text": "#00AF00"
+				}
+			}
+		},
 		"AoE2DE": {
 			"Default": "Nomad",
-			"Colors": {
+			"ColorSchemes": {
 				"Nomad": {
 					"Outer": "#744427",
 					"Inner": "#caac8d",
@@ -12,7 +22,7 @@
 		},
 		"GTA3": {
 			"Default": "Radar",
-			"Colors": {
+			"ColorSchemes": {
 				"Radar": {
 					"Outer": "#a9783b",
 					"Inner": "#cc9147",
@@ -22,7 +32,7 @@
 		},
 		"GTAVC": {
 			"Default": "Hud",
-			"Colors": {
+			"ColorSchemes": {
 				"Weapon": {
 					"Outer": "#2bf4e7",
 					"Inner": "#cd49c2",
@@ -37,7 +47,7 @@
 		},
 		"GTASA": {
 			"Default": "Health",
-			"Colors": {
+			"ColorSchemes": {
 				"Health": {
 					"Outer": "#000200",
 					"Inner": "#3d6035",
@@ -47,7 +57,7 @@
 		},
 		"GTA4": {
 			"Default": "Health",
-			"Colors": {
+			"ColorSchemes": {
 				"Health": {
 					"Outer": "#000000",
 					"Inner": "#577C58",
@@ -57,7 +67,7 @@
 		},
 		"GTA5": {
 			"Default": "Power",
-			"Colors": {
+			"ColorSchemes": {
 				"Power": {
 					"Outer": "#332f2a",
 					"Inner": "#bfa036",
@@ -67,7 +77,7 @@
 		},
 		"GUN": {
 			"Default": "StreamBG",
-			"Colors": {
+			"ColorSchemes": {
 				"StreamBG": {
 					"Outer": "#694C33",
 					"Inner": "#A16E49",
@@ -77,7 +87,7 @@
 		},
 		"HITMAN": {
 			"Default": "Minimap",
-			"Colors": {
+			"ColorSchemes": {
 				"Minimap": {
 					"Outer": "#EBEEE7",
 					"Inner": "#656764",
@@ -85,9 +95,19 @@
 				}
 			}
 		},
+		"HL2": {
+			"Default": "HUD",
+			"ColorSchemes": {
+				"HUD": {
+					"Outer": "#bf8f30",
+					"Inner": "#bfac30",
+					"Text": "#bfac30"
+				}
+			}
+		},
 		"HL2Ep2": {
 			"Default": "HUD",
-			"Colors": {
+			"ColorSchemes": {
 				"HUD": {
 					"Outer": "#bf8f30",
 					"Inner": "#bfac30",
@@ -97,7 +117,7 @@
 		},
 		"KTANE": {
 			"Default": "Unsolved",
-			"Colors": {
+			"ColorSchemes": {
 				"Unsolved": {
 					"Outer": "#161513",
 					"Inner": "#87786c",
@@ -127,7 +147,7 @@
 		},
 		"L4D2": {
 			"Default": "Healthy",
-			"Colors": {
+			"ColorSchemes": {
 				"Healthy": {
 					"Inner": "#8FF008",
 					"Outer": "#294D00",
@@ -157,7 +177,7 @@
 		},
 		"MELE": {
 			"Default": "Weapon",
-			"Colors": {
+			"ColorSchemes": {
 				"Weapon": {
 					"Outer": "#2d5759",
 					"Inner": "#619799",
@@ -167,7 +187,7 @@
 		},
 		"Portal2": {
 			"Default": "Orange",
-			"Colors": {
+			"ColorSchemes": {
 				"Orange": {
 					"Outer": "#020508",
 					"Inner": "#390303",
@@ -183,7 +203,7 @@
 		
 		"SS2": {
 			"Default": "Logo",
-			"Colors": {
+			"ColorSchemes": {
 				"Logo": {
 					"Outer": "#EB122B",
 					"Inner": "#FCDD2B",
@@ -204,7 +224,7 @@
 		},
 		"SWAT4": {
 			"Default": "Menu",
-			"Colors": {
+			"ColorSchemes": {
 				"Menu": {
 					"Outer": "#000000",
 					"Text": "#fffbff",
@@ -243,9 +263,9 @@
 				"LabelGold": "#ceac35"
 			}
 		},
-		"TR3": {
+		"TR123DE": {
 			"Default": "Menu",
-			"Colors": {
+			"ColorSchemes": {
 				"Menu": {
 					"Inner": "#B85423",
 					"Outer": "#090908",
@@ -255,7 +275,7 @@
 		},
 		"VCD": {
 			"Default": "PersonalLog",
-			"Colors": {
+			"ColorSchemes": {
 				"PersonalLog": {
 					"Inner": "#C5BA09",
 					"Outer": "#FEFCF1",
@@ -265,7 +285,7 @@
 		},
 		"WA": {
 			"Default": "Menu",
-			"Colors": {
+			"ColorSchemes": {
 				"Menu": {
 					"Outer": "#000000",
 					"Inner": "#00008c",
@@ -275,7 +295,7 @@
 		},
 		"none": {
 			"Default": "BnW",
-			"Colors": {
+			"ColorSchemes": {
 				"BnW": {
 					"Outer": "#000000",
 					"Inner": "#ffffff",
@@ -296,7 +316,7 @@
 		},
 		"disabled": {
 			"Default": "BnW",
-			"Colors": {
+			"ColorSchemes": {
 				"BnW": {
 					"Outer": "#000000",
 					"Inner": "#ffffff",

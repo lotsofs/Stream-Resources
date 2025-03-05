@@ -1,0 +1,133 @@
+{
+	"13389": {
+		"Name": "AoE2DE",
+		"Executables": [
+			"none",
+			"none",
+			"none",
+			"none",
+			"AoE2DE_s.exe"
+		]
+	},
+	"3412": {
+		"Name": "GTA3",
+		"Executables": [
+			"gta3.exe"
+		]
+	},
+	"15631": {
+		"Name": "GTAVC",
+		"Executables": [
+			"gta-vc.exe"
+		]
+	},
+	"6521": {
+		"Name": "GTASA",
+		"Executables": [
+			"gta-sa.exe",
+			"gta_sa.exe"
+		]
+	},
+	"18707": {
+		"Name": "GTA4",
+		"Executables": [
+			"GTAIV.exe"
+		]
+	},
+	"32982": {
+		"Name": "GTA5",
+		"Executables": [
+			"gta5.exe"
+		]
+	},
+	"8136": {
+		"Name": "GUN",
+		"Executables": [
+			"Gun.exe"
+		]
+	},
+	"1555728185": {
+		"Name": "HITMAN",
+		"Executables": [
+			"HITMAN.exe"
+		]
+	},
+	"1420": {
+		"Name": "HL2",
+		"Executables": [
+			"hl2.exe"
+		]
+	},
+	"8694": {
+		"Name": "HL2Ep2",
+		"Executables": [
+			"hl2.exe"
+		]
+	},
+	"461492": {
+		"Name": "KTANE",
+		"Executables": [
+			"ktane.exe"
+		]
+	},
+	"24193": {
+		"Name": "L4D2",
+		"Executables": [
+			"left4dead2.exe"
+		]
+	},
+	"1568081763": {
+		"Name": "MELE",
+		"Executables": [
+			"MassEffectLauncher.exe",
+			"MassEffect1.exe"
+		]
+	},
+	"19731": {
+		"Name": "Portal2",
+		"Executables": [
+			"portal2.exe"
+		]
+	},
+	"511701": {
+		"Name": "RoN",
+		"Executables": [
+			"ReadyOrNot.exe"
+		]
+	},
+	"4609": {
+		"Name": "SS2",
+		"Executables": [
+			"Sam2.exe"
+		]
+	},
+	"6670": {
+		"Name": "SWAT4",
+		"Executables": [
+			"Swat4.exe",
+			"Swat4X.exe"
+		]
+	},
+	"1819887434": {
+		"Name": "TR123DE",
+		"Executables": [
+			"tomb123.exe"
+		]
+	},
+	"417711": {
+		"Name": "VCD",
+		"Executables": [
+			"UDK.exe"
+		]
+	},
+	"15825": {
+		"Name": "WA",
+		"Executables": [
+			"WA.exe"
+		]
+	},
+	"0": {
+		"Name": "None",
+		"Executables": []
+	}
+}

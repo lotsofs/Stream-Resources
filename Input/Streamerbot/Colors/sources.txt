@@ -7,3 +7,11 @@ Does not include 'orange'.
 Extended CSS colors/HTML colors. Source as implemented by System.Drawing.Color in .net resource.
 "Extended colors" table of https://en.wikipedia.org/wiki/Web_colors 
 Includes 'RebeccaPurple' and alternate spellings of the 7 shades of Græy
+
+# crayola.json
+From https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors#Standard_colors section Standard Colors only.
+Retrieved 2024-04-25
+
+# encycolorpedia.json
+Taken from https://encycolorpedia.com/named on 2024-04-25.
+Includes duplicates. Ambiguity resolved by marking them "<name> 1" and "<name> 2"
