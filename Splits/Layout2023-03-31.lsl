@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2704</X>
-  <Y>24</Y>
+  <X>2802</X>
+  <Y>22</Y>
   <VerticalWidth>528</VerticalWidth>
   <VerticalHeight>1033</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -615,7 +615,6 @@
           <Setting id="Home Invasion" type="bool">True</Setting>
           <Setting id="Catalyst" type="bool">True</Setting>
           <Setting id="Robbing Uncle Sam" type="bool">True</Setting>
-          <Setting id="Reuniting the Families" type="bool">True</Setting>
           <Setting id="Burning Desire" type="bool">True</Setting>
           <Setting id="Gray Imports" type="bool">True</Setting>
           <Setting id="itb" type="bool">True</Setting>
@@ -654,6 +653,24 @@
           <Setting id="hslr" type="bool">True</Setting>
           <Setting id="High Stakes Lowrider Started" type="bool">True</Setting>
           <Setting id="High Stakes Lowrider" type="bool">True</Setting>
+          <Setting id="rtf" type="bool">True</Setting>
+          <Setting id="Reuniting the Families Started" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Car Entered" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Motel Marker Reached" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Motel Arrival Cutscene Skipped" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Motel Entered" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Stairs Entered" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: First Corner" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Ambush" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: First Hall" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Second Hall" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Reached Sweet in Motel" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Entered Rooftop in Cutscene" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Helicopter Combat Start" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Helicopter Destroyed" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Reached Sweet after Helicopter Fight" type="bool">True</Setting>
+          <Setting id="Reuniting the Families: Chase Start" type="bool">True</Setting>
+          <Setting id="Reuniting the Families" type="bool">True</Setting>
           <Setting id="tgs" type="bool">True</Setting>
           <Setting id="The Green Sabre Started" type="bool">True</Setting>
           <Setting id="The Green Sabre: End of initial cutscene" type="bool">True</Setting>
@@ -664,13 +681,50 @@
           <Setting id="The Green Sabre: Parking lot shootout end" type="bool">True</Setting>
           <Setting id="The Green Sabre: Start of cutscene with Tenpenny" type="bool">True</Setting>
           <Setting id="The Green Sabre" type="bool">True</Setting>
-          <Setting id="Badlands" type="bool">True</Setting>
-          <Setting id="King in Exile" type="bool">True</Setting>
           <Setting id="Tanker Commander" type="bool">True</Setting>
           <Setting id="Small Town Bank" type="bool">True</Setting>
           <Setting id="Local Liquor Store" type="bool">True</Setting>
-          <Setting id="Against All Odds" type="bool">True</Setting>
           <Setting id="Body Harvest" type="bool">True</Setting>
+          <Setting id="bl" type="bool">True</Setting>
+          <Setting id="Badlands Started" type="bool">True</Setting>
+          <Setting id="Badlands: Mountain Base" type="bool">True</Setting>
+          <Setting id="Badlands: Cabin Reached" type="bool">True</Setting>
+          <Setting id="Badlands: Cabin Cutscene" type="bool">True</Setting>
+          <Setting id="Badlands: Reporter Dead" type="bool">True</Setting>
+          <Setting id="Badlands: Photo Taken" type="bool">True</Setting>
+          <Setting id="Badlands" type="bool">True</Setting>
+          <Setting id="catalina quadrilogy" type="bool">True</Setting>
+          <Setting id="First Date Started" type="bool">True</Setting>
+          <Setting id="First Base Started" type="bool">True</Setting>
+          <Setting id="Gone Courting Started" type="bool">True</Setting>
+          <Setting id="Made in Heaven Started" type="bool">True</Setting>
+          <Setting id="aao" type="bool">True</Setting>
+          <Setting id="Against All Odds Started" type="bool">True</Setting>
+          <Setting id="AAO: Robbery Cutscene Ended" type="bool">True</Setting>
+          <Setting id="AAO: Door Satchel Placed" type="bool">True</Setting>
+          <Setting id="AAO: Door Blown" type="bool">True</Setting>
+          <Setting id="AAO: Store Left" type="bool">True</Setting>
+          <Setting id="AAO: 4th Wanted Level Star Lost" type="bool">True</Setting>
+          <Setting id="AAO: 3rd Wanted Level Star Lost" type="bool">True</Setting>
+          <Setting id="AAO: 2nd Wanted Level Star Lost" type="bool">True</Setting>
+          <Setting id="AAO: 1st Wanted Level Star Lost" type="bool">True</Setting>
+          <Setting id="AAO: Final Marker Entered" type="bool">True</Setting>
+          <Setting id="Against All Odds" type="bool">True</Setting>
+          <Setting id="kie" type="bool">True</Setting>
+          <Setting id="King in Exile Started" type="bool">True</Setting>
+          <Setting id="King in Exile" type="bool">True</Setting>
+          <Setting id="wzm" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Started" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Starting Cutscene Ended" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Race Finished" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu Ending Cutscene Started" type="bool">True</Setting>
+          <Setting id="Wu Zi Mu" type="bool">True</Setting>
+          <Setting id="fml" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Started" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Starting Cutscene Ended" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Race Finished" type="bool">True</Setting>
+          <Setting id="Farewell, My Love Ending Cutscene Started" type="bool">True</Setting>
+          <Setting id="Farewell, My Love" type="bool">True</Setting>
           <Setting id="aygtsf" type="bool">True</Setting>
           <Setting id="Are You Going To San Fierro? Started" type="bool">True</Setting>
           <Setting id="AYGTSF: 1 Plants Destroyed" type="bool">True</Setting>
@@ -722,18 +776,6 @@
           <Setting id="AYGTSF: Mothership Entered" type="bool">True</Setting>
           <Setting id="AYGTSF: Arrival at the Garage" type="bool">True</Setting>
           <Setting id="Are You Going To San Fierro?" type="bool">True</Setting>
-          <Setting id="wzm" type="bool">True</Setting>
-          <Setting id="Wu Zi Mu Started" type="bool">True</Setting>
-          <Setting id="Wu Zi Mu Starting Cutscene Ended" type="bool">True</Setting>
-          <Setting id="Wu Zi Mu Race Finished" type="bool">True</Setting>
-          <Setting id="Wu Zi Mu Ending Cutscene Started" type="bool">True</Setting>
-          <Setting id="Wu Zi Mu" type="bool">True</Setting>
-          <Setting id="fml" type="bool">True</Setting>
-          <Setting id="Farewell, My Love Started" type="bool">True</Setting>
-          <Setting id="Farewell, My Love Starting Cutscene Ended" type="bool">True</Setting>
-          <Setting id="Farewell, My Love Race Finished" type="bool">True</Setting>
-          <Setting id="Farewell, My Love Ending Cutscene Started" type="bool">True</Setting>
-          <Setting id="Farewell, My Love" type="bool">True</Setting>
           <Setting id="Mountain Cloud Boys" type="bool">True</Setting>
           <Setting id="Ran Fa Li" type="bool">True</Setting>
           <Setting id="Lure" type="bool">True</Setting>
@@ -2340,9 +2382,9 @@
           <Setting id="Los Santos Gym Entered" type="bool">True</Setting>
           <Setting id="San Fierro Gym Entered" type="bool">True</Setting>
           <Setting id="Las Venturas Gym Entered" type="bool">True</Setting>
-          <Setting id="Talk to gym leader gymls" type="bool">True</Setting>
-          <Setting id="Talk to gym leader gymsf" type="bool">True</Setting>
-          <Setting id="Talk to gym leader gymlv" type="bool">True</Setting>
+          <Setting id="Los Santos Gym Fight Start" type="bool">True</Setting>
+          <Setting id="San Fierro Gym Fight Start" type="bool">True</Setting>
+          <Setting id="Las Venturas Gym Fight Start" type="bool">True</Setting>
           <Setting id="Los Santos Gym Moves" type="bool">True</Setting>
           <Setting id="San Fierro Gym Moves" type="bool">True</Setting>
           <Setting id="Las Venturas Gym Moves" type="bool">True</Setting>
